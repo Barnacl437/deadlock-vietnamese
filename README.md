@@ -19,6 +19,7 @@ There are some progress of replacing English texts inside with the `main` file w
 
 ## can i fix something mate?
 You are absolutely welcome to jump in! For the fairest dinkum localisation efforts, it is recommended that you have played the game before (so that you can check for faults and also to know about the game itself), getting well with gaming terms and item naming, descriptions, etc., a bit salty wording is okay but don't break the overall intention of developers. And ultimately, it is the best to be a native Vietnamese knowing all these stuff, though not required, just anyone with a competent knowledge of the language is fine. That's why I am needing help right now. I feel that only myself might not do them all well, and any translation inside there could be not at its peak accuracy. Thanks mates.
+Edit: an irl friend joined me and helped a bit. thanks!
 
 ## seems interesting! how can i try the translation in advance of perfection?
 Just download the [repo source code here](https://github.com/Barnacl437/deadlock-vietnamese/archive/refs/heads/main.zip), unzip the `localization` folder and copy/move the said folder into this directory (accept the overwrite files dialog): `[...]\steamapps\common\Deadlock\game\citadel\resource`, where `[...]` is where your Steam Library is located, i.e. where your Steam games are to be installed into.  
