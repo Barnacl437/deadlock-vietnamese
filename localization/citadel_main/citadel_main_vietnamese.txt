@@ -424,8 +424,8 @@
 		"Citadel_Play_MatchmakingOfflineTitle"				"Matchmaking đã đóng"
 		"Citadel_Play_MatchmakingOfflineText"				"Matchmaking đã bị đóng gần đây. Vui lòng quay lại vào thời gian đã được lên lịch"
 
-		"Citadel_Play_BotsOfflineTitle"				"Bots Temporarily Offline"
-		"Citadel_Play_BotsOfflineText"				"Bots are temporarily disabled, please check back later."
+		"Citadel_Play_BotsOfflineTitle"				"Bots tạm thời ngoại tuyến"
+		"Citadel_Play_BotsOfflineText"				"Bots tạm thời không khả dụng, vui lòng kiểm tra lại lần sau."
 
 		"BotMatchWarning_Title"						"Bot AI in Early Stages"
 		"BotMatchWarning_EarlyGame"					"Bots are great to practice fighting against, but struggle with grouping up and pushing objectives."
