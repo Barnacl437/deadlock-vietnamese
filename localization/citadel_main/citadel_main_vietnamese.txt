@@ -1419,7 +1419,7 @@
 		"CitadelShop_SearchExampleAlt"			"Try searching by <span class=\"highlight\">Item Name</span> or by stat such as <span class=\"highlight_weapon\">Ammo</span>, <span class=\"highlight_vitality\">Lifesteal</span> or <span class=\"highlight_spirit\">Spirit Power</span>."
 
 		"Citadel_Dead_ShopReminder"				"Cửa hàng & nâng cấp"
-		"Citadel_Dead_ReplayDeath"				"Phát lại lúc bị tiêu diệt"
+		"Citadel_Dead_ReplayDeath"				"Phát lại sau khi chết"
 
 
 		//-----------------------------------------------------------------------------
@@ -1431,8 +1431,8 @@
 		"modifier_citadel_sprint_start"			"Holstering Weapon..."
 		"modifier_citadel_sprint_end"			"Unholstering Weapon..."
 
-		"trooper_boss_grenade"					"Stun Grenade"
-		"trooper_neutral_grenade"				"Stun Grenade"
+		"trooper_boss_grenade"					"Lựu choáng"
+		"trooper_neutral_grenade"				"Lựu choáng"
 		"citadel_ability_tier2boss_laser_beam"		"Laser"
 		"citadel_ability_tier2boss_stomp"			"Stomp"
 		"citadel_ability_tier2boss_rocket_barrage"	"Rocket Barrage"
@@ -1445,18 +1445,18 @@
 		"citadel_ability_drone_boss_laser_beam"		"Boss Laser"
 
 		
-		"citadel_ability_dash"						"Dash"
-		"citadel_ability_jump"						"Jump"
-		"citadel_ability_teleport"					"Teleport"
+		"citadel_ability_dash"						"Lướt"
+		"citadel_ability_jump"						"Nhảy"
+		"citadel_ability_teleport"					"Dịch chuyển"
 
 		"citadel_ability_zip_line"					"Hyperline"
 
 
 		// IN-GAME MODIFIERS
-		"modifier_idol_pickup_aura/aura_target/timer"			"Picking up Soul Urn"
-		"modifier_neutral_gold_pickup_aura/aura_target/timer"	"Picking up Unsecured Souls"
-		"modifier_rejuv_pickup_aura/aura_target/timer"			"Picking up Team Rejuvenator"
-		"modifier_early_gold_pickup_aura/aura_target/timer"		"Capturing Team Souls"
+		"modifier_idol_pickup_aura/aura_target/timer"			"Đang nhặt Soul Urn"
+		"modifier_neutral_gold_pickup_aura/aura_target/timer"	"Đang nhặt Unsecured Souls"
+		"modifier_rejuv_pickup_aura/aura_target/timer"			"Đang nhặt Team Rejuvenator"
+		"modifier_early_gold_pickup_aura/aura_target/timer"		"Đang chiếm Team Souls"
 		"modifier_citadel_holding_golden_idol"  				"Bring Urn to an Altar"
 		"modifier_citadel_returning_golden_idol"  				"Depositing Urn"
 		"modifier_knocked_off_zipline_slow"						"Knocked off zipline"
@@ -1470,8 +1470,8 @@
 
 		//****************************************************************************************************************************************************************************
 
-		"CITADEL_ABILITY_INVALID_IN_CAST_DELAY"			"Already activated"
-		"CITADEL_ABILITY_INVALID_IN_COOLDOWN"			"Still in cooldown"
+		"CITADEL_ABILITY_INVALID_IN_CAST_DELAY"			"Đã kích hoạt"
+		"CITADEL_ABILITY_INVALID_IN_COOLDOWN"			"Đang hồi chiêu"
 		"CITADEL_ABILITY_INVALID_NOT_LEARNED"			"Not yet learned"
 		"CITADEL_ABILITY_INVALID_CANT_CAST_NO_CHARGES"	"Not enough charges"
 		"CITADEL_ABILITY_INVALID_CANT_CAST_IN_CHARGE_DELAY"	"Charge delay"
@@ -1912,10 +1912,10 @@
 		"citadel_game_audio_press_unmute"				"Nhấn [{s:key_toggle_mute}] để mở tiếng"
 
 		// Names for key binds. Only need to add unique binds.
-		"ExtraInfo"										"Extra Info"
-		"Scoreboard"									"Scoreboard"
-		"PushToTalk"									"Push to talk"
-		"OpenHeroSheet"									"Open Shop"
+		"ExtraInfo"										"Thông tin thêm"
+		"Scoreboard"									"Bảng điểm"
+		"PushToTalk"									"Giữ để nói"
+		"OpenHeroSheet"									"Mở cửa hàng"
 
 
 		"citadel_clientversion"							"Build {d:client_version_number}"
