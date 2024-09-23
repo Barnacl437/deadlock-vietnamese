@@ -1,5 +1,7 @@
 bạn nói tiếng Việt? hãy đọc [readme ở đây!](https://github.com/Barnacl437/deadlock-vietnamese/blob/main/README-vi.md).
 
+also available on [Deadlock forum](https://forums.playdeadlock.com/resources/vietnamese-localisation-b%E1%BA%A3n-%C4%91%E1%BB%8Ba-h%C3%B3a-ti%E1%BA%BFng-vi%E1%BB%87t.23/) in resources section btw
+
 # deadlock-vietnamese
 An attempt to see and play Deadlock in *Vietnamese texts*. A (sort of) localisation project.
 
