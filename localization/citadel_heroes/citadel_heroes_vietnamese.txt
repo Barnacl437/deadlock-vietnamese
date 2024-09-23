@@ -235,7 +235,7 @@
 		"citadel_ability_psychic_daggers_desc"		"Telekinetically throw cards that <span class=\"highlight\">hit random targets</span> around you."
 
 		"citadel_ability_projectmind"			"Project Mind"
-		"citadel_ability_projectmind_quip"		"Teleport to the targeted location"
+		"citadel_ability_projectmind_quip"		"Dịch chuyển tới vị trí đã đặt"
 		"citadel_ability_projectmind_desc"			"<span class=\"highlight\">Teleport</span> to the targeted location."
 		"BulletShieldOnLand_label"				"Bullet Shield on Teleport"
 		"citadel_ability_projectmind_t2_desc"	"Provides a <span class=\"highlight\">{s:BulletShieldOnLand} bullet shield</span> for {s:BulletShieldDuration}s on teleport. Shield amount scales with Spirit Power."
@@ -251,7 +251,7 @@
 		"citadel_ability_psychic_daggers_t3_desc"	"Each card <span class=\"highlight\">bounces once</span> onto another enemy in range"
 		"DamagePerDagger_label"					"Damage per card"
 
-		"citadel_ability_wraith_rapidfire"		"Full Auto"
+		"citadel_ability_wraith_rapidfire"		"Tự động"
 		"citadel_ability_wraith_rapidfire_quip"	"Boost your fire rate"
 		"citadel_ability_wraith_rapidfire_desc"	"Temporarily boosts your <span class=\"highlight\">fire rate</span>. Nearby allies receive half the fire rate bonus."
 		"citadel_ability_wraith_rapidfire/modifier_rapidfire" "Rapid Fire"
@@ -311,7 +311,7 @@
 
 		"ability_self_purge_t1_desc"	"Permanent Ammo <span class=\"highlight\">+{s:ClipBonusOnHit}</span> for every enemy Hero hit by the explosion"
 
-		"DamagePerBullet_label"					"Damage Per Bullet"
+		"DamagePerBullet_label"					"Sát thương mỗi viên"
 
 		"modifier_drone_heal"					"Medic Drone"
 		"modifier_drone_heal_watcher"			"Medic Drone"
@@ -334,7 +334,7 @@
 		"DroneHealthRegen_label"					"Health Regen"
 		"DroneHealthRegen_postfix"				"/s"
 		"DroneBonusMoveSpeed_prefix"			"{s:sign}"
-		"DroneBonusMoveSpeed_label"			"Move Speed"
+		"DroneBonusMoveSpeed_label"			"Tốc độ di chuyển"
 		"DroneBonusMoveSpeed_postfix"			""
 		"DroneBonusReloadTime_label"			"Reload Time"
 		"DroneBonusReloadTime_postfix"		"%"
@@ -404,7 +404,7 @@
 
 		"TriggerDelay_label"						"Explosion Delay"
 		"TriggerDelay_postfix"					"s"
-		"TotalDamage_label"						"Total Damage"
+		"TotalDamage_label"						"Tổng sát thương"
 		"TimeFreeze_label"						"Time Freeze"
 		"TimeFreeze_postfix"						"s"
 		"modifier_citadel_time_bomb_fuse"			"Time Bomb Fuse"
@@ -556,7 +556,7 @@
 		"FlameDashDebuffDuration_label"	"Debuff Duration"
 		"FlameDashDebuffDuration_postfix" "s"
 
-		"DashTime_label"					"Dash Time"
+		"DashTime_label"					"Thời gian lướt"
 		"DashTime_postfix"				"s"
 
 		"FlameAuraDPS_label"				"DPS"
