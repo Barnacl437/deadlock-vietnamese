@@ -1,61 +1,52 @@
-bạn nói tiếng Việt? hãy đọc [readme ở đây!](https://github.com/Barnacl437/deadlock-vietnamese/blob/main/README-vi.md).
-
-also available on [Deadlock forum](https://forums.playdeadlock.com/resources/vietnamese-localisation-b%E1%BA%A3n-%C4%91%E1%BB%8Ba-h%C3%B3a-ti%E1%BA%BFng-vi%E1%BB%87t.23/) in resources section btw
+[english readme](https://github.com/Barnacl437/deadlock-vietnamese/blob/main/README-en.md) (may not be consistent with vietnamese one)
 
 # deadlock-vietnamese
-An attempt to see and play Deadlock in *Vietnamese texts*. A (sort of) localisation project.
 
-## ...Deadlock? 
-[Deadlock](https://store.steampowered.com/app/1422450) is a currently in-early-development game by [Valve Software](https://valvesoftware.com). There are already several community translation projects, and this will *possibly* become one.
+Repo này chứa bản dịch tiếng Việt đang phát triển cho [Deadlock](https://store.steampowered.com/app/1422450), một dự án game đang trong quá trình phát triển của [Valve](https://valvesoftware.com/). Dành cho mọi người muốn chơi game bằng tiếng Việt.
 
-## why? 
-started as personal fun during secret times of the game's playtest, I decided to bring it on up here for people to help people installing the language files and play the game in Vietnamese language. Still in progress, and need more improvement. I also hope if one day Valve developers decide to add Vietnamese to be included in a next game update, and this translation, for now, is a temporary a something empty-filler.
 
-This repo may work as either a stable or temporary basis to wait and see if there are any other similar project for Vietnamese localisation efforts. I am happy to help any of them if possible.
+## có gì trong này?
 
-## what's in? 
-currently there are 5 folders with Vietnamese lang file which were not translated before (contain nothing more than just a few code lines indicating the language name) and then filled up with English translations as placeholder, located in `\steamapps\common\Deadlock\game\citadel\resource\localization`: (`citadel_` prefix) `main, mods, heroes, attributes, gc`. 
+hiện tại có khoảng 5 thư mục chứa 5 file language cấu thành nên các chữ hiện trên hầu hết giao diện của game, vốn là các file rỗng chỉ có vài dòng đầu chỉ báo là ngôn ngữ tiếng Việt, và được giữ chỗ bởi các dòng tiếng Anh. chỉ cần dịch các dòng tiếng Anh bên phải trình editor, bên trái là các biến cú pháp để game nhận dạng nên không nên đụng vào. các file nằm ở `\steamapps\common\Deadlock\game\citadel\resource\localization` với 5 thư mục tương ứng là (citadel_) main, mods, heroes, attributes, và gc.
 
-## status
-There are some progress of replacing English texts inside with the `main` file which contain GUI text for main menu and basic UI texts. In early stage which is apprx. 30-35% complete.
+## hiện giờ...
 
-## can i fix something mate?
-You are absolutely welcome to jump in! For the fairest dinkum localisation efforts, it is recommended that you have played the game before (so that you can check for faults and also to know about the game itself), getting well with gaming terms and item naming, descriptions, etc., a bit salty wording is okay but don't break the overall intention of developers. And ultimately, it is the best to be a native Vietnamese knowing all these stuff, though not required, just anyone with a competent knowledge of the language is fine. That's why I am needing help right now. I feel that only myself might not do them all well, and any translation inside there could be not at its peak accuracy. Thanks mates.
-Edit: an irl friend joined me and helped a bit. thanks!
+tập trung tiến độ vào main, cụ thể là file `/citadel_main/citadel_main_vietnamese.txt`, khoảng 30-35%. Do game liên tục update trong thời buổi beta playtest nên các bản dịch chưa xong có thể sẽ bị lỗi thời, hiện tại mình đang nghĩ cách để có thể bổ sung hoặc sửa đổi cho phù hợp. Các folder (citadel_) mods, heroes, v.v. chưa có tiến độ dịch và sẽ được để dành, hiện tạm đồng bộ với file lang tiếng Anh.
 
-## seems interesting! how can i try the translation in advance of perfection?
-Just download the [repo source code here](https://github.com/Barnacl437/deadlock-vietnamese/archive/refs/heads/main.zip), unzip the `localization` folder and copy/move the said folder into this directory (accept the overwrite files dialog): `[...]\steamapps\common\Deadlock\game\citadel\resource`, where `[...]` is where your Steam Library is located, i.e. where your Steam games are to be installed into.  
+## vấn đáp và hướng dẫn
 
-![image](https://github.com/user-attachments/assets/e2555dec-0f38-4d87-8cc8-023dcccefeb4)
+### mình có thể làm gì?
 
-You can also press the gear icon in Steam Library interface of your game, or right click on game name and select Manage > Browse local files to get into game folder quickly.
+bạn có thể đóng góp (bao gồm việc sửa đoạn đã dịch và dịch các đoạn gốc) nếu muốn, miễn là tốt nhất bạn đã từng chơi game và thông thạo từ vựng của các thể loại game kiểu này. Hiện tại chỉ có mình ở đây làm mọi thứ nên sẽ khá lâu thôi.
 
-![image](https://github.com/user-attachments/assets/6d2e802d-6d76-4b0b-ab0b-820efa980da9)
+### trông hay đó, mình thử được không?
 
-And follow the above directory to find into the `resource` folder. 
+được chứ. Tải file zip ở [đây](https://github.com/Barnacl437/deadlock-vietnamese/archive/refs/heads/main.zip) (luôn mới nhất từ branch main), giải nén thư mục `localization` và copy/move vào địa chỉ `[...]\steamapps\common\Deadlock\game\citadel\resource`, trong đó `[...]` là địa chỉ Steam Library của bạn. 
 
-Now we need another take to force display in a prescribed language. Press the gear icon/right click like above again, but choose properties, then add some lines to the launch options `-language vietnamese`. Enjoy and have fun! 
+![đây nì](https://github.com/user-attachments/assets/e2555dec-0f38-4d87-8cc8-023dcccefeb4)
 
-## can i take some looks for sure?
+***Cách thứ hai***: Bạn cũng có thể bấm biểu tượng bánh răng trong thư viện client Steam, hoặc chuột phải vào tên game ở panel bên trái, chọn Manage > Browse local files (hoặc trỏ chuột tương ứng nếu bạn dùng Steam bằng tiếng Việt), để vào folder game cho nhanh.
+
+![vẫn đây](https://github.com/user-attachments/assets/6d2e802d-6d76-4b0b-ab0b-820efa980da9)
+
+Và lại theo địa chỉ như trên vào mục `resource`.
+
+Và một bước quan trọng để bắt game hiển thị bằng tiếng ta. Tiếp tục bấm biểu tượng bánh răng trong thư viện client Steam, hoặc chuột phải vào tên game ở panel bên trái, chọn Properties, và dán dòng này vào Launch options: `-language vietnamese` (dán nối tiếp các options trước đó nếu có) và đóng cửa sổ. 
+
+## chụp màn hình
 <details>
-  <summary>yes! get a click on this collapsible for screenshots.</summary>
+  <summary>hiện ảnh chụp</summary>
 <hr>
   
-  **Main menu** (as of 20/August)
+  **Main menu** (từ khoảng 20/8)
   ![20240820190753_1](https://github.com/user-attachments/assets/5b2e6f85-a45a-447e-b7d9-5062ed392b39)
 
-  **Settings/Graphics** (and things below, post-25/Aug)
+  **Settings/Graphics** (và các ảnh sau, sau 25/8)
   ![20240830221932_1](https://github.com/user-attachments/assets/41efdc98-e42f-48d3-8285-f12b54c1a277)
 
-  **The Curiosity Store/Build** (note the untranslated items)
+  **The Curiosity Store/Build** (item chưa được dịch)
   ![20240829143042_1](https://github.com/user-attachments/assets/c6a659b1-1c5a-4901-a7a8-4c2858ec9369)
 
-  **Some in-game stuff** 
+  **Mấy cảnh in-game** 
   ![20240829142534_1](https://github.com/user-attachments/assets/9f30cb9b-46ab-4c37-92d9-02385ecb16f3)
   ![20240829142517_1](https://github.com/user-attachments/assets/cddd8c9d-2557-4f68-9361-2d8ab45d0b89)
-
-
-  
-
-</details>
-<br>
