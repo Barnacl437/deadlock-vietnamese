@@ -59,6 +59,7 @@ Và một bước quan trọng để bắt game hiển thị bằng tiếng ta. 
   ![20240829142517_1](https://github.com/user-attachments/assets/cddd8c9d-2557-4f68-9361-2d8ab45d0b89)
   
 </hr>
+</details>
 
 ## Licence và thông tin thêm
 
