@@ -2588,7 +2588,7 @@
 		"ping_on_way"											"Đợi xíu, đang đến"
 		"ping_nevermind"										"Kệ đi"
 		"ping_see"												"Mới thấy {s:param_1}"
-		"ping_see_param_2"										" với {s:param_2} health"
+		"ping_see_param_2"										" đang {s:param_2} máu"
 		"Ping_Low_Health"										"yếu"
 		"ping_lets_go_yellow"									"Tiến lên nào Yellow"
 		"ping_lets_go_blue"										"Tiến lên nào Blue"
