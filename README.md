@@ -63,7 +63,7 @@ Và một bước quan trọng để bắt game hiển thị bằng tiếng ta. 
 
 ## Licence và thông tin thêm
 
-Bản dịch này được phát hành miễn phí dưới licence *[mi làm cái quái gì cũng được (WTFPL)](https://wtfpl.net)*, nên bạn hoàn toàn có thể chôm chỉa không xin hỏi. 
+Bản dịch này được phát hành miễn phí dưới licence *[mi làm cái quái gì cũng được (WTFPL)](http://wtfpl.net)*, nên bạn hoàn toàn có thể chôm chỉa không xin hỏi. 
 Dưới đây (có lẽ) là liệt kê các fork repo mình, hoặc dự án khác mình khuyến khích.
 | fork/pj                                                                                  | author                 | licence                      |
 |----------|-----|----------|
