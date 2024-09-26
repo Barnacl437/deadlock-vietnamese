@@ -1,4 +1,4 @@
-﻿"lang" 
+"lang" 
 { 
 	"Language" "Vietnamese" 
 	"Tokens" 
@@ -1571,7 +1571,7 @@
 		"casting_powerup_pickup"							"Casting"
 		"movement_powerup_pickup"							"Di chuyển"
 		
-		"spirit_permanent_pickup_label"					"+2 Spirit"
+		"spirit_permanent_pickup_label"					"+2 tâm linh"
 		"firerate_permanent_pickup_label"				"+1.5% Tốc độ bắn"
 		"ammo_permanent_pickup_label"					"+4% Đạn"
 		"hp_permanent_pickup_label"						"+15 HP tối đa"
@@ -1593,7 +1593,7 @@
 		"Citadel_AcquireTicket_ErrorTitle"						"Lỗi"
 		"Citadel_AcquireTicket_BusyTitle"						"Đang vào game"
 		"Citadel_AcquireTicket_BusyText"						"Xin chờ"
-		"Citadel_AcquireTicket_InternalError"					"Unable to talk to the Network right now and obtain access to the server. Please try again."
+		"Citadel_AcquireTicket_InternalError"					"Không thể kết nối mạng bây giờ. Vui lòng thử lại sau."
 
 		"citadel_next_attack_delay_reason_reload"		"Đang nạp đạn"
 		"citadel_next_attack_delay_reason_bebop_spin_up" ""
@@ -1611,6 +1611,7 @@
 		"citadel_settings_audio"						"Âm thanh"
 		"citadel_settings_about"						"Giới thiệu"
 		"citadel_settings_hotkeys"						"Phím nóng"
+		"citadel_ability_upgrade_tab_desc"				"{s:show_scoreboard}+[Ability Key] sẽ nâng cấp kĩ năng của bạn. Đây là các phím nóng bổ sung."
 		"citadel_settings_chatwheel"					"Vòng ping"
 		"citadel_settings_volume"						"Âm lượng"
 		"citadel_settings_voice"						"Cài đặt âm"
@@ -2651,8 +2652,8 @@
 		"ping_help_with_idol_message"							"Giúp tôi chuyển urn"
 		"ping_youre_welcome"									"Không có chi"
 		"ping_sorry"											"Xin lỗi"
-		"ping_enemy_has_item"									"Cẩn thận! {s:param_1} có {s:param_2}"
-		"Citadel_Ping_Customize_Reminder"						"Bạn có thể chỉnh cài đặt vòng ping qua <b>cài đặt.</b>"
+		"ping_enemy_has_item"									"Careful! {s:param_1} has {s:param_2}"
+		"Citadel_Ping_Customize_Reminder"						"Bạn có thể điều chỉnh tùy chọn vòng ping trong <b>Cài đặt.</b>"
 
 		//-----------------------------------------------------------------------------
 		// END Chat
