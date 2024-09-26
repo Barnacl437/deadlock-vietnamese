@@ -16,6 +16,13 @@ hiện tại có khoảng 5 thư mục chứa 5 file language cấu thành nên 
 
 tập trung tiến độ vào main, cụ thể là file `/citadel_main/citadel_main_vietnamese.txt`, đang tính dịch sang dịch mấy file gc, attributes bla bla. Do game liên tục update trong thời buổi beta playtest nên các bản dịch chưa xong có thể sẽ bị lỗi thời, hiện tại mình đang nghĩ cách để có thể bổ sung hoặc sửa đổi cho phù hợp. Các folder (citadel_) mods, heroes, v.v. chưa có tiến độ dịch và sẽ được để dành, hiện tạm đồng bộ với file lang tiếng Anh.
 
+## to-do
+- [ ] Dịch sang các file khác ngoài `main`
+- [ ] Hoàn thành `main`
+- [ ] Hoàn thành `gc`, `mods`
+- [ ] Hoàn thành `attributes`, `heroes`
+- [ ] Checkpoint #1
+
 ## vấn đáp và hướng dẫn
 
 ### mình có thể làm gì?
