@@ -20,7 +20,11 @@ tập trung tiến độ vào main, cụ thể là file `/citadel_main/citadel_m
 
 ### mình có thể làm gì?
 
-bạn có thể đóng góp (bao gồm việc sửa đoạn đã dịch và dịch các đoạn gốc) nếu muốn, miễn là tốt nhất bạn đã từng chơi game và thông thạo từ vựng của các thể loại game kiểu này. Hiện tại chỉ có mình ở đây làm mọi thứ nên sẽ khá lâu thôi.
+bạn có thể đóng góp (bao gồm việc sửa đoạn đã dịch và dịch các đoạn gốc) nếu muốn, miễn là tốt nhất bạn đã từng chơi game và thông thạo từ vựng của các thể loại game kiểu này. Hiện tại chỉ có mình với ông bạn mình làm trên repo này.
+
+
+
+
 
 ### trông hay đó, mình thử được không?
 
@@ -53,3 +57,14 @@ Và một bước quan trọng để bắt game hiển thị bằng tiếng ta. 
   **Mấy cảnh in-game** 
   ![20240829142534_1](https://github.com/user-attachments/assets/9f30cb9b-46ab-4c37-92d9-02385ecb16f3)
   ![20240829142517_1](https://github.com/user-attachments/assets/cddd8c9d-2557-4f68-9361-2d8ab45d0b89)
+  
+</hr>
+
+## Licence và thông tin thêm
+
+Bản dịch này được phát hành miễn phí dưới licence *[mi làm cái quái gì cũng được (WTFPL)](https://wtfpl.net)*, nên bạn hoàn toàn có thể chôm chỉa không xin hỏi. 
+Dưới đây (có lẽ) là liệt kê các fork repo mình, hoặc dự án khác mình khuyến khích.
+| fork/pj                                                                                  | author                 | licence                      |
+|----------|-----|----------|
+|  [DeadLock-Vietnamese](https://github.com/TruongDucDuong1109/DeadLock-Vietnamese)        |  truongducduong1109    |  no licence/public domain    |
+
