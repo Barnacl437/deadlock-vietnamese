@@ -1,4 +1,4 @@
-"lang" 
+﻿"lang" 
 { 
 	"Language" "Vietnamese" 
 	"Tokens" 
@@ -2043,21 +2043,25 @@
 		//-----------------------------------------------------------------------------
 
 
-		"citadel_spectator_voice_mode_0"	"Player Voice On"
-		"citadel_spectator_voice_mode_1"	"Player Voice Off"
-		"hud_free_cursor_mode_0"				"Enable Cursor"
-		"hud_free_cursor_mode_1"				"Enable Camera Control"
+		"citadel_spectator_voice_mode_0"	"Bật tiếng người chơi"
+		"citadel_spectator_voice_mode_1"	"Tắt tiếng người chơi"
+		"hud_free_cursor_mode_0"				"Mở con trỏ"
+		"hud_free_cursor_mode_1"				"Mở điều khiển camera"
+		"hud_spectate_next_prev"			"Trước / kế"
+	// legacy prev / next toggle
 		"hud_prev_player"					"Prev Player"
 		"hud_next_player"					"Next Player"
-		"hud_spectating"					"Spectating"
-		"hud_change_camera"					"Change Camera"
+		"hud_spectating"					"Đang theo dõi"
+		"hud_change_camera"					"Đổi camera"
+		"hud_spectate_fly_down"				"Bay lên"
+		"hud_spectate_fly_up"				"Hạ xuống"
 
 		"kill_hype_KillStreak"	"{i:kills} chuỗi kill"
 		"kill_hype_FirstBlood"	"chiến công đầu"
 
 		"team_msg_Idol_Desc"	"Soul Urn"
 		
-		"team_msg_Winner_SubText"	"The Patrons favor you"
+		"team_msg_Winner_SubText"	"Các Patron đã công nhận bạn"
 		"Citadel_GameOver_Victory"	"Chiến thắng"
 		"Citadel_GameOver_Defeat"	"Thất bại"
 
