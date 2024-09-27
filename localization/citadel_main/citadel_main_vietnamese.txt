@@ -632,6 +632,10 @@
 		"Citadel_RosterMode_Party_PrivateBotMedium"					"Chơi trận bot riêng với đội - Thường"
 		"Citadel_RosterMode_Party_PrivateBotHard"					"Chơi trận bot riêng với đội - Khó"
 
+		"Citadel_BotMatchModal_Desc"								"Chọn độ khó:"
+		"Citael_PrivateLobbyModal_CreateNewButton"					"Tạo trận tùy chính mới"
+		"Citael_PrivateLobbyModal_JoinCode"							"Tham gia bằng mã"
+
 		"Citadel_RosterMode_Matchmaking"							"Tìm trận"
 		"Citadel_RosterMode_CoopBotMM"								"Tìm trận với bot"
 		"Citadel_RosterMode_PrivateBotEasy"							"Trận bot riêng - Dễ"
