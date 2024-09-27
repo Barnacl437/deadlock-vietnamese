@@ -71,8 +71,9 @@ Và một bước quan trọng để bắt game hiển thị bằng tiếng ta. 
 
 ## Licence và thông tin thêm
 
-Bản dịch này được phát hành miễn phí dưới licence *[mi làm cái quái gì cũng được (WTFPL)](http://wtfpl.net)*, nên bạn hoàn toàn có thể chôm chỉa không xin hỏi. 
-Dưới đây (có lẽ) là liệt kê các fork repo mình, hoặc dự án khác mình khuyến khích.
+Bản dịch này được phát hành miễn phí dưới licence *[mi làm cái quái gì cũng được (WTFPL)](http://wtfpl.net)*, nên bạn hoàn toàn có thể chôm chỉa không xin hỏi. Tuy nhiên mình vẫn đánh giá cao nếu bạn credit mình trong một phần dự án của bạn.
+
+Dưới đây (có lẽ) là liệt kê các fork repo mình, hoặc dự án khác mình khuyến khích. 
 | fork/pj                                                                                  | author                 | licence                      |
 |----------|-----|----------|
 |  [DeadLock-Vietnamese](https://github.com/TruongDucDuong1109/DeadLock-Vietnamese)        |  truongducduong1109    |  no licence/public domain    |
