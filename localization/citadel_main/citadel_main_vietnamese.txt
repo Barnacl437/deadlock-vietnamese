@@ -2085,7 +2085,7 @@
 		"guide_movement_dodge_desc"					"Ấn <span class='keybind'>[ {s:key_innate_1} ]</span> khi đang di chuyển để lướt đi.<br><br>Cần stamina."
 
 		"guide_movement_zipline_header"				"Dây cáp treo"
-		"guide_movement_zipline_desc"				"Giữ <span class='keybind'>[ {s:in_mantle} ]</span> to get on the line.<br><br>You can jump off by pressing <span class='keybind'>[ {s:in_mantle} ]</span>."
+		"guide_movement_zipline_desc"				"Giữ <span class='keybind'>[ {s:in_mantle} ]</span> để leo lên dây.<br><br>Để nhảy xuống, bấm <span class='keybind'>[ {s:in_mantle} ]</span>."
 
 		"guide_movement_mantle_header"				"Bám gờ tưởng"
 		"guide_movement_mantle_desc"				"Giữ <span class='keybind'>[ {s:in_mantle} ]</span> khi ở gần một gờ tường để leo lên."
