@@ -2007,37 +2007,37 @@
 		// Get Started Content
 		//-----------------------------------------------------------------------------
 
-		"guide_get_started_title"					"Get Started"
-		"guide_overview_main_header"				"Welcome"
-		"guide_the_map_main_header"					"Overview"
-		"guide_upgrades_main_header"				"Gaining Power"
-		"guide_basics_main_header"					"Basic Controls"
-		"guide_advanced_main_header"				"Special Moves"
+		"guide_get_started_title"					"Cùng bắt đầu"
+		"guide_overview_main_header"				"Chào mừng"
+		"guide_the_map_main_header"					"Tổng quan"
+		"guide_upgrades_main_header"				"Nâng cấp"
+		"guide_basics_main_header"					"Điều khiển cơ bản"
+		"guide_advanced_main_header"				"Nước đi đặc biệt"
 		"guide_outro_main_header"					"Highlights"
 
 
-		"guide_the_map_welcome_sub_header"			"Introduction"
+		"guide_the_map_welcome_sub_header"			"Giới thiệu"
 
-		"guide_overview_header" 					"Welcome to Deadlock"
-		"guide_overview_desc" 						"Explore the various sections to learn about the game."
+		"guide_overview_header" 					"Chào mừng đến Deadlock"
+		"guide_overview_desc" 						"Khám phá một loạt phần thông tin để tìm hiểu về game."
 
-		"guide_the_map_welcome_header"				"Introduction"
-		"guide_the_map_welcome_desc"				"Welcome to The Cursed Apple. If your team wants to emerge victorious, you’ll need to wield both guns and supernatural powers to lay siege to the enemy base."
+		"guide_the_map_welcome_header"				"Giới thiệu"
+		"guide_the_map_welcome_desc"				"Chào đón bạn đến với Trái Táo Huyền Bí. Để dẫn dắt đội bạn đến vinh quang, các bạn sẽ cần thao túng đối phương bằng cả khí giới và sức mạnh siêu nhiên để lay chuyển tình thế, đánh bại thành trì và cứ điểm của họ."
 
-		"guide_the_map_header"						"Overview"
-		"guide_the_map_desc"						"Hover over areas on the map to learn more about the things you'll see while playing Deadlock."
+		"guide_the_map_header"						"Tổng quan"
+		"guide_the_map_desc"						"Lướt nhanh qua các khu vực trên bản đồ để tìm hiểu về những thứ ta sẽ nhìn thấy trong quá trình chơi Deadlock."
 
-		"guide_the_map_lanes_header"				"Lanes"
-		"guide_the_map_lanes_desc"					"There are four lanes, each with a transit line that players can ride to move quickly."
+		"guide_the_map_lanes_header"				"Đường đi"
+		"guide_the_map_lanes_desc"					"Có tất cả là 4 đường, và một hệ thống cáp treo bao trùm 4 đường ấy, để người chơi thuận tiện đi lại."
 
-		"guide_the_map_guardians_header"			"Guardians"
-		"guide_the_map_guardians_desc"				"Guardians are the first line of defense in each lane. Their attacks are very powerful, so it's best to push into them with your troopers."
+		"guide_the_map_guardians_header"			"Lính hộ vệ"
+		"guide_the_map_guardians_desc"				"Lính hộ vệ là tuyến phòng thủ đầu trên mỗi đường đi. Với sức đánh mạnh mẽ, tốt nhất là nên đi cùng lính tráng phe bạn để tối ưu trong việc giao chiến."
 
-		"guide_the_map_walkers_header"				"Walkers"
-		"guide_the_map_walkers_desc"				"Walkers lie deeper in the lanes and have an arsenal of defensive moves."
+		"guide_the_map_walkers_header"				"Cỗ máy bộ hành"
+		"guide_the_map_walkers_desc"				"Những cỗ máy này nằm sâu hơn trong hệ thống đường đi và có vũ khí với sức hủy diệt cao hơn."
 
-		"guide_the_map_troopers_header"				"Troopers"
-		"guide_the_map_troopers_desc"				"Troopers periodically spawn in the base and then run down a lane, fighting any enemies they encounter."
+		"guide_the_map_troopers_header"				"Lính tráng"
+		"guide_the_map_troopers_desc"				"Lính tráng được triệu hồi định kỳ trong căn cứ, sẽ đi theo 4 đường và đánh bất kì đối phương nào chúng gặp."
 
 		"guide_the_map_core_header"					"Core"
 		"guide_the_map_core_desc"					"There is a shrine at the back of each team's base. Destroying the enemy shrine wins the game."
