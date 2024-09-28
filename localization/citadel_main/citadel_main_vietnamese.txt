@@ -751,18 +751,18 @@
 		"Citadel_Hud_KillFeedSuperNeutral"							"Lính canh điện thờ"
 		"Citadel_Hud_KillFeedNeutral"								"Trung tính #{i:unit_num}"
 		"Citadel_Hud_KillFeedSentry"								"Ụ súng máy"
-		"Citadel_Hud_KillFeedGuardian"								"Lính canh"
+		"Citadel_Hud_KillFeedGuardian"								"Lính hộ vệ"
 		"Citadel_Hud_KillFeedBarracksBoss"							"Lính canh căn cứ"
 		"Citadel_Hud_KillFeedWalker"								"Cỗ máy bộ hành"
 		"Citadel_Hud_KillFeedAllWalkers"							"Máy bộ hành phe địch"
 		"Citadel_Hud_KillFeedShieldName"							"Điện thờ"
 		"Citadel_Hud_KillFeedTitan"									"Patron"
-		"Citadel_Hud_KillFeedEnemyGuardian"							"Lính canh địch"
+		"Citadel_Hud_KillFeedEnemyGuardian"							"Lính hộ vệ địch"
 		"Citadel_Hud_KillFeedEnemyWalker"							"Máy bộ hành phe địch"
-		"Citadel_Hud_KillFeedEnemyBarracksGuardian"					"Lính canh cơ sở địch"
-		"Citadel_Hud_KillFeedFriendlyBarracksGuardian"				"Lính canh cở sở ta"
+		"Citadel_Hud_KillFeedEnemyBarracksGuardian"					"Lính hộ vệ cơ sở địch"
+		"Citadel_Hud_KillFeedFriendlyBarracksGuardian"				"Lính hộ vệ cở sở ta"
 		"Citadel_Hud_KillFeedEnemyTitan"							"Patron địch"
-		"Citadel_Hud_KillFeedFriendlyGuardian"						"Lính canh ta"
+		"Citadel_Hud_KillFeedFriendlyGuardian"						"Lính hộ vệ ta"
 		"Citadel_Hud_KillFeedFriendlyWalker"						"Máy bộ hành phe ta"
 		"Citadel_Hud_KillFeedFriendlyTitan"							"Patron phe ta"
 		"Citadel_Hud_KillFeedFriendlyShield"						"Điện thờ phe ta"
@@ -1323,7 +1323,7 @@
 		"Citadel_LaneStats_PlayerDamage"				"Sát thương người chơi"
 		"Citadel_LaneStats_Tier1"						"Tier 1"
 		"Citadel_LaneStats_Tier2"						"Tier 2"
-		"Citadel_LaneStats_Guardians"					"Base Guardians"
+		"Citadel_LaneStats_Guardians"					"Lính hộ vệ căn cứ"
 
 		"Citadel_WatchPage_FilterByHeroDefault"			"Lọc theo tướng"
 		"Citadel_WatchPage_SearchMatchID"				"Tìm bằng ID trận"
@@ -1461,8 +1461,8 @@
 		"Citadel_HeroBuilds_AP_Next_Indicator"			"Suggested"
 
 		// Unit names
-		"guardian_unit"							"Guardian"
-		"walker_unit"							"Walker"
+		"guardian_unit"							"Lính hộ vệ"
+		"walker_unit"							"Máy bộ hành"
 		"titan_unit"							"Patron"
 
 		"modifier_learning_hero_ability"			"Tìm hiểu"
@@ -2039,85 +2039,85 @@
 		"guide_the_map_troopers_header"				"Lính tráng"
 		"guide_the_map_troopers_desc"				"Lính tráng được triệu hồi định kỳ trong căn cứ, sẽ đi theo 4 đường và đánh bất kì đối phương nào chúng gặp."
 
-		"guide_the_map_core_header"					"Core"
-		"guide_the_map_core_desc"					"There is a shrine at the back of each team's base. Destroying the enemy shrine wins the game."
+		"guide_the_map_core_header"					"Phần lõi"
+		"guide_the_map_core_desc"					"Sau căn cứ của mỗi phe là một điện thờ. Phá hủy điện thờ đối phương sẽ đem lại chiến thắng chung cuộc."
 
-		"guide_the_map_core_alt_header"				"Base"
-		"guide_the_map_core_alt_desc"				"Your goal is to siege the enemy base, and destroy their defenses to reveal their team's Patron.  Destroy the Patron, and victory is yours."
+		"guide_the_map_core_alt_header"				"Căn cứ"
+		"guide_the_map_core_alt_desc"				"Mục tiêu của các bạn là bao vây căn cứ địch, phá hủy các tầng phòng thủ để tìm ra Patron. Tiêu diệt nó sẽ đem lại chiến thắng cho phe bạn."
 
-		"guide_the_map_midboss_header"				"Temple Boss"
-		"guide_the_map_midboss_desc"				"The middle of the map has a powerful neutral boss. The team that kills it will have immediate respawns on their next deaths."
+		"guide_the_map_midboss_header"				"Boss điện thờ"
+		"guide_the_map_midboss_desc"				"Ở giữa bản đồ có một con boss trung tính siêu mạnh. Phe nào tiêu diệt được nó sẽ được hồi sinh ngay lập tức trong lần chết tiếp theo."
 
-		"guide_upgrades_last_hit_header"			"Souls"
-		"guide_upgrades_last_hit_desc"				"Get Souls by killing troopers and players.  You can also get Souls by killing neutrals located throughout the map.<br><br>Souls are shared among allies nearby."
+		"guide_upgrades_last_hit_header"			"Linh hồn"
+		"guide_upgrades_last_hit_desc"				"Linh hồn có từ việc diệt lính và người chơi khác. Các vật thể trung tính khắp bản đồ cũng có.<br><br>Lượng linh hồn thu thập được chia sẻ cho những người chơi đồng minh bên cạnh."
 
-		"guide_upgrades_yellow_orbs_header"			"Securing Souls"
-		"guide_upgrades_yellow_orbs_desc"			"When you land a killing blow, extra Souls appear.<br><br>You can secure these Souls by shooting the blue orb containing them or letting them float away."
+		"guide_upgrades_yellow_orbs_header"			"Bảo vệ linh hồn"
+		"guide_upgrades_yellow_orbs_desc"			"Khi bạn làm một cú đáp tiêu diệt, sẽ có những linh hồn bổ sung bay ra.<br><br>Bạn có thể nắm giữ chúng bằng cách bắn quả cầu chứa nó hoặc để tự cuốn đi."
 
-		"guide_upgrades_deny_header"				"Stealing Souls"
-		"guide_upgrades_deny_desc"					"Enemy Soul Orbs are orange and enemies will get them if they float away or if they shoot them.<br><br>You can shoot these Orange Orbs first to steal them."
+		"guide_upgrades_deny_header"				"Đánh cắp linh hồn"
+		"guide_upgrades_deny_desc"					"Những quả cầu linh hồn của đối phương có màu cam, và họ sẽ nhận được nếu chúng đang bay đi hoặc họ bắn chúng.<br><br>Bạn cũng có thể bắn để lấy lại."
 
-		"guide_upgrades_killing_guardians_header"	"Ability Points"
-		"guide_upgrades_killing_guardians_desc"		"Destroying an enemy objective earns everyone on your team Ability Points (AP).<br><br>You can spend these points to upgrade your abilities by holding <span class='keybind'>[TAB]</span>."
+		"guide_upgrades_killing_guardians_header"	"Điểm kĩ năng"
+		"guide_upgrades_killing_guardians_desc"		"Khi tiêu diệt một thực thể đối phương, mọi người trong phe được nhận điểm kĩ năng (AP).<br><br>Bạn có thể tiêu dùng số điểm để năng cấp kĩ năng bằng cách ấn giữ <span class='keybind'>[TAB]</span>."
 
-		"guide_upgrades_going_home_header"			"Shop"
-		"guide_upgrades_going_home_desc"			"When you have souls to spend, go back to base to heal and buy powerful items that increase your stats and grant additional abilities.<br><br>There's also a shop next to each guardian, available until the guardian is destroyed."
+		"guide_upgrades_going_home_header"			"Cửa hàng"
+		"guide_upgrades_going_home_desc"			"Khi bạn có đủ linh hồn, bạn có thể quay lại căn cứ để mua vật phẩm (lên đồ) giúp tăng các chỉ số và nhận thêm kĩ năng bổ sung.<br><br>Ở những chỗ gần lính hộ vệ cũng có, được mở sau khi chúng bị tiêu diệt."
 
-		"guide_upgrades_upgrade_abilities_header"	"Upgrade Abilities"
-		"guide_upgrades_upgrade_abilities_desc"		"Spend Ability Points to upgrade your abilities.<br><br>Abilities have three upgrade tiers."
+		"guide_upgrades_upgrade_abilities_header"	"Nâng cấp kĩ năng"
+		"guide_upgrades_upgrade_abilities_desc"		"Sử dụng các điểm kĩ năng (AP) nhận được để lên cấp kĩ năng.<br><br>Các kĩ năng có đến 3 cấp độ nâng."
 
-		"guide_upgrades_buy_mods_header"			"Buy Items"
-		"guide_upgrades_buy_mods_desc"				"Items can modify a variety of things like ammo count, melee damage or health regeneration.  Items that increase Spirit Power improve the effectiveness of your abilities.<br><br>There is a Suggested Items tab with hand-picked recommendations for each hero."
+		"guide_upgrades_buy_mods_header"			"Mua đồ"
+		"guide_upgrades_buy_mods_desc"				"Các vật phẩm có thể giúp cải tiến chỉ số như lượng đạn, sát thương cận chiến hay tự hồi máu.  Vật phẩm giúp tăng Sức mạnh tâm linh sẽ tăng hiệu quả của kĩ năng.<br><br>Cửa hàng cũng có một tab khuyên dùng các kĩ năng cho từng tướng."
 
-		"guide_neutrals_header"						"Neutrals"
-		"guide_neutrals_desc"						"There are many neutral creatures lurking around the map. Defeat them to earn souls.<br><br>Sometimes, a powerful creature will appear at the center of the map… defeating it will offer your team great power."
+		"guide_neutrals_header"						"Sinh vật trung tính"
+		"guide_neutrals_desc"						"Cư ngụ trên khắp bản đồ là những sinh vật trung tính. Tiêu diệt chúng để chiếm lấy linh hồn.<br><br>Đôi lúc sẽ có một sinh vật mạnh mẽ hiện ra giữa bản đồ... hãy chế ngự nó, và phe bạn sẽ nắm được thứ sức mạnh đó."
 
-		"guide_movement_jump_header"				"Jump"
-		"guide_movement_jump_desc"					"Press <span class='keybind'>[ {s:in_mantle} ]</span> to jump."
+		"guide_movement_jump_header"				"Nhảy"
+		"guide_movement_jump_desc"					"Ấn <span class='keybind'>[ {s:in_mantle} ]</span> để nhảy."
 
-		"guide_movement_crouch_header"				"Crouch"
-		"guide_movement_crouch_desc"				"Press <span class='keybind'>[ {s:key_duck} ]</span> to crouch."
+		"guide_movement_crouch_header"				"Cúi người"
+		"guide_movement_crouch_desc"				"Ấn giữ <span class='keybind'>[ {s:key_duck} ]</span> để cúi người."
 
-		"guide_movement_slide_header"				"Slide"
-		"guide_movement_slide_desc"					"Hold <span class='keybind'>[ {s:key_duck} ]</span> to slide while moving down a ramp or moving at high speed."
+		"guide_movement_slide_header"				"Trượt"
+		"guide_movement_slide_desc"					"Ấn giữ <span class='keybind'>[ {s:key_duck} ]</span> để trượt dài khi đang lao dốc hoặc đang di chuyển nhanh."
 
-		"guide_movement_dodge_header"				"Dash"
-		"guide_movement_dodge_desc"					"While moving press <span class='keybind'>[ {s:key_innate_1} ]</span> to dash.<br><br>Requires stamina."
+		"guide_movement_dodge_header"				"Lướt"
+		"guide_movement_dodge_desc"					"Ấn <span class='keybind'>[ {s:key_innate_1} ]</span> khi đang di chuyển để lướt đi.<br><br>Cần stamina."
 
-		"guide_movement_zipline_header"				"Transit Lines"
-		"guide_movement_zipline_desc"				"Hold <span class='keybind'>[ {s:in_mantle} ]</span> to get on the line.<br><br>You can jump off by pressing <span class='keybind'>[ {s:in_mantle} ]</span>."
+		"guide_movement_zipline_header"				"Dây cáp treo"
+		"guide_movement_zipline_desc"				"Giữ <span class='keybind'>[ {s:in_mantle} ]</span> to get on the line.<br><br>You can jump off by pressing <span class='keybind'>[ {s:in_mantle} ]</span>."
 
-		"guide_movement_mantle_header"				"Mantle"
-		"guide_movement_mantle_desc"				"Hold <span class='keybind'>[ {s:in_mantle} ]</span> when near a ledge to mantle up."
+		"guide_movement_mantle_header"				"Bám gờ tưởng"
+		"guide_movement_mantle_desc"				"Giữ <span class='keybind'>[ {s:in_mantle} ]</span> khi ở gần một gờ tường để leo lên."
 
-		"guide_movement_double_jump_header"			"Double Jump"
-		"guide_movement_double_jump_desc"			"Press <span class='keybind'>[ {s:in_mantle} ]</span> at the top of a jump to double jump.<br><br>Special moves like double jump use your stamina bar, located next to your reticle."
+		"guide_movement_double_jump_header"			"Nhảy đúp"
+		"guide_movement_double_jump_desc"			"Ấn <span class='keybind'>[ {s:in_mantle} ]</span> khi đang nhảy trên không để nhảy đúp.<br><br>Các thao tác đặc biệt như nhảy đúp sẽ tiêu dùng thanh stamina, nằm bên cạnh tâm ngắm trên màn hình."
 
-		"guide_movement_airdash_header"				"Air Dash"
-		"guide_movement_airdash_desc"				"While airborne, dash to perform an air dash.<br><br>Requires stamina."
+		"guide_movement_airdash_header"				"Lướt gió"
+		"guide_movement_airdash_desc"				"Khi đang trên không, ấn lướt để thực hiện lướt gió.<br><br>Cần dùng stamina."
 
-		"guide_movement_dodge_jump_header"			"Dash Jump"
-		"guide_movement_dodge_jump_desc"			"Combine a dash and a well-timed jump to perform a dash jump.<br><br>Requires stamina."
+		"guide_movement_dodge_jump_header"			"<Lướt nhảy>"
+		"guide_movement_dodge_jump_desc"			"Kết hợp lướt và nhảy căn đúng giờ để lướt nhảy.<br><br>Cần dùng stamina."
 
-		"guide_basics_shoot_header"					"Shoot"
-		"guide_basics_shoot_desc"					"Press <span class='keybind'>[ {s:iv_attack} ]</span> to shoot.<br><br>Gun damage falls off at longer ranges."
+		"guide_basics_shoot_header"					"Bắn"
+		"guide_basics_shoot_desc"					"Ấn <span class='keybind'>[ {s:iv_attack} ]</span> để bắn.<br><br>Càng xa thì sát thương súng giảm dần."
 
-		"guide_basics_aim_header"					"Zoom"
-		"guide_basics_aim_desc"						"Hold <span class='keybind'>[ {s:iv_attack2} ]</span> to zoom in with your weapon."
+		"guide_basics_aim_header"					"Phóng to"
+		"guide_basics_aim_desc"						"Giữ <span class='keybind'>[ {s:iv_attack2} ]</span> để phóng to bằng vũ khí của bạn."
 
-		"guide_basics_melee_header"					"Melee"
-		"guide_basics_melee_desc"					"Press <span class='keybind'>[ {s:key_weapon_1} ]</span> to make a quick attack. Hold <span class='keybind'>[ {s:key_weapon_1} ]</span> to deliver a powerful charging attack."
+		"guide_basics_melee_header"					"Cận chiến"
+		"guide_basics_melee_desc"					"Ấn <span class='keybind'>[ {s:key_weapon_1} ]</span> để tấn công nhanh. Giữ <span class='keybind'>[ {s:key_weapon_1} ]</span> để dồn một lực tấn công mạnh."
 
-		"guide_basics_reload_header"				"Reload"
-		"guide_basics_reload_desc"					"Press <span class='keybind'>[ {s:key_reload} ]</span> to reload your weapon. Certain actions, such as melee, will pause reload."
+		"guide_basics_reload_header"				"Nạp đạn"
+		"guide_basics_reload_desc"					"Ấn <span class='keybind'>[ {s:key_reload} ]</span> để nạp đạn. Một số hành động như cận chiến hay lướt sẽ làm gián đoạn hành động này."
 
-		"guide_advanced_parry_header"				"Parry"
-		"guide_advanced_parry_desc"					"Press <span class='keybind'>[ {s:key_parry} ]</span> to parry an enemy's melee attack.<br><br>They will be stunned and will receive increased melee damage."
+		"guide_advanced_parry_header"				"Đỡ đòn"
+		"guide_advanced_parry_desc"					"Ấn <span class='keybind'>[ {s:key_parry} ]</span> để đỡ đòn đánh của đối thủ.<br><br>Họ sẽ bị choáng và bị dính sát thương tăng cường."
 
-		"guide_basics_abilities_header"				"Abilities"
-		"guide_basics_abilities_desc"				"Press <span class='keybind'>[ {s:in_ability1}, {s:in_ability2}, {s:in_ability3}, {s:in_ability4} ]</span> to use your hero's abilities."
+		"guide_basics_abilities_header"				"Kĩ năng"
+		"guide_basics_abilities_desc"				"Ấn <span class='keybind'>[ {s:in_ability1}, {s:in_ability2}, {s:in_ability3}, {s:in_ability4} ]</span> để sử dụng kĩ năng nhân vật."
 
-		"guide_back_to_dashboard"					"Back to Dashboard"
+		"guide_back_to_dashboard"					"Quay lại menu"
 
 		//-----------------------------------------------------------------------------
 		// END Get Started
@@ -2278,7 +2278,7 @@
 		"SafeToAbandon_Text"						"Trận đấu này giờ có thể rời mà không bị phạt."
 
 		"ModIconTooltip_UnlockTier2"				"Được mở khóa sau khi đội bạn phá hủy một Walker bên đối phương"
-		"ModIconTooltip_UnlockGuardians"			"Được mở khóa sau khi đội bạn phá hủy một đội hình Canh gác căn cứ đối phương"	
+		"ModIconTooltip_UnlockGuardians"			"Được mở khóa sau khi đội bạn phá hủy một đội hình Lính hộ vệ căn cứ đối phương"	
 		"ModIconTooltip_UnlockGenerators"			"Được mở khóa sau khi đội bạn phá hủy một đền thờ đối phương"	
 		//"ModIconTooltip_UnlockTier3"				"Được mở khóa sau khi đội bạn phá hủy dạng thức thứ nhất của Patron đối phương"
 		"ModIconTooltip_UnlockAllTier2"				"Được mở khóa sau khi đội bạn phá hủy tất cả Walker đối phương"
