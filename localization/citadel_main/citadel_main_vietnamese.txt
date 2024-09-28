@@ -2248,7 +2248,7 @@
 		"menu_play_lane_training_time_est"			"8 phút"
 		"menu_play_lane_training"					"Hướng dẫn đi lane"
 		"menu_play_unavailable_in_queue"			"Unavailable while in Queue"
-		"menu_play_get_started_desc"				"A helpful breakdown of the game's Objectives and Controls."
+		"menu_play_get_started_desc"				"Tóm tắt hữu ích về mục tiêu và điều khiển trong game."
 		"menu_play_botmatchmaking_desc"				"Nhảy vào tìm một trận kết hợp với người khác để đấu với bot."
 		"menu_play_browse_shop_desc"				"Lên đủ đồ trong cửa hàng và cùng chuẩn bị cho trận thôi!"
 		"menu_play_learn_to_play_desc"				"Xem hướng dẫn và thực hiện theo với thử tướng và hướng dẫn đi lane."
