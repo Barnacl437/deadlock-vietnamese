@@ -482,3 +482,8 @@
 		"upgrade_vex_barrier"						"Reactive Barrier"
 	}
 }
+
+"sign"
+{
+	"key"	"b2_sign"
+}

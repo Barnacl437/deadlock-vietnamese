@@ -5,6 +5,7 @@
 	{
 		"Citadel_Dashboard_BuildVersion"	"Bản dựng {d:buildNumber} - {s:buildTime}"
 
+
 		"OK"							"OK"
 		"Cancel"						"Hủy"
 		"Close"							"Đóng"
@@ -2754,3 +2755,13 @@
 	}
 }
 
+"sign_key_id"
+// properties
+{
+	    "sign_key"		 				"YmFybmFjbDQzNw=="
+		"key_alias"						"b2_sign" 
+		"other_files_sign"				"sign:key"
+		"relationship_linkage" 			"main;attributes;gc;heroes;mods"
+		"definition"					"yes"
+
+}

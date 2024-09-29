@@ -901,3 +901,8 @@
 		"BuildUpMaxDamageNonHero_label"					"Build Up Non-Hero"
 	}
 }
+
+"sign"
+{
+	"key"	"b2_sign"
+}
