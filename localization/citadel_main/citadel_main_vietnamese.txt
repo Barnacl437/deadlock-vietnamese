@@ -2755,13 +2755,5 @@
 	}
 }
 
-"sign_key_id"
-// properties
-{
-	    "sign_key"		 				"YmFybjI="
-		"key_alias"						"b2_sign" 
-		"other_files_sign"				"sign:key"
-		"relationship_linkage" 			"main;attributes;gc;heroes;mods"
-		"definition"					"yes"
-
-}
+   "sign_key"		 				"YmFybjI="
+   "key_alias"						"b2_sign" 
