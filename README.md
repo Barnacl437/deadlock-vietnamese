@@ -33,7 +33,7 @@ bạn có thể đóng góp (bao gồm việc sửa đoạn đã dịch và dị
 
 ### ủa thế cóp cóp file như này có sợ anti-cheat "chộp" không thớt?
 
-Mình chắc chắn là không. Mình đã theming TF2 chắc cũng chục lần, đều vào file game, cơ mà VAC không bắt cái đó (một phần thì engine Source có khả năng mod gần như vô hạn), VAC chủ yếu soi memory với check var những gì quan trọng (như asset game và chỉ số quan trọng trong thi đấu), còn lang file như cỏ rác ấy mà, nói chung là trừ khi bạn dùng tool gian lận can thiệp quá sâu chứ còn đây là file ngôn ngữ thôi, yên chí 🐧
+Mình chắc chắn là không. Như một thằng đã đi theming TF2 chắc cũng chục lần, copy bừa bãi vào file game, đôi khi là những cái "em yêu khoa học", tuy nhiên đối với mình mà nói, VAC không bắt cái đó (một phần thì engine Source có khả năng mod gần như vô hạn), VAC chủ yếu soi memory với check var những gì quan trọng (như asset game và chỉ số quan trọng trong thi đấu), còn lang file cơ bản là thay đổi chữ trên giao diện mà thôi, nói chung là trừ khi bạn dùng tool gian lận can thiệp quá sâu chứ còn đây là file ngôn ngữ thôi, yên chí 🐧
 
 ### trông hay đó, mình thử được không?
 
