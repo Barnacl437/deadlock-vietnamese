@@ -2376,8 +2376,8 @@
 		"LaneTraining_Intro_Targets"				"Training Goals:"
 		"LaneTraining_Outro_Title"					"<b>Lane Training</b> finished"
 
-		"ReportCard_PlayerDamage"					"Player Damage"
-		"ReportCard_PlayerDamage_Desc"				"Damage you’ve dealt to enemy heroes"	
+		"ReportCard_PlayerDamage"					"Sát thương người chơi"
+		"ReportCard_PlayerDamage_Desc"				"Sát thương mà bạn đã gây ra lên tướng địch"	
 		"ReportCard_PlayerDamage_Progress"			"<span class=\"yourscore\">{i:playerDamage}</span> / {i:playerDamageNextGoal}"
 
 		"ReportCard_LastHits"						"Killing Blows"
@@ -2396,12 +2396,12 @@
 		"ReportCard_OrbsDenied_Desc"				"Souls you've denied"
 		"ReportCard_OrbsDenied_Progress"			"<span class=\"yourscore\">{i:orbsDenied}</span> / {i:orbsDeniedNextGoal}"
 
-		"ReportCard_ModsPurchased"					"Item Purchased"
-		"ReportCard_ModsPurchased_Desc"				"Buy an item at the Shop"
+		"ReportCard_ModsPurchased"					"Vật phẩm đã mua"
+		"ReportCard_ModsPurchased_Desc"				"Mua vật phẩm tại cửa hàng"
 		"ReportCard_ModsPurchased_Progress"			"<span class=\"yourscore\">{i:modsPurchased}</span> / {i:modsPurchasedNextGoal}"
 
-		"ReportCard_AbilitiesUpgraded"				"Ability Upgraded"
-		"ReportCard_AbilitiesUpgraded_Desc"			"Upgrade an Ability by holding [{s:key_extra_info}]"
+		"ReportCard_AbilitiesUpgraded"				"Kỹ năng đã nâng"
+		"ReportCard_AbilitiesUpgraded_Desc"			"Nâng cấp kỹ năng bằng cách giữ [{s:key_extra_info}]"
 		"ReportCard_AbilitiesUpgraded_Progress"		"<span class=\"yourscore\">{i:abilitiesUpgraded}</span> / {i:abilitiesUpgradedNextGoal}"
 
 		"ReportCard_GuardianDamage"					"Guardian Damage"
@@ -2420,8 +2420,8 @@
 		"ReportCard_KillGuardian"					"Take Down the Enemy Guardian"
 		"ReportCard_KillGuardian_Desc"				"Take down anyone who stands in your way to victory!"
 
-		"NewPlayer_NewPlayerFlow"					"Learn to Play"				
-		"NewPlayer_Skip"							"Skip Tutorial"
+		"NewPlayer_NewPlayerFlow"					"Khóa học vỡ lòng"				
+		"NewPlayer_Skip"							"Lướt qua"
 		"NewPlayer_NewPlayerFlow_Desc"				"To get started, check out the tasks within <span class=\"introText\">Learn</span>."	
 		"NewPlayer_GetStarted"						"Review <span class='TaskHighlight'>Get Started</span>"
 		"NewPlayer_GetStarted_Time"					"4 mins"
@@ -2430,7 +2430,7 @@
 		"NewPlayer_LaneTraining"					"Learn the early game in <span class='TaskHighlight'>Lane Training</span>"
 		"NewPlayer_LaneTraining_Time"				"8 mins"
 		"NewPlayer_YouAreFinished"					"You're ready! Try a bot match within Practice or Play your first game!"
-		"NewPlayer_Finish"							"End Tutorial"				
+		"NewPlayer_Finish"							"Hoàn thành khóa học"				
 
 		"HeroTraining_Intro_Title"					"Welcome to <b>Hero Training</b>"
 		"HeroTraining_Intro_Desc"					"Here you'll be able to test out your hero's movement and abilities. Mastering these concepts is key to completing the ritual."
@@ -2439,8 +2439,8 @@
 		"HeroTraining_Outro_Button"					"Finish"
 		"HeroTraining_Continue_Button"				"Keep Playing"
 
-		"NPE_Heroes_Modal_Title"					"Recommended Heroes"
-		"NPE_Heroes_Modal_Desc"						"<span class=\"introText\">Looks like this is your first time playing!</span><br><br>We've highlighted a few Heroes that are great for New Players. We recommend trying out one of these if you're uncertain about where to start."
+		"NPE_Heroes_Modal_Title"					"Các tướng nên chơi"
+		"NPE_Heroes_Modal_Desc"						"<span class=\"introText\">Có vẻ đây là lần đầu tiên chúng ta gặp nhau nhỉ!</span><br><br>Chúng tôi đã liệt kê một vài tướng dành cho tân thủ. Chúng tôi khuyến khích bạn sử dụng một trong số chúng nếu bạn băn khoăn nên bắt đầu từ đâu."
 
 		"NPE_Bots_Modal_Desc"						"<span class=\"introText\">Your first bot match!</span><br><br>Bot matches are great for gaining familiarity with a hero; but don't accurately recreate the flow and teamwork of a PvP match.<br><br>Once you feel comfortable, feel free to leave the bot match and hop into matchmaking."
 
@@ -2472,20 +2472,20 @@
 		"Sandbox_Tutorial_Step_5"					"Step 5 of 6"
 		"Sandbox_Tutorial_Step_6"					"Step 6 of 6"
 
-		"Sandbox_Tutorial_Unlock_Abilities"			"Unlock Your Abilities"
+		"Sandbox_Tutorial_Unlock_Abilities"			"Mở khóa kỹ năng của bạn"
 		"Sandbox_Tutorial_Unlock_Abilities_desc"	"Hold [<span class='keybind'>{s:key_extra_info}</span>] to unlock new abilities."
 
-		"Sandbox_Tutorial_Abilities"				"Test your Abilities"
+		"Sandbox_Tutorial_Abilities"				"Thử kỹ năng của bạn"
 		"Sandbox_Tutorial_Abilities_desc"			"Try using your Abilities by pressing [<span class='keybind'>{s:in_ability1}</span>], [<span class='keybind'>{s:in_ability2}</span>], [<span class='keybind'>{s:in_ability3}</span>] or [<span class='keybind'>{s:in_ability4}</span>]."
 
-		"Sandbox_Tutorial_Upgrades"					"Upgrade your Abilities"
+		"Sandbox_Tutorial_Upgrades"					"Thử kỹ năng của bạn"
 		"Sandbox_Tutorial_Upgrades_desc"			"Hold [<span class='keybind'>{s:key_extra_info}</span>] to spend Ability Points to upgrade your Abilities."
 
 		"Sandbox_Tutorial_Zipline"					"Ride the Transit Line"
 		"Sandbox_Tutorial_Zipline_desc"				"Hold <span class='keybind'>{s:in_mantle}</span> to get on the Transit Line. You can jump off by pressing <span class='keybind'>{s:in_mantle}</span>."
 
-		"Sandbox_Tutorial_Mods"						"Purchase Items for your Hero"
-		"Sandbox_Tutorial_Mods_desc"				"Go to the Shop to browse items. Try purchasing a few."
+		"Sandbox_Tutorial_Mods"						"Thanh toán vật phẩm cho tướng"
+		"Sandbox_Tutorial_Mods_desc"				"Đi tới cửa hàng để xem các vật phẩm. Thử mua một vài trong số chúng."
 
 		"Sandbox_Tutorial_Completed"				"Sandbox Completed"
 		"Sandbox_Tutorial_Completed_desc"			"Feel free to play around more. When you’re done, leave Sandbox and start Lane Training."
@@ -2705,7 +2705,7 @@
 		"ping_going_shop"										"Going to shop"
 		"ping_right_back"										"Hãy đợi đấy"
 		"ping_be_back"											"Hãy đợi đấy"
-		"_back_"												"{s:param_1} get back!"
+		"_back_"												"{s:param_1} lùi lại mau!"
 		"ping_attack_enemy_titan"								"Tấn công Patron địch nào"
 		"ping_titan_under"										"Chúng đang tấn công Patron chúng ta"
 		"ping_take_core"										"Let's take out their core"
