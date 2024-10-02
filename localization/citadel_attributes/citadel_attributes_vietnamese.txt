@@ -1811,7 +1811,7 @@
 	}
 }
 
-"sign"
+"b2_track"
 {
 	"key"	"b2_sign"
 }

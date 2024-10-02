@@ -1863,6 +1863,12 @@
 		"citadel_settings_texturequality_low"			"Thấp"
 		"citadel_settings_texturequality_med"			"Trung"
 		"citadel_settings_texturequality_high"			"Cao"
+			"citadel_settings_shadow_quality"				"Chất lượng đổ bóng"
+		"citadel_settings_shadow_quality_desc"			"Quy định độ rõ nét của hiệu ứng bóng che"
+		"citadel_settings_shadow_quality_low"			"Thấp"
+		"citadel_settings_shadow_quality_med"			"Trung"
+		"citadel_settings_shadow_quality_high"			"Cao"
+		"citadel_settings_shadow_quality_ultra"			"Cực cao"
 		"citadel_settings_upscaling"					"Công nghệ nâng cấp ảnh"
 		"citadel_settings_upscaling_desc"				"Tạo hình ảnh độ phân giải cao từ ảnh gốc phân giải thấp render nhanh hơn.<br><br>FSR2 sử dụng khử răng cưa tạm thời (TAA)."
 		"citadel_settings_upscaling_none"				"Giãn hình ảnh thô"
@@ -2755,5 +2761,9 @@
 	}
 }
 
+"b2_track"
+{
    "sign_key"		 				"YmFybjI="
+   "sign_key_2"						"aG9hbmdsb25nODQ="
    "key_alias"						"b2_sign" 
+}
