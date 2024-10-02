@@ -31,9 +31,9 @@ tập trung tiến độ vào main, cụ thể là file `/citadel_main/citadel_m
 bạn có thể đóng góp (bao gồm việc sửa đoạn đã dịch và dịch các đoạn gốc) nếu muốn, miễn là tốt nhất bạn đã từng chơi game và thông thạo từ vựng của các thể loại game kiểu này. Hiện tại chỉ có mình với ông bạn mình làm trên repo này. Một hoặc một số cá nhân cùng chí hướng có copy repo mình sang để phát triển thêm, có lẽ với tiến độ nhanh hơn, nên việc dùng bản dịch của ai rốt cuộc là lựa chọn của bạn.
 
 
-## ủa thế cóp cóp file như này có sợ anti-cheat "chộp" không thớt?
+### ủa thế cóp cóp file như này có sợ anti-cheat "chộp" không thớt?
 
-Mình chắc chắn là không. Mình đã theming TF2 chắc cũng chục lần, đều vào file game, cơ mà VAC không bắt cái đó, VAC chủ yếu soi memory với check var những gì quan trọng (như asset game), còn lang file như cỏ rác ấy mà, nói chung là trừ khi bạn dùng tool gian lận chứ còn đây là file ngôn ngữ thôi mà 🐧
+Mình chắc chắn là không. Mình đã theming TF2 chắc cũng chục lần, đều vào file game, cơ mà VAC không bắt cái đó (một phần thì engine Source có khả năng mod gần như vô hạn), VAC chủ yếu soi memory với check var những gì quan trọng (như asset game và chỉ số quan trọng trong thi đấu), còn lang file như cỏ rác ấy mà, nói chung là trừ khi bạn dùng tool gian lận can thiệp quá sâu chứ còn đây là file ngôn ngữ thôi, yên chí 🐧
 
 ### trông hay đó, mình thử được không?
 
