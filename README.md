@@ -28,11 +28,12 @@ tập trung tiến độ vào main, cụ thể là file `/citadel_main/citadel_m
 
 ### mình có thể làm gì?
 
-bạn có thể đóng góp (bao gồm việc sửa đoạn đã dịch và dịch các đoạn gốc) nếu muốn, miễn là tốt nhất bạn đã từng chơi game và thông thạo từ vựng của các thể loại game kiểu này. Hiện tại chỉ có mình với ông bạn mình làm trên repo này.
+bạn có thể đóng góp (bao gồm việc sửa đoạn đã dịch và dịch các đoạn gốc) nếu muốn, miễn là tốt nhất bạn đã từng chơi game và thông thạo từ vựng của các thể loại game kiểu này. Hiện tại chỉ có mình với ông bạn mình làm trên repo này. Một hoặc một số cá nhân cùng chí hướng có copy repo mình sang để phát triển thêm, có lẽ với tiến độ nhanh hơn, nên việc dùng bản dịch của ai rốt cuộc là lựa chọn của bạn.
 
 
+## ủa thế cóp cóp file như này có sợ anti-cheat "chộp" không thớt?
 
-
+Mình chắc chắn là không. Mình đã theming TF2 chắc cũng chục lần, đều vào file game, cơ mà VAC không bắt cái đó, VAC chủ yếu soi memory với check var những gì quan trọng (như asset game), còn lang file như cỏ rác ấy mà, nói chung là trừ khi bạn dùng tool gian lận chứ còn đây là file ngôn ngữ thôi mà 🐧
 
 ### trông hay đó, mình thử được không?
 
@@ -73,9 +74,9 @@ Và một bước quan trọng để bắt game hiển thị bằng tiếng ta. 
 
 Bản dịch này được phát hành miễn phí dưới licence *[mi làm cái quái gì cũng được (WTFPL)](http://wtfpl.net)*, nên bạn hoàn toàn có thể chôm chỉa không xin hỏi. Tuy nhiên mình vẫn đánh giá cao nếu bạn credit mình trong một phần dự án của bạn.
 
-Dưới đây (có lẽ) là liệt kê các fork repo mình, hoặc dự án khác mình khuyến khích. 
-| fork/pj                                                                                  | author                 | licence                      | note|
-|----------|-----|----------|-----|
-|  [DeadLock-Vietnamese](https://github.com/TruongDucDuong1109/DeadLock-Vietnamese)          |  truongducduong1109    |  no licence/public domain    | indirect fork |
-| [hoanglong's deadlock-vietnamese fork](https://github.com/hoanglong84/deadlock-vietnamese)| hoanglong84           | wtfpl           | |
+Dưới đây là liệt kê các fork repo mình, hoặc dự án khác mình khuyến khích. 
+| fork/pj                                                                                  | author                 | licence                      | fork?      | note|
+|----------|-----|----------|-----|------|
+|  [DeadLock-Vietnamese](https://github.com/TruongDucDuong1109/DeadLock-Vietnamese)          |  truongducduong1109    |  no licence/public domain   |yes        | | indirect fork |
+| [hoanglong's deadlock-vietnamese fork](https://github.com/hoanglong84/deadlock-vietnamese)| hoanglong84           | wtfpl                      |      yes     | |           |
 
