@@ -937,6 +937,14 @@
 		"Citadel_Party_Context_HideCode"							"Ẩn mã mời đội"
 		"Citadel_Party_SentInvite"									"Đã gửi lời mời"
 		"Citadel_Party_Leave"										"Rời đội"
+		"Citadel_Party_Report"										"Báo cáo"
+		"Citadel_Party_Reported"									"Đã báo cáo"
+
+		
+		"Citadel_PlayerList_Teammates"								"Phe ta"
+		"Citadel_PlayerList_Enemy"									"Phe địch"
+
+
 
 		"Citadel_Main_EarlyDevBuild"								"Bản thử nghiệm sớm"
 		"Citadel_Main_ViewProfile"									"Xem hồ sơ"
