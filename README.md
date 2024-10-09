@@ -5,7 +5,7 @@
 
 # deadlock-vietnamese
 
-Repo này chứa bản dịch tiếng Việt đang phát triển cho [Deadlock](https://store.steampowered.com/app/1422450), một dự án game đang trong quá trình phát triển của [Valve](https://valvesoftware.com/). Dành cho mọi người muốn chơi game bằng tiếng Việt.
+Repo này chứa bản dịch tiếng Việt đang phát triển cho [Deadlock](https://store.steampowered.com/app/1422450), một dự án game đang trong quá trình phát triển của [Valve](https://valvesoftware.com/). Dành cho mọi người muốn chơi game bằng tiếng Việt. 
 
 
 ## có gì trong này?
@@ -18,7 +18,7 @@ tập trung tiến độ vào main, cụ thể là file `/citadel_main/citadel_m
 
 ## to-do
 - [X] Dịch sang các file khác ngoài `main`
--  -  [X] `attributes` 
+-  -  [ ] `attributes` (underway)
 - [ ] Hoàn thành `main`
 - [ ] Hoàn thành `gc`, `mods`
 - [ ] Hoàn thành `attributes`, `heroes`
@@ -77,6 +77,6 @@ Bản dịch này được phát hành miễn phí dưới licence *[mi làm cá
 Dưới đây là liệt kê các fork repo mình, hoặc dự án khác mình khuyến khích. 
 | fork/pj                                                                                  | author                 | licence                      | fork?      | note|
 |----------|-----|----------|-----|------|
-|  [DeadLock-Vietnamese](https://github.com/TruongDucDuong1109/DeadLock-Vietnamese)          |  truongducduong1109    |  no licence/public domain   |yes        | | indirect fork |
+|  [DeadLock-Vietnamese](https://github.com/TruongDucDuong1109/DeadLock-Vietnamese)          |  truongducduong1109    |  no licence/public domain   |yes        | |  indirect fork |
 | [hoanglong's deadlock-vietnamese fork](https://github.com/hoanglong84/deadlock-vietnamese)| hoanglong84           | wtfpl                      |      yes     | |           |
 
