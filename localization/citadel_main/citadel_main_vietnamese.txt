@@ -2209,6 +2209,7 @@
 		"menu_resume"								"Tiếp tục"
 		"menu_abandon"								"Bỏ Trận"
 		"menu_leave"								"Rời trận"
+		"menu_disconnect"							"Ngắt kết nối"
 		"menu_leave_spectate"						"Rời chế độ khán giả"
 		"menu_rejoin"								"Vào lại"
 		"menu_watch"								"Xem trận đấu"
