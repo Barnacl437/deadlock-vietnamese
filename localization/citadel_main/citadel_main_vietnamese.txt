@@ -2412,12 +2412,19 @@
 		"ReportCard_AbilitiesUpgraded_Desc"			"Nâng cấp kỹ năng bằng cách giữ [{s:key_extra_info}]"
 		"ReportCard_AbilitiesUpgraded_Progress"		"<span class=\"yourscore\">{i:abilitiesUpgraded}</span> / {i:abilitiesUpgradedNextGoal}"
 
+		"ReportCard_SoulsCollected_Desc"			"Thu thập 1000 linh hồn bằng cách tiêu diệt lính tráng địch"
+
+
 		"ReportCard_GuardianDamage"					"Sát thương lính hộ vệ"
 		"ReportCard_GuardianDamage_Desc"			"Sát thương bạn đã gây ra trên các đối tượng phe địch"
 		"ReportCard_GuardianDamage_Progress"		"<span class=\"yourscore\">{i:guardianDamage}</span> / {i:guardianDamageNextGoal}"
 		"ReportCard_DamageTaken"					"Sát thương nhận vào"
 		"ReportCard_DamageTaken_Desc"				"Đối với sát thương nhận vào, ít hơn là nhiều hơn"
 		"ReportCard_DamageTaken_Progress"			"<span class=\"yourscore\">{i:damageTaken}</span> &lt; {i:damageTakenNextGoal}"
+		
+		"ReportCard_NetWorth_Progress"				"<span class=\"yourscore\">{i:netWorth}</span> / {i:netWorthNextGoal} linh hồn"
+
+
 		"ReportCard_NetWorth"						"Linh hồn nhận được"
 		"ReportCard_NetWorth_Desc"					"Linh hồn nhận được bằng việc tiêu diệt lính tráng và bắn các quả cầu linh hồn"
 		"ReportCard_NetWorth_Progress"				"<span class=\"yourscore\">{i:netWorth}</span> / {i:netWorthNextGoal} Souls"
