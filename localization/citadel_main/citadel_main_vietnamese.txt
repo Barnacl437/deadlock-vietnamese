@@ -2273,6 +2273,42 @@
 		"menu_learn_incomplete"						"Chưa hoàn thành"
 		"menu_learn_completed"						"Đã hoàn thành"
 
+
+	// ranked match  
+		"menu_play_ranked"							"Trận xếp hạng"
+		"menu_play_ranked_desc"						"Chế độ chơi cạnh tranh giữa những con người giàu kinh nghiệm với nhau."
+		"menu_ranked_title"							"Xếp hạng:"
+		"menu_ranked_schedule_title"				"Lịch chơi:"
+		"menu_ranked_unavailable"					"Bị khóa"
+		"menu_ranked_unavailable_desc"				"Bạn phải chơi 50 trận tiêu chuẩn để mở khóa chế độ xếp hạng"
+		"menu_ranked_schedule_weekdays"				"Thứ hai - thứ năm:"
+		"menu_ranked_schedule_weekends"				"Thứ sáu - chủ nhật:"
+		"menu_ranked_schedule_alldays"				"Lịch hằng ngày:"
+		"menu_ranked_schedule_timeplaceholder"		"{t:t:start_time} - {t:t:end_time}"
+		"menu_ranked_select_schedule"				"Chọn lịch chơi"
+		"menu_ranked_view_schedules"				"Xem các lịch chơi"
+		"menu_ranked_set_schedule"					"Đặt lịch"
+		"menu_ranked_explainer_button"				"Trận xếp hạng là gì??"
+		"Citadel_SetSchedule_Failed"				"Lỗi đặt lịch"
+		"Citadel_SetSchedule_FailedToSetSchedule"	"Không thể đặt lịch bây giờ, hãy thử lại sau."
+		"Citadel_SetSchedule_AlreadySet"			"Lịch của bạn đã được đặt rồi."
+		"Citadel_SetSchedule_Success"				"Thành công"
+		"Citadel_SetSchedule_LocalTimes"			"Lịch chơi được hiển thị theo giờ địa phương"
+		"Citadel_SetSchedule_RegionWithIndex"		"{s:region_name} {d:region_index}"
+		"Citadel_SetSchedule_Selected"				"Đã chọn"
+		"Citadel_SetSchedule_SetSuccessfully"		"Lịch đã đặt thành công"
+		"Citadel_ranked_scheduleModal_title"		"Lịch các trận xếp hạng"
+		"Citadel_ranked_scheduleModal_desc"			"Hãy chọn các danh mục phù hợp với lịch chơi bạn ưu tiên.<br><br>Máy chủ gần bạn nhất sẽ được kết nối, dù bạn chọn danh mục nào."
+		"Citadel_ranked_scheduleModal_warning"		"Chú ý: Sau khi chọn lịch chơi cho phiên đấu hạng này, bạn sẽ không thay đổi được cho đến phiên tiếp theo."
+		"Citadel_ranked_open"						"Hiện đang mở"
+		"Citadel_ranked_closed"						"Đã đóng"
+		"Citadel_ranked_comingsoon"					"Trận đấu hạng đầu tiên sẽ bắt đầu vào thứ ba, 15 tháng mười lúc 20 giờ theo GMT"
+		"Citadel_ranked_schedule_explainer"			"Chế độ xếp hạng chỉ có thể chơi ở vài thời gian cụ thể, trước khi chơi hãy chọn thời gian phù hợp với lịch trình của bạn."
+
+		"Citadel_ranks_rank0"						"Chưa khởi tạo"
+
+
+
 		"item_info_abilities"						"Kĩ năng"
 		"item_info_flex_slots"						"FLEX SLOTS"
 		"item_info_active"							"Active"
