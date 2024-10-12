@@ -2196,11 +2196,11 @@
 
 		"Citadel_FlexSlot_Title"						"Đã mở khóa flex slot"
 		"Citadel_FlexSlotUnlockedLane"					"Bạn đã mở khóa flex slot vì đã diệt được đường của "
-		"Citadel_FlexSlotUnlockedGenerator"				"Bạn đã mở khóa flex slot vì đã diệt lần đầu một "
+		"Citadel_FlexSlotUnlockedGenerator"				"Bạn đã mở khóa flex slot vì đã diệt lần đầu một Điện thờ"
 		// "Citadel_FlexSlotUnlockedTier3"					"Bạn đã mở khóa flex slot vì đã diệt "
-		"Citadel_FlexSlotUnlockedAllTier1"				"Đã tiêu diệt được tất cả "
-		"Citadel_FlexSlotUnlockedKill2Tier2"			"Đã tiêu diệt được hai "
-		"Citadel_FlexSlotUnlockedAllTier2"				"Đã tiêu diệt được tất cả "
+		"Citadel_FlexSlotUnlockedAllTier1"				"Đã tiêu diệt được tất cả Lính hộ vệ"
+		"Citadel_FlexSlotUnlockedKill2Tier2"			"Đã tiêu diệt được hai Máy bộ hành của địch"
+		"Citadel_FlexSlotUnlockedAllTier2"				"Đã tiêu diệt được tất cả Máy bộ hành của địch"
 
 		"team_msg_TitanDefeated_Title"					"Patron bị phá hủy"
 		"team_msg_YourTitanDefeated_Desc"				"Patron phe ta bị phá hủy"
