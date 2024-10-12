@@ -37,9 +37,12 @@ Mình chắc chắn là không. Như một thằng đã đi theming TF2 chắc c
 
 ### trông hay đó, mình thử được không?
 
-được chứ. Tải file zip ở trang [releases](https://github.com/Barnacl437/deadlock-vietnamese/releases), giải nén thư mục `localization` và copy/move vào địa chỉ `[...]\steamapps\common\Deadlock\game\citadel\resource`, trong đó `[...]` là địa chỉ Steam Library của bạn. 
-
+được chứ. Tải file zip ở trang [releases](https://github.com/Barnacl437/deadlock-vietnamese/releases), giải nén thư mục `localization` và copy/move vào địa chỉ `[...]\steamapps\common\Deadlock\game\citadel\resource`, trong đó `[...]` là địa chỉ Steam Library của bạn.
 ![đây nì](https://github.com/user-attachments/assets/e2555dec-0f38-4d87-8cc8-023dcccefeb4)
+
+Nếu có thông báo `5 files with the same names`, bấm `Replace the files` để ghi đè lên các file cũ, như một cách để cập nhật.
+![{45D606BF-8132-41A3-8E01-45A464BD10EB}](https://github.com/user-attachments/assets/7ed3660c-ea21-4d7f-a74b-632d993fe53b)
+
 
 ***Cách thứ hai***: Bạn cũng có thể bấm biểu tượng bánh răng trong thư viện client Steam, hoặc chuột phải vào tên game ở panel bên trái, chọn Manage > Browse local files (hoặc trỏ chuột tương ứng nếu bạn dùng Steam bằng tiếng Việt), để vào folder game cho nhanh.
 
