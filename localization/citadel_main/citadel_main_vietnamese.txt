@@ -2326,7 +2326,7 @@
 		"Citadel_ranked_comingsoon"					"Trận đấu hạng đầu tiên sẽ bắt đầu vào thứ ba, 15 tháng mười lúc 20 giờ theo GMT"
 		"Citadel_ranked_schedule_explainer"			"Chế độ xếp hạng chỉ có thể chơi ở vài thời gian cụ thể, trước khi chơi hãy chọn thời gian phù hợp với lịch trình của bạn."
 
-		"Citadel_ranks_rank0"						"Chưa khởi tạo"
+	   ## "Citadel_ranks_rank0"						"Chưa khởi tạo"
 
 		"Citadel_ranked_explainer_button"			"Đấu hạng là gì?"
 		"Citadel_ranked_explainer_title"			"Matchmaking xếp hạng"
