@@ -2328,6 +2328,37 @@
 
 		"Citadel_ranks_rank0"						"Chưa khởi tạo"
 
+		"Citadel_ranked_explainer_button"			"Đấu hạng là gì?"
+		"Citadel_ranked_explainer_title"			"Matchmaking xếp hạng"
+		"Citadel_ranked_explainer_desc"				"Đấu hạng là một chế độ chơi cung cấp trải nghiệm chơi Deadlock cạnh tranh nơi bạn sẽ đối đầu với những người chơi khác có cùng kĩ năng để quyết định <em>Hạng kĩ năng</em> của bạn với người chơi toàn cầu.<br><br>Mỗi tuần, mọi người có thể tham gia tranh đua bằng cách chơi các trận đấu hạng trong thời gian mở trận ở khu vực gần nhất để trổ tài tỉ thí của họ."
+		"Citadel_ranked_howitworks_title"			"Vậy nó hoạt động ra sao?"
+		"Citadel_ranked_howitworks_desc"			"Tất cả người chơi bắt đầu với một hạng tạm thời là Tăm tối, và bạn phải chơi 7 trận đấu xếp hạng mỗi tuần để có thể được chỉ tiêu xếp hạng cho tuần đó. Cuối tuần bạn sẽ được nhận thứ hạng, hiển thị trên hồ sơ của bạn như huy hiệu.<br><br>Nếu cuối tuần đó bạn vẫn chưa chơi đủ 7 trận xếp hạng, hạng hiển thị của bạn sẽ chuyển về Tăm tối và sẽ bị ẩn đến khi bạn đủ tiêu chí xếp hạng vào một tuần khác. Các thông số kĩ năng nội bộ vẫn sẽ được giữ lại và tối ưu hóa với các trận đấu hạng bạn chơi sau này, nhưng không hiển thị huy hiệu cho đến một thời điểm đã xác định.<br><br>Có 7 thứ hạng khác nhau, và mỗi thứ hạng sẽ có các cấp bậc từ I đến VI, sẽ chỉ điểm rõ vị trí của bạn trong thứ hạng cụ thể."
+		"Citadel_ranked_rankedmedals"				"Thứ hạng:"
+
+		"Citadel_ranked_explainer_note"				"Thiết kế huy hiệu sẽ được tiết lộ khi các hạng được trao cho người chơi vào thứ ba, 22 tháng 10."
+
+
+		"Citadel_ranks_rank0"						"Tăm tối"
+		"Citadel_ranks_rank1"						"Khởi đầu"
+		"Citadel_ranks_rank2"						"Kiếm tìm"
+		"Citadel_ranks_rank3"						"Luyện kim"
+		"Citadel_ranks_rank4"						"Bí thuật"
+		"Citadel_ranks_rank5"						"Nghi thức"
+		"Citadel_ranks_rank6"						"Sứ giả"
+		"Citadel_ranks_rank7"						"Tiên tri"
+		"Citadel_ranks_rank8"						"Đại thần"
+		"Citadel_ranks_rank9"						"Bóng ma"
+		"Citadel_ranks_rank10"						"Cao thượng"
+		"Citadel_ranks_rank11"						"Vĩnh hằng"
+
+		"Citadel_subranks_1"						"I"
+		"Citadel_subranks_2"						"II"
+		"Citadel_subranks_3"						"III"
+		"Citadel_subranks_4"						"IV"
+		"Citadel_subranks_5"						"V"
+		"Citadel_subranks_6"						"VI"
+
+		"Citadel_rank_phase_example"				"15 - 21 tháng 10 | 2024"
 
 
 		"item_info_abilities"						"Kĩ năng"
