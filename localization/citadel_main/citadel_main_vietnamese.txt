@@ -730,8 +730,8 @@
 		"Citadel_HUD_PlayerKilledAnnouncement"						"&nbsp;đã nắm được <span class=\"dataFeedClass\">{i:param_1}</span> "
 		"Citadel_HUD_PlayerKilledSelfAnnouncement"					"&nbsp;đã tự vẫn "
 		"Citadel_HUD_PlayerLostGoldAnnouncement"					"&nbsp;đã mất <span class=\"dataFeedClass\">{i:param_1}</span> "
-		"Citadel_HUD_RejuvCaptured"									"Đã bắt được Rejuvenator"
-		"Citadel_HUD_RejuvStolen"									"Đã ăn trộm Rejuvenator!"
+		"Citadel_HUD_RejuvCaptured"									"Đã bắt được Vật tổ phục hưng"
+		"Citadel_HUD_RejuvStolen"									"Đã ăn trộm Vật tổ phục hưng!"
 		"Citadel_HUD_IdolPickedUp"									"Đã nhặt bình tro!"
 		"Citadel_HUD_IdolReturned"									"Bình tro hồn thiêng đã khứ hồi!"
 		"Citadel_HUD_DamageSummary_Title"							"Sát thương <i>nhận được</i>"
@@ -1543,14 +1543,14 @@
 
 
 		// IN-GAME MODIFIERS
-		"modifier_idol_pickup_aura/aura_target/timer"			"Đang nhặt Soul Urn"
-		"modifier_neutral_gold_pickup_aura/aura_target/timer"	"Đang nhặt Unsecured Souls"
-		"modifier_rejuv_pickup_aura/aura_target/timer"			"Đang nhặt Team Rejuvenator"
-		"modifier_early_gold_pickup_aura/aura_target/timer"		"Đang chiếm Team Souls"
-		"modifier_citadel_holding_golden_idol"  				"Bring Urn to an Altar"
-		"modifier_citadel_returning_golden_idol"  				"Depositing Urn"
-		"modifier_knocked_off_zipline_slow"						"Knocked off zipline"
-		"modifier_citadel_respawn_credit" 						"Rejuvenation Credit"
+		"modifier_idol_pickup_aura/aura_target/timer"			"Đang nhặt Urn linh hồn"
+		"modifier_neutral_gold_pickup_aura/aura_target/timer"	"Đang nhặt linh hồn không bảo vệ"
+		"modifier_rejuv_pickup_aura/aura_target/timer"			"Đang nhặt vật tổ phục hưng của đội"
+		"modifier_early_gold_pickup_aura/aura_target/timer"		"Đang chiếm linh hồn của đội"
+		"modifier_citadel_holding_golden_idol"  				"Đem Urn lên bàn thờ"
+		"modifier_citadel_returning_golden_idol"  				"Đặt Urn lên"
+		"modifier_knocked_off_zipline_slow"						"Kéo tọt khỏi cáp treo"
+		"modifier_citadel_respawn_credit" 						"Điểm thưởng phục hưng"
 
 
 		"modifier_hint_vertical_movement"		"Nhấn {s:in_mantle} để hủy. {s:in_innate1}/{s:duck} để di chuyển Up/Down"
@@ -1562,24 +1562,24 @@
 
 		"CITADEL_ABILITY_INVALID_IN_CAST_DELAY"			"Đã kích hoạt"
 		"CITADEL_ABILITY_INVALID_IN_COOLDOWN"			"Đang hồi chiêu"
-		"CITADEL_ABILITY_INVALID_NOT_LEARNED"			"Not yet learned"
-		"CITADEL_ABILITY_INVALID_CANT_CAST_NO_CHARGES"	"Not enough charges"
+		"CITADEL_ABILITY_INVALID_NOT_LEARNED"			"Chưa học được kĩ năng này"
+		"CITADEL_ABILITY_INVALID_CANT_CAST_NO_CHARGES"	"Không đủ để kích hoạt"
 		"CITADEL_ABILITY_INVALID_CANT_CAST_IN_CHARGE_DELAY"	"Charge delay"
 		"CITADEL_ABILITY_INVALID_BUSY_WITH_ACTION"		"Đang bận hành động"
 		"CITADEL_ABILITY_INVALID_MUTED"					"Muted disabling abilities and items"
 		"CITADEL_ABILITY_INVALID_PREMATCH"				"Trận đấu chưa bắt đầu"
-		"CITADEL_ABILITY_INVALID_SILENCED"				"Can't use Abilities while Silenced"
+		"CITADEL_ABILITY_INVALID_SILENCED"				"Không thể dùng kĩ năng trong trạng thái Câm lặng"
 		"CITADEL_ABILITY_INVALID_SILENCED_IDOL"			"Không thể sử dụng kỹ năng khi đang cầm Urn"
-		"CITADEL_ABILITY_INVALID_SILENCE_MOVEMENT_ABILITIES"		"Movement abilities disabled"
-		"CITADEL_ABILITY_INVALID_DISARMED"				"You are Disarmed"
-		"CITADEL_ABILITY_INVALID_ROOTED"				"You are Immobilized"
+		"CITADEL_ABILITY_INVALID_SILENCE_MOVEMENT_ABILITIES"		"Mất khả năng di chuyển"
+		"CITADEL_ABILITY_INVALID_DISARMED"				"Bạn bị mất súng"
+		"CITADEL_ABILITY_INVALID_ROOTED"				"Bạn bị bất động"
 		"CITADEL_ABILITY_INVALID_TARGET_OUT_OF_RANGE"	"Mục tiêu ngoài phạm vi"
-		"CITADEL_ABILITY_INVALID_NO_TARGET"				"No target"
-		"CITADEL_ABILITY_INVALID_NO_TARGET_REQUIRES_TROOPER"	"Requires Target Trooper"
-		"CITADEL_ABILITY_INVALID_NO_TARGET_REQUIRES_NPC"		"Requires Target NPC"
-		"CITADEL_ABILITY_INVALID_NO_TARGET_REQUIRES_HERO"		"Requires Target Hero"
+		"CITADEL_ABILITY_INVALID_NO_TARGET"				"Không có mục tiêu"
+		"CITADEL_ABILITY_INVALID_NO_TARGET_REQUIRES_TROOPER"	"Yêu cầu mục tiêu lính tráng"
+		"CITADEL_ABILITY_INVALID_NO_TARGET_REQUIRES_NPC"		"Yêu cầu mục tiêu NPC"
+		"CITADEL_ABILITY_INVALID_NO_TARGET_REQUIRES_HERO"		"Yêu cầu mục tiêu tướng"
 		"CITADEL_ABILITY_INVALID_POSITION"				"Vị trí không hợp lệ"
-		"CITADEL_ABILITY_INVALID_CANT_USE_OFF_GROUND"	"Can't be used off ground"
+		"CITADEL_ABILITY_INVALID_CANT_USE_OFF_GROUND"	"Không dùng khi đang trên cao"
 		"CITADEL_ABILITY_INVALID_NO_ABILITY"			"Không có kĩ năng"
 		"CITADEL_ABILITY_INVALID_USING_WEAPON_SCOPE"	"Không thể sử dụng khi ngắm"
 		"CITADEL_ABILITY_INVALID_ASLEEP"				"Ngái ngủ"
@@ -1677,7 +1677,7 @@
 
 		"breakable_pickup_missing_loc"					"PICKUP MISSING LOC NAME"
 
-		"Item_Rejuvenator"								"Rejuvenator"
+		"Item_Rejuvenator"								"Vật tổ phục hưng"
 
 
 		"Citadel_AcquireTicket_ErrorTitle"						"Lỗi"
@@ -2634,7 +2634,7 @@
 		"AbilityButtonHint_DropTarget"				"Thả mục tiêu"
 		"AbilityButtonHint_HatTrickFire"			"Bắn"
 		"AbilityButtonHint_HatTrickCancel"			"Trở lại"
-		"AbilityButtonHint_MeleeRejuvinator"		"Ấn giữ cận chiến để chiếm rejuvenator"
+		"AbilityButtonHint_MeleeRejuvinator"		"Ấn giữ cận chiến để chiếm Vật tổ phục hưng"
 		"AbilityButtonHint_ClimbRope"				"Giữ để leo dây"
 		
 
