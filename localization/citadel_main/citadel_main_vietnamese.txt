@@ -1317,7 +1317,7 @@
 		"Citadel_Graph_Souls_Boss"						"Vật thể"
 		"Citadel_Graph_Souls_Lane"						"Lính"
 		"Citadel_Graph_Souls_Neutral"					"Địch trung tính"
-		"Citadel_Graph_Souls_Treasure"					"Urn"
+		"Citadel_Graph_Souls_Treasure"					"Bình tro"
 		"Citadel_Graph_Souls_Denies"					"Denies"
 
 		"Citadel_Graph_Damage_Boss"						"Vật thể"
@@ -1503,10 +1503,10 @@
 		"CitadelCategoryCustom"					"Build tùy chỉnh"
 		"CitadelShopSearch"						"Tìm kiếm"
 
-		"CitadelShop_SearchExampleLine1"		"Search Examples:"
-		"CitadelShop_SearchExampleLine2"		"Name: <span class=\"highlight\">Phantom Strike</span>"
-		"CitadelShop_SearchExampleLine3"		"Property: <b>Bullet Resist</b>"
-		"CitadelShop_SearchExampleAlt"			"Try searching by <span class=\"highlight\">Item Name</span> or by stat such as <span class=\"highlight_weapon\">Ammo</span>, <span class=\"highlight_vitality\">Lifesteal</span> or <span class=\"highlight_spirit\">Spirit Power</span>."
+		"CitadelShop_SearchExampleLine1"		"Ví dụ tìm kiếm:"
+		"CitadelShop_SearchExampleLine2"		"Tên: <span class=\"highlight\">Bộc phá thần bí</span>"
+		"CitadelShop_SearchExampleLine3"		"Thuộc tính: <b>Kháng đạn</b>"
+		"CitadelShop_SearchExampleAlt"			"Hãy thử tìm bằng <span class=\"highlight\">Tên vật phẩm</span> hoặc bằng các thuộc tính/chỉ số như <span class=\"highlight_weapon\">Đạn</span>, <span class=\"highlight_vitality\">Lifesteal</span> hay <span class=\"highlight_spirit\">Sức mạnh tâm linh</span>."
 
 		"Citadel_Dead_ShopReminder"				"Cửa hàng & nâng cấp"
 		"Citadel_Dead_ReplayDeath"				"Phát lại sau khi chết"
@@ -1543,12 +1543,13 @@
 
 
 		// IN-GAME MODIFIERS
-		"modifier_idol_pickup_aura/aura_target/timer"			"Đang nhặt Urn linh hồn"
+		"modifier_idol_pickup_aura/aura_target/timer"			"Đang nhặt bình tro linh hồn"
 		"modifier_neutral_gold_pickup_aura/aura_target/timer"	"Đang nhặt linh hồn không bảo vệ"
 		"modifier_rejuv_pickup_aura/aura_target/timer"			"Đang nhặt vật tổ phục hưng của đội"
 		"modifier_early_gold_pickup_aura/aura_target/timer"		"Đang chiếm linh hồn của đội"
-		"modifier_citadel_holding_golden_idol"  				"Đem Urn lên bàn thờ"
-		"modifier_citadel_returning_golden_idol"  				"Đặt Urn lên"
+		"modifier_citadel_holding_golden_idol"  				"Đem bình tro lên bàn thờ"
+		"modifier_citadel_holding_golden_idol_revealed"			"Địch nhìn thấy! Hãy đem bình tro lên bàn thờ"
+		"modifier_citadel_returning_golden_idol"  				"Đặt bình tro lên"
 		"modifier_knocked_off_zipline_slow"						"Kéo tọt khỏi cáp treo"
 		"modifier_citadel_respawn_credit" 						"Điểm thưởng phục hưng"
 
@@ -1569,7 +1570,7 @@
 		"CITADEL_ABILITY_INVALID_MUTED"					"Muted disabling abilities and items"
 		"CITADEL_ABILITY_INVALID_PREMATCH"				"Trận đấu chưa bắt đầu"
 		"CITADEL_ABILITY_INVALID_SILENCED"				"Không thể dùng kĩ năng trong trạng thái Câm lặng"
-		"CITADEL_ABILITY_INVALID_SILENCED_IDOL"			"Không thể sử dụng kỹ năng khi đang cầm Urn"
+		"CITADEL_ABILITY_INVALID_SILENCED_IDOL"			"Không thể sử dụng kỹ năng khi đang cầm bình tro"
 		"CITADEL_ABILITY_INVALID_SILENCE_MOVEMENT_ABILITIES"		"Mất khả năng di chuyển"
 		"CITADEL_ABILITY_INVALID_DISARMED"				"Bạn bị mất súng"
 		"CITADEL_ABILITY_INVALID_ROOTED"				"Bạn bị bất động"
@@ -2176,7 +2177,7 @@
 		"kill_hype_KillStreak"	"{i:kills} chuỗi kill"
 		"kill_hype_FirstBlood"	"chiến công đầu"
 
-		"team_msg_Idol_Desc"	"Soul Urn"
+		"team_msg_Idol_Desc"	"Bình tro linh hồn"
 		
 		"team_msg_Winner_SubText"	"Các Patron đã công nhận bạn"
 		"Citadel_GameOver_Victory"	"Chiến thắng"
@@ -2616,7 +2617,7 @@
 		"AbilityButtonHint_MoveDown"				"Lùi xuống"
 		"AbilityButtonHint_FlyUp"					"Bay lên"
 		"AbilityButtonHint_FlyDown"					"Hạ xuống"
-		"AbilityButtonHint_DropIdol"				"Thả Urn"
+		"AbilityButtonHint_DropIdol"				"Thả bình tro"
 		"AbilityButtonHint_RollingGooAccelerate"	"Tăng tốc"
 		"AbilityButtonHint_RollingGooJump"			"Nhảy"
 		"AbilityButtonHint_RollingGooCancel"		"Hủy"
@@ -2849,8 +2850,8 @@
 		"ping_can_heal"											"Tôi có thể hồi máu {s:param_1}"
 		"Citadel_Ping_CanHealMessage"							"Có thể hồi máu"
 		"ping_need_plan"										"Kế hoạch sao?"
-		"ping_help_with_idol_label"								"Cần giúp Urn"
-		"ping_help_with_idol_message"							"Giúp tôi chuyển urn"
+		"ping_help_with_idol_label"								"Cần giúp bình tro"
+		"ping_help_with_idol_message"							"Giúp tôi chuyển bình tro"
 		"ping_youre_welcome"									"Không có chi"
 		"ping_sorry"											"Xin lỗi"
 		"ping_enemy_has_item"									"Cẩn thận! {s:param_1} có {s:param_2}"
