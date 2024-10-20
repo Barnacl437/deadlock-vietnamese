@@ -19,6 +19,7 @@ tập trung tiến độ vào main, cụ thể là file `/citadel_main/citadel_m
 ## to-do
 - [X] Dịch sang các file khác ngoài `main`
 -  -  [ ] `attributes` (underway)
+-  -  [X] `gc`
 - [ ] Hoàn thành `main`
 - [ ] Hoàn thành `gc`, `mods`
 - [ ] Hoàn thành `attributes`, `heroes`
