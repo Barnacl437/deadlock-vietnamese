@@ -385,7 +385,7 @@
 		"upgrade_cold_front"					"Mặt tiền lạnh giá"		
 		"upgrade_target_stun"					"Hạ gục"
 		"upgrade_aoe_root"						"Tấm lưới chân không"				
-		"upgrade_tech_cleave"					"Quantum Chimaera"
+		"upgrade_tech_cleave"					"Thần thú lượng tử"
 		"upgrade_tech_armor_reduction_aura"		"Spirit Armor Reduction Aura"		
 		"upgrade_camouflage"					"Camouflage Suit"
 		"upgrade_glitch"						"Curse"
