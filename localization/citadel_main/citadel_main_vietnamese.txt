@@ -2331,6 +2331,7 @@
 		"menu_play_bots_hard_desc"					"Chơi một ván đấu bot khó. Có thể chơi một mình hay chơi đội."
 		"menu_play_custom_game_desc"				"Tạo hoặc tham gia trận tùy chỉnh tối đa 12 người chơi"
 		"menu_play_hero_labs_desc"					"Chơi thử các tướng đang trong quá trình thử nghiệm"
+		"menu_play_hero_labs_locked_desc"			"Chơi thử các tướng trong quá trình thử nghiệm. Mở khóa sau khi chơi đủ 50 trận."
 		"menu_play_get_started_time_est"			"4 phút"
 		"menu_play_sandbox_time_est"				"5 phút"
 		"menu_play_lane_training_time_est"			"8 phút"
