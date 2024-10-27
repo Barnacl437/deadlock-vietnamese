@@ -2476,7 +2476,10 @@
 		"MyRosterWaitForParty"						"Đang chờ thành viên trong danh sách..."
 		"MyRosterExit"								"Thoát danh sách"
 		"MyRosterExitRosterConfirm"					"Bạn có chắc muốn thoát danh sách không? Cả đội của bạn sẽ bị thoát theo."
-		"MyRosterPartyHighSkillRange"				"Your party contains a wide skill range of players. This will result in a MORE DIFFICULT match for your party."
+		"MyRosterPartyHighSkillRangeTitle"			"Đội có biên độ kĩ năng lớn"		
+		"MyRosterPartyHighSkillRange"				"Đội bạn hiện đang có sự chênh lệch kĩ năng lớn hơn mức bình thường có thể ghép trận. Hệ thống sẽ chỉ ghép với các đội tương tự và sẽ mất nhiều thời gian hơn.<br><br>Điều này cũng sẽ gây khó khăn cho những người chơi kĩ năng thấp hơn.<br><br>Các đội có 2, 3 hoặc đủ 6 thành viên sẽ có khả năng tìm trận nhanh hơn so với số lượng khác."
+		"PartyWarningPostGame"						"Trận có biên độ chênh lệch lớn"
+
 
 		"MyRosterPartyReadyCount"					"{d:party_ready_count}/{d:party_player_count} đã sẵn sàng"
 
