@@ -412,8 +412,8 @@
 		//-----------------------------------------------------------------------------
 		
 		"upgrade_toughness_3"							"Bền dai"
-		"upgrade_vampire"								"Bullet Lifesteal"
-		"upgrade_health_regen_1"						"Health Regen"
+		"upgrade_vampire"								"Tử đạn hấp huyết"
+		"upgrade_health_regen_1"						"Hồi phục"
 		"upgrade_health_stimpak"						"Healing Rite"
 		"upgrade_savior"								"Divine Barrier"
 		"upgrade_restorative_locket"					"Restorative Locket"

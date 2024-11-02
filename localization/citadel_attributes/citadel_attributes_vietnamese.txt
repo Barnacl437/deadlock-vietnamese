@@ -254,168 +254,168 @@
 		//-----------------------------------------------------------------------------
 		"EMultiplyBase_postfix"						"%"
 
-		"HealAmount_label"							"Heal Amount"
-		"HealInterval_label"						"Heal Interval"
+		"HealAmount_label"							"Lượng hồi máu"
+		"HealInterval_label"						"Thời gian hồi máu"
 		"HealInterval_postfix"						"s"
 		
-		"SlowPercent_label"							"Movement Slow"
+		"SlowPercent_label"							"Làm chậm di chuyển"
 		"SlowPercent_postfix"							"%"
-		"movement_slow"								"Movement Slow"
-		"SlowDurationPerStack_label"					"Slow Duration per Stack"
+		"movement_slow"								"Làm chậm đi chuyển"
+		"SlowDurationPerStack_label"					"Thời gian làm chậm trên stack"
 		"SlowDurationPerStack_postfix"				"s"
 
-		"DroneLifetime_label"							"Drone Lifetime"
+		"DroneLifetime_label"							"Thời gian tồn tại của drone"
 
-		"CritChance_label"							"Critical Chance"
+		"CritChance_label"							"Tỷ lệ phát chí mạng"
 		"CritChance_postfix"							"%"
 
-		"ShieldHealth_label"							"Shield Health"
+		"ShieldHealth_label"							"Khiên máu"
 
-		"SpeedBoostPercent_label"						"Speed"
+		"SpeedBoostPercent_label"						"Tốc độ"
 		"SpeedBoostPercent_prefix"						"{s:sign}"
 		"SpeedBoostPercent_postfix"						"%"
 
-		"Damage_label"								"Damage"
-		"DamageBoosted_label"						"Damage"
+		"Damage_label"								"Sát thương"
+		"DamageBoosted_label"						"Sát thương"
 
-		"DamagePlayer_label"							"Damage to Players"
+		"DamagePlayer_label"							"Sát thương lên người chơi"
 
-		"DamageNPC_label"								"Damage to non-Players"
+		"DamageNPC_label"								"Sát thương lên vật thể khác"
 
-		"DetectionRadius_label"						"Detection Radius"
+		"DetectionRadius_label"						"Bán kính nhận biết"
 
-		"MaxMines_label"								"Max Mines"
+		"MaxMines_label"								"Lượng mìn tối đa"
 	
-		"HealRate_label"								"Heal Rate"
-		"HealRate_postfix"								"/sec"
+		"HealRate_label"								"Tốc độ hồi máu"
+		"HealRate_postfix"								"/s"
 
-		"Radius_label"								"Radius"
+		"Radius_label"								"Bán kính"
 		"Radius_postfix"								"m"
 
-		"InactiveRadius_label"						"Inactive Radius"
+		"InactiveRadius_label"						"Bán kính không hoạt động"
 		"InactiveRadius_postfix"						"m"
 
-		"ActiveRadius_label"						"Active Radius"
+		"ActiveRadius_label"						"Bán kính hoạt động"
 		"ActiveRadius_postfix"						"m"
 
-		"MaxRadius_label"								"Max Radius"
+		"MaxRadius_label"								"Bán kính tối đa"
 		"MaxRadius_postfix"								"m"
 
-		"TackleRadius_label"							"Tackle Radius"
+		"TackleRadius_label"							"Bán kính xử lý"
 		"TackleRadius_postfix"							"m"
 
-		"MovementDamagePercent_label"					"Damage"
-		"MovementDamagePercent_postfix"					" % Damage every 256 units moved"
+		"MovementDamagePercent_label"					"Sát thương"
+		"MovementDamagePercent_postfix"					" % sát thương trên 256 đơn vị di chuyển"
 
 		"DPS_prefix"									""
 		"DPS_postfix"									""
 		"DPS_label"									"DPS"
 
-		"DPSIncrease_label"							"Damage Increase Rate"
-		"DPSMin_label"								"Min DPS"
-		"DPSMax_label"								"Max DPS"
+		"DPSIncrease_label"							"Mức tăng sát thương"
+		"DPSMin_label"								"DPS tối đa"
+		"DPSMax_label"								"DPS tối thiểu"
 
-		"DPS_Self_label"								"Self Damage"
-		"DPS_Self_postfix"								"/sec"
+		"DPS_Self_label"								"Sát thương lên bản thân"
+		"DPS_Self_postfix"								"/s"
 
 		"BaseAttackDamage_prefix"						"{s:sign}"
-		"BaseAttackDamage_label"						"Base Damage"
+		"BaseAttackDamage_label"						"Sát thương cơ sở"
 
 		"BonusHealth_prefix"							"{s:sign}"
-		"BonusHealth_label"							"Bonus Health"
+		"BonusHealth_label"							"Máu bổ sung"
 
 		"MaxHealth_prefix"							"{s:sign}"
-		"MaxHealth_label"							"Max Health"
+		"MaxHealth_label"							"Máu tối đa"
 
 		"BonusEnergyMax_label"						"Energy Cells"
 
 		"BonusMaxHealth_prefix"							"{s:sign}"
-		"BonusMaxHealth_label"						"Health"
+		"BonusMaxHealth_label"						"Máu"
 
 		"BonusHealthPercent_prefix"					"{s:sign}"
 		"BonusHealthPercent_postfix"				"%"
-		"BonusHealthPercent_label"					"Health"
+		"BonusHealthPercent_label"					"Máu"
 
 		"BonusHealthRegen_prefix"					"{s:sign}"
 		"BonusHealthRegen_postfix"					""
-		"BonusHealthRegen_label"					"Health Regen"
+		"BonusHealthRegen_label"					"Tự hồi máu"
 
 		"BaseWeaponDamage_postfix"						"%"
 
-		"LevelUpBaseWeaponDamage"					"Bullet Damage"
-		"LevelUpBaseMeleeDamage"					"Melee Damage"
+		"LevelUpBaseWeaponDamage"					"Sát thương đạn"
+		"LevelUpBaseMeleeDamage"					"Sát thương cận chiến"
 
 		"HealthRegen_prefix"						"{s:sign}"
 		"HealthRegen_postfix"						""
-		"HealthRegen_label"						"Health Regen"
+		"HealthRegen_label"						"Tự hồi máu"
 
 		"BonusRegenMaxHealthPercent_prefix"					"{s:sign}"
 		"BonusRegenMaxHealthPercent_postfix"					"%"
-		"BonusRegenMaxHealthPercent_label"						"Max Health Regen"
+		"BonusRegenMaxHealthPercent_label"						"Tự hồi máu tối đa"
 
 		"BonusHealthRegenOutOfCombat_prefix"			"{s:sign}"
 		"BonusHealthRegenOutOfCombat_postfix"			""
 		"BonusHealthRegenOutOfCombat_label"			"Health Regen Out of Combat"
 
 		"ExternalBonusHealthRegen_prefix"				"{s:sign}"
-		"ExternalBonusHealthRegen_postfix"				"/sec"
-		"ExternalBonusHealthRegen_label"				"Health Regen"
+		"ExternalBonusHealthRegen_postfix"				"/s"
+		"ExternalBonusHealthRegen_label"				"Tự hồi máu"
 
 		"ActiveHealthRegenBoost_prefix"					"{s:sign}"
-		"ActiveHealthRegenBoost_postfix"				"hp/sec"
-		"ActiveHealthRegenBoost_label"				"Health Regen"
+		"ActiveHealthRegenBoost_postfix"				"hp/s"
+		"ActiveHealthRegenBoost_label"				"Tự hồi máu"
 
-		"NonPlayerBonusWeaponPower_label"			"Weapon Damage vs. NPCs"
+		"NonPlayerBonusWeaponPower_label"			"Sát thương vũ khí chống lại NPC"
 		"NonPlayerBonusWeaponPower_prefix"			"+"
 		"NonPlayerBonusWeaponPower_postfix"			"%"
-		"NonPlayerBonusWeaponPower_conditional"		"against NPCs"
+		"NonPlayerBonusWeaponPower_conditional"		"chống lại NPC"
 
-		"NonPlayerBulletResist_label"			"Bullet Resist vs. NPCs"
+		"NonPlayerBulletResist_label"			"Kháng cự đạn chống lại NPC"
 		"NonPlayerBulletResist_prefix"			"+"
 		"NonPlayerBulletResist_postfix"			"%"
-		"NonPlayerBulletResist_conditional"		"against NPCs"
+		"NonPlayerBulletResist_conditional"		"chống lại NPCs"
 
 		"BonusMeleeDamagePercent_prefix"				"{s:sign}"
 		"BonusMeleeDamagePercent_postfix"				"%"
-		"BonusMeleeDamagePercent_label"				"Melee Damage"
+		"BonusMeleeDamagePercent_label"				"Sát thương cận chiến"
 
 		"BonusMeleeDamage_prefix"						"{s:sign}"
-		"BonusMeleeDamage_label"						"Melee Damage"
+		"BonusMeleeDamage_label"						"Sát thương cận chiến"
 
-		"FuseTime_label"								"Fuse Time"
+		"FuseTime_label"								"Thời gian cháy chậm"
 		"FuseTime_postfix"								"s"
 
 		"BonusAmmoRegen_prefix"							"{s:sign}"
-		"BonusAmmoRegen_postfix"						" per second"
-		"BonusAmmoRegen_label"						"Ammo Regen"
+		"BonusAmmoRegen_postfix"						" trên giây"
+		"BonusAmmoRegen_label"						"Tự hồi đạn"
 
 		"BonusAmmo_prefix"								"{s:sign}"
 		"BonusAmmo_postfix"								"%"
-		"BonusAmmo_label"								"Bullets"
+		"BonusAmmo_label"								"Đạn"
 
 		"Lifetime_postfix"								"s"
-		"Lifetime_label"								"Lifetime"
+		"Lifetime_label"								"Vòng đời"
 
 		"Distance_postfix"								"m"
-		"Distance_label"								"Distance"
+		"Distance_label"								"Khoảng cách"
 
-		"ChainDamageCoeff_postfix"						"% of gun damage"
-		"ChainDamageCoeff_label"						"Chain Damage"
+		"ChainDamageCoeff_postfix"						"% sát thương súng"
+		"ChainDamageCoeff_label"						"Sát thương liên hoàn"
 
 		"BulletArmor_prefix"							"{s:sign}"
-		"BulletArmor_label"								"Bullet Armor"
+		"BulletArmor_label"								"Giáp chống đạn"
 
 		"BulletResist_prefix"							"{s:sign}"
 		"BulletResist_postfix"							"%"
-		"BulletResist_label"							"Bullet Resist"
+		"BulletResist_label"							"Kháng đạn"
 
 		"BulletArmorDamageReduction_prefix"				"{s:sign}"
 		"BulletArmorDamageReduction_postfix"			"%"
-		"BulletArmorDamageReduction_label"				"Bullet Resist"
+		"BulletArmorDamageReduction_label"				"Kháng đạn"
 
 		"TechArmorDamageReduction_prefix"				"{s:sign}"
 		"TechArmorDamageReduction_postfix"				"%"
-		"TechArmorDamageReduction_Label"				"Spirit Resist"
+		"TechArmorDamageReduction_Label"				"Kháng tâm linh"
 
 		"TechDamageScale_prefix"						"{s:sign}"
 		"TechDamageScale_postfix"						"%"
@@ -426,85 +426,85 @@
 		
 		"TechResist_prefix"								"{s:sign}"
 		"TechResist_postfix"							"%"
-		"TechResist_label"								"Spirit Resist"
+		"TechResist_label"								"Kháng tâm linh"
 
 		"TechResistPerStack_prefix"						"{s:sign}"
 		"TechResistPerStack_postfix"					"%"
-		"TechResistPerStack_label"						"Spirit Amp per Stack"
+		"TechResistPerStack_label"						"Cường hóa tâm linh trên stack"
 
 		"MagicIncreasePerStack_prefix"					"{s:sign}"
 		"MagicIncreasePerStack_postfix"					"%"
-		"MagicIncreasePerStack_label"					"Spirit Amp per Stack"
+		"MagicIncreasePerStack_label"					"Cường hóa tâm linh trên stack"
 
 		"BulletDamageReduction_postfix"					"%"
-		"BulletDamageReduction_label"					"Bullet Armor"
+		"BulletDamageReduction_label"					"Giáp chống đạn"
 
 		"ActiveBulletDamageReduction_prefix"			"{s:sign}"
-		"ActiveBulletDamageReduction_label"			"Bullet Damage"
+		"ActiveBulletDamageReduction_label"			"Sát thương đạn"
 		"ActiveBulletDamageReduction_postfix"			"%"
 
 		"BonusMoveSpeed_prefix"							"{s:sign}"
-		"BonusMoveSpeed_label"						"Move Speed"
+		"BonusMoveSpeed_label"						"Tốc độ di chuyển"
 		"BonusMoveSpeed_postfix"						" m/s"
 
 		"RunSpeed_postfix"						" m/s"
 
-		"WeaponRange_label"							"Weapon Range"
+		"WeaponRange_label"							"Tầm bắn"
 		"WeaponRange_postfix"						" m"
 
 		"BonusMoveSpeedPercent_prefix"					"{s:sign}"
 		"BonusMoveSpeedPercent_postfix"					"%"
-		"BonusMoveSpeedPercent_label"					"Move Speed"
+		"BonusMoveSpeedPercent_label"					"Tốc độ di chuyển"
 
 		"SlowResistancePercent_prefix"					"{s:sign}"
-		"SlowResistancePercent_label"					"Movement Slow Resist"
+		"SlowResistancePercent_label"					"Kháng chậm di chuyển"
 		"SlowResistancePercent_postfix"					"%"
 
-		"AirSpeedBonus_label"						"Bonus Air Speed"
+		"AirSpeedBonus_label"						"Tốc độ trên không bổ sung"
 		"AirSpeedBonus_prefix"						"{s:sign}"
 		"AirSpeedBonus_postfix"						"m/s"
 		"AscendSpeed_label"							""
 		"DescendSpeed_label"							""
 
-		"BonusCooldownReduction_label"					"Cooldown Reduction Per Bullet"
+		"BonusCooldownReduction_label"					"Giảm cooldown trên một phát đạn"
 
 		"BonusClipSize_prefix"							"{s:sign}"
-		"BonusClipSize_label"							"Ammo"
+		"BonusClipSize_label"							"Đạn"
 
 		"BonusClipSizePercent_prefix"					"{s:sign}"
 		"BonusClipSizePercent_postfix"					"%"
-		"BonusClipSizePercent_label"					"Ammo"
+		"BonusClipSizePercent_label"					"Đạn"
 
 		"TemporaryBonusClipSize_prefix"				"{s:sign}"
-		"TemporaryBonusClipSize_label"				"Temporary Ammo"
+		"TemporaryBonusClipSize_label"				"Đạn bổ sung tạm thời"
 
 		"TemporaryBonusClipSizePercent_prefix"			"{s:sign}"
 		"TemporaryBonusClipSizePercent_postfix"			"%"
-		"TemporaryBonusClipSizePercent_label"			"Temporary Ammo"
+		"TemporaryBonusClipSizePercent_label"			"Đạn bổ sung tạm thời"
 
 		"BulletPenetrationPercent_postfix"				"%"
-		"BulletPenetrationPercent_label"				"Bullet Penetration"
+		"BulletPenetrationPercent_label"				"Độ xuyên đạn"
 
 		"TechPower_prefix"								"{s:sign}"
-		"TechPower_label"								"Spirit Power"
+		"TechPower_label"								"Sức mạnh tâm linh"
 		"TechPower_postfix"								""
 
 		"ArmorPower_prefix"								"{s:sign}"
-		"ArmorPower_label"								"Base Health"
+		"ArmorPower_label"								"Máu cơ bản"
 		"ArmorPower_postfix"								"%"
 
 		"TechPowerAmp_prefix"							"{s:sign}"
-		"TechPowerAmp_label"							"Spirit"
+		"TechPowerAmp_label"							"Tâm linh"
 		"TechPowerAmp_postfix"							""
 
 		"SpellAmplificationPercent_prefix"				"{s:sign}"
-		"SpellAmplificationPercent_label"				"Spirit Power"
+		"SpellAmplificationPercent_label"				"Sức mạnh tâm linh"
 		"SpellAmplificationPercent_postfix"				""
 
 		//BaseDamagePerShot_label							"Base Damage"
-		"NanoTechPerShot_label"							"Spirit Damage"
-		"ExplosiveSplashDamage_label"						"Explode Damage"
-		"BulletDamageTotal_label"							"Bullet Damage"
+		"NanoTechPerShot_label"							"Sát thương tâm linh"
+		"ExplosiveSplashDamage_label"						"Sát thương bộc phá"
+		"BulletDamageTotal_label"							"Sát thương đạn"
 
 		"ChargesRestored_label"							"Charges Restored"			
 
@@ -863,11 +863,11 @@
 
 		"BulletArmorReduction_prefix"					"{s:sign}"
 		"BulletArmorReduction_postfix"					"%"
-		"BulletArmorReduction_label"					"Bullet Resist"
+		"BulletArmorReduction_label"					"Kháng đạn"
 
 		"LocalBulletArmorReduction_prefix"				"{s:sign}"
 		"LocalBulletArmorReduction_postfix"				"%"
-		"LocalBulletArmorReduction_label"				"Bullet Resist"
+		"LocalBulletArmorReduction_label"				"Kháng đạn"
 
 		"LocalTechArmorReduction_prefix"				"{s:sign}"
 		"LocalTechArmorReduction_label"				"Magic Resist"
@@ -1700,8 +1700,8 @@
 		"LifeThreshold_postfix"					"%"
 		"Cloaked"								"Cloaked"
 
-		"zipline_boost"							"Zipline Boosted"
-		"ActiveTechPower_label"					"Spirit Power"
+		"zipline_boost"							"Tăng tốc cáp treo"
+		"ActiveTechPower_label"					"Sức mạnh tâm linh"
 		"ActiveTechPower_prefix"				"+"
 
 		"ActiveBulletShieldHealth_label"		"Active Shield Health"

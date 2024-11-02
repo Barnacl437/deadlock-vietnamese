@@ -287,6 +287,12 @@
 
 		"Citadel_InvalidCast_NoFullClips"							"KHÔNG CÓ BĂNG ĐẠN ĐẦY ĐỂ NẠP"
 
+				"Citadel_MatchInfo_Mode_Ranked"								"Đấu hạng"
+		"Citadel_MatchInfo_Mode_Standard"							"Tiêu chuẩn"
+		"Citadel_MatchInfo_Mode_HeroLabs"							"Thử tướng"
+		"Citadel_MatchInfo_Mode_CoopBot"							"Coop"
+		"Citadel_MatchInfo_Mode_Private"							"Trận riêng"
+
 
 		"Citadel_Reconnect_IncompatibleVersionTitle"				"Phiên bản không tương thích"
 		"Citadel_Reconnect_IncompatibleVersionBody"					"Client của bạn hiện không phải phiên bản tương thích để kết nối đến server"
@@ -534,8 +540,8 @@
 		// Party
 		"Citadel_Party_InviteFriend"								""
 		"Citadel_Party_PrivateMatch"								"Trận riêng"
-		"Citadel_Party_MatchMaking"									"Trận bình thường"
-		"Citadel_Party_MatchMakingRanked"							"Trận xếp hạng"
+		"Citadel_Party_MatchMaking"									"Trận chuẩn"
+		"Citadel_Party_MatchMakingRanked"							"Trận đấu hạng"
 		"Citadel_Party_PartyPlayer"									"Người chơi"
 		"Citadel_Party_PartySpectator"								"Khán giả"
 		"Citadel_Party_JoinParty"									"Tham gia đội"
@@ -1523,7 +1529,7 @@
 		"CitadelShop_SearchExampleLine1"		"Ví dụ tìm kiếm:"
 		"CitadelShop_SearchExampleLine2"		"Tên: <span class=\"highlight\">Bộc phá thần bí</span>"
 		"CitadelShop_SearchExampleLine3"		"Thuộc tính: <b>Kháng đạn</b>"
-		"CitadelShop_SearchExampleAlt"			"Hãy thử tìm bằng <span class=\"highlight\">Tên vật phẩm</span> hoặc bằng các thuộc tính/chỉ số như <span class=\"highlight_weapon\">Đạn</span>, <span class=\"highlight_vitality\">Lifesteal</span> hay <span class=\"highlight_spirit\">Sức mạnh tâm linh</span>."
+		"CitadelShop_SearchExampleAlt"			"Hãy thử tìm bằng <span class=\"highlight\">Tên vật phẩm</span> hoặc bằng các thuộc tính/chỉ số như <span class=\"highlight_weapon\">Đạn</span>, <span class=\"highlight_vitality\">Hút máu</span> hay <span class=\"highlight_spirit\">Sức mạnh tâm linh</span>."
 
 		"Citadel_Dead_ShopReminder"				"Cửa hàng & nâng cấp"
 		"Citadel_Dead_ReplayDeath"				"Phát lại sau khi chết"
