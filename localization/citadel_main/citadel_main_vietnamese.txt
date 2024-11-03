@@ -511,8 +511,18 @@
 		"Citadel_PrivateLobby_RandomLanes_On"						"Phân công đường đi theo mặc định"
 		"Citadel_PrivateLobby_PubliclyVisible_Off"					"Chỉ có người chơi thấy"
 		"Citadel_PrivateLobby_PubliclyVisible_On"					"Mọi người đều thấy"
+		"Citadel_PrivateLobby_Duplicate_Heroes_Off"					"Trùng lặp tướng: tắt"
+		"Citadel_PrivateLobby_Duplicate_Heroes_On"					"Trùng lặp tướng: bật"
+
 		"Citadel_PrivateLobby_Cheats_Off"							"Gian lận tắt"
 		"Citadel_PrivateLobby_Cheats_On"							"Gian lận bật"
+		"Citadel_PrivateLobby_SwapTeams"							"Tráo đổi phe"
+		"Citadel_PrivateLobby_SwapTeamsTooltip"						"Tráo đổi thành viên giữa hai phe, giữ nguyên số đường đi"
+		"Citadel_PrivateLobby_RandomizeTeams"						"Sắp xếp ngẫu nhiên"
+		"Citadel_PrivateLobby_ShuffleTeamsTooltip"					"Sắp xếp người chơi ngẫu nhiên trong sảnh vào hai phe khác nhau"
+		"Citadel_PrivateLobby_ShuffleTeams"							"Trộn trong cùng phe"
+		"Citadel_PrivateLobby_ShuffleLanesTooltip"					"Sắp xếp người chơi ngẫu nhiên trong cùng phe vào đường đi khác nhau"
+
 
 		"Citadel_ServerRegion_0"									"Tự động chọn khu vực"
 		"Citadel_ServerRegion_7"									"Úc"
