@@ -2235,8 +2235,8 @@
 		"team_msg_Idol_Desc"	"Bình tro linh hồn"
 		
 		"team_msg_Winner_SubText"	"Các Patron đã công nhận bạn"
-		"Citadel_GameOver_Victory"	"Chiến thắng"
-		"Citadel_GameOver_Defeat"	"Thất bại"
+		"Citadel_GameOver_Victory:g"	"Chiến thắng"
+		"Citadel_GameOver_Defeat:g"	"Thất bại"
 
 
 		"Citadel_LaneColorPurple"						"Tím"
