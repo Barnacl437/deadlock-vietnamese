@@ -955,6 +955,8 @@
 		"Citadel_Party_Leave"										"Rời đội"
 		"Citadel_Party_Report"										"Báo cáo"
 		"Citadel_Party_Reported"									"Đã báo cáo"
+		"Citadel_Party_Commend"										"Khen"
+		"Citadel_Party_Commended"									"Đã khen"
 
 		
 		"Citadel_PlayerList_Teammates"								"Phe ta"
@@ -1241,13 +1243,14 @@
 		"Citadel_Profile_Stats_TitleSection"					"Số liệu toàn thời gian"
 		"Citadel_Profile_Stats_GamesPlayed"						"Game đã chơi"
 		"Citadel_Profile_Stats_GamesWon"						"Game thắng"		
-		"Citadel_Profile_Stats_Kills"							"Kill"
+		"Citadel_Profile_Stats_Kills"							"Diệt"
 		"Citadel_Profile_Stats_Assists"							"Hỗ trợ"
 		"Citadel_Profile_Stats_HeroDamage"						"Sát thương tướng"		
 		"Citadel_Profile_Stats_ObjDamage"						"Sát thương vật thể"		
 		"Citadel_Profile_Stats_LastHits"						"Phát cuối"		
 		"Citadel_Profile_Stats_Denies"							"Số lần bỏ qua"		
 		"Citadel_Profile_Stats_Healing"							"Hồi máu"		
+		"Citadel_Profile_Stats_Commends"						"Lần được khen"
 		"Citadel_Profile_Stats_Networth"						"Linh hồn đã thu thập"
 
 		"Citadel_MatchPage_Prev"								"Trước"
@@ -1264,10 +1267,10 @@
 		"Citadel_HeroPage_Sandbox"								"Thử tướng"
 		"Citadel_HeroPage_BaseStats"							"Chỉ số base"
 		"Citadel_HeroPage_PlayerStats"							"Chỉ số người chơi"
-		"Citadel_HeroPage_MissingVideos"						"Hero currently does not have movies created for abilities"
-		"Citadel_HeroPage_FatesTale"							"A FATE'S TALE:"
+		"Citadel_HeroPage_MissingVideos"						"Tướng hiện tại không có hoạt ảnh trình diễn kỹ năng"
+		"Citadel_HeroPage_FatesTale"							"CÂU CHUYỆN MỘT CON NGƯỜI:"
 		"Citadel_HeroPage_EditBuild"							"Tạo/sửa build"
-		"Citadel_HeroPage_Complexity"							"Complexity"
+		"Citadel_HeroPage_Complexity"							"Độ phức tạp"
 
 		"Citadel_MatchDetails_ViewGraphs"						"Xem biểu đồ tóm tắt"
 		"Citadel_MatchDetails_Report"							"R"

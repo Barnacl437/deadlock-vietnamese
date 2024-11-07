@@ -506,133 +506,133 @@
 		"ExplosiveSplashDamage_label"						"Sát thương bộc phá"
 		"BulletDamageTotal_label"							"Sát thương đạn"
 
-		"ChargesRestored_label"							"Charges Restored"			
+		"ChargesRestored_label"							"Đã khôi phục hồi nạp"			
 
 		"BonusFireRate_prefix"							"{s:sign}"
 		"BonusFireRate_postfix"							"%"
-		"BonusFireRate_label"							"Fire Rate"
+		"BonusFireRate_label"							"Tốc độ bắn"
 
 		"ActivatedFireRate_prefix"						"{s:sign}"
 		"ActivatedFireRate_postfix"						"%"
-		"ActivatedFireRate_label"						"Fire Rate"
+		"ActivatedFireRate_label"						"Tốc độ bắn"
 
 		"BonusFireRatePlayerUnit_prefix"				"{s:sign}"
 		"BonusFireRatePlayerUnit_postfix"				"%"
-		"BonusFireRatePlayerUnit_label"					"Minions Fire Rate"
+		"BonusFireRatePlayerUnit_label"					"Tốc độ bắn của Minions"
 
 		"BonusFireRateNPC_prefix"							"{s:sign}"
 		"BonusFireRateNPC_postfix"							"%"
-		"BonusFireRateNPC_label"							"Fire Rate NPC"
+		"BonusFireRateNPC_label"							"Tốc độ bắn của NPC"
 
 		"BonusMeleeAttackSpeed_prefix"					"{s:sign}"
 		"BonusMeleeAttackSpeed_postfix"					"%"
-		"BonusMeleeAttackSpeed_label"					"Melee Speed"
+		"BonusMeleeAttackSpeed_label"					"Tốc độ cận chiến"
 
-		"AbilityDamageReduction_label"				"Spirit Damage Reduction"
+		"AbilityDamageReduction_label"				"Giảm sát thương tâm linh"
 		"AbilityDamageReduction_postfix"				"%"
 
-		"SlowProcChance_label"						"Chance to slow on hit"
+		"SlowProcChance_label"						"Tỷ lệ làm chậm khi trúng đạn"
 		"SlowProcChance_postfix"						"%"
 
-		"SlowDuration_label"							"Slow Duration"
+		"SlowDuration_label"							"Thời gian làm chậm"
 		"SlowDuration_postfix"							"s"
 
-		"PoisonDamage_label"							"Poison Damage"
-		"PoisonDuration_label"							"Duration"
+		"PoisonDamage_label"							"Sát thương độc tính"
+		"PoisonDuration_label"							"Thời gian"
 		"PoisonDuration_postfix"							"s"
 
 
-		"DebuffDuration_label"						"Debuff Duration"
+		"DebuffDuration_label"						"Thời gian debuff"
 		"DebuffDuration_postfix"						"s"
 
-		"DotHealthPercent_label"						"Bleed Damage"
+		"DotHealthPercent_label"						"Sát thương rỉ máu"
 		"DotHealthPercent_postfix"						"%/sec"
 		
-		"FreezeDuration_label"							"Freeze Duration"
+		"FreezeDuration_label"							"Thời gian đóng băng"
 		"FreezeDuration_postfix"							"s"
 
 		"CooldownReduction_prefix"						"{s:sign}"
 		"CooldownReduction_postfix"						"%"
-		"CooldownReduction_label"						"Cooldown Reduction"
+		"CooldownReduction_label"						"Giảm cooldown"
 
 		"ImbuedCooldownReduction_prefix"				"{s:sign}"
 		"ImbuedCooldownReduction_postfix"				"%"
-		"ImbuedCooldownReduction_label"					"Imbued Ability Cooldown Reduction"
+		"ImbuedCooldownReduction_label"					"Giảm cooldown kĩ năng ảnh hưởng"
 
 		"NonImbuedCooldownReduction_prefix"				"{s:sign}"
 		"NonImbuedCooldownReduction_postfix"			"%"
-		"NonImbuedCooldownReduction_label"				"Non-Imbued Ability Cooldown Reduction"
+		"NonImbuedCooldownReduction_label"				"Giảm cooldown kĩ năng phi ảnh hưởng"
 
 		"CooldownReductionFlat_postfix"					"s"
-		"CooldownReductionFlat_label"					"Cooldown Reduction"
+		"CooldownReductionFlat_label"					"Giảm cooldown"
 
 		"BonusAbilityCharges_prefix"					"{s:sign}"
-		"BonusAbilityCharges_label"					"Bonus Ability Charges"
+		"BonusAbilityCharges_label"					"Bổ sung hồi nạp kĩ năng"
 
-		"BonusChargedAbilityDamage_label"				"Charged Ability Damage"
+		"BonusChargedAbilityDamage_label"				"Sát thương kĩ năng siêu nạp"
 		"BonusChargedAbilityDamage_prefix"				"{s:sign}"
 		"BonusChargedAbilityDamage_postfix"				"%"
 
 		"CooldownBetweenChargeReduction_prefix"			"+"
-		"CooldownBetweenChargeReduction_label"			"Faster Time Between Charges"
+		"CooldownBetweenChargeReduction_label"			"Thời gian chờ hồi nạp nhanh hơn"
 		"CooldownBetweenChargeReduction_postfix"		"%"
 
 		"BonusSprintSpeed_prefix"						"{s:sign}"
 		"BonusSprintSpeed_postfix"						"m/s"
-		"BonusSprintSpeed_label"						"Sprint Speed"
+		"BonusSprintSpeed_label"						"Tốc độ tăng tốc"
 		
 		"SprintSpeed_postfix"							"m/s"
-		"SprintSpeed_label"								"Sprint Speed"
+		"SprintSpeed_label"								"Tốc độ tăng tốc"
 
 		"BonusSprintSpeedPercent_prefix"				"{s:sign}"
-		"BonusSprintSpeedPercent_label"				"Sprint Speed"
+		"BonusSprintSpeedPercent_label"				"Tốc độ tăng tốc"
 		"BonusSprintSpeedPercent_postfix"				"%"
 
 		"BonusSuperSprintSpeed_prefix"					"{s:sign}"
-		"BonusSuperSprintSpeed_label"					"Sprint Speed"
+		"BonusSuperSprintSpeed_label"					"Tốc độ tăng tốc"
 
 		"BonusSuperSprintSpeedPercent_prefix"			"{s:sign}"
 		"BonusSuperSprintSpeedPercent_postfix"			"%"
 
-		"TotalHealthRegen_label"						"Total HP Regen"
+		"TotalHealthRegen_label"						"Tổng hồi máu"
 
 		"StatusResistancePercent_postfix"				"%"
-		"StatusResistancePercent_label"				"Debuff Resist"
+		"StatusResistancePercent_label"				"Kháng debuff"
 
 		"ActiveStatusResistancePercent_postfix"			"%"
-		"ActiveStatusResistancePercent_label"			"Debuff Reduction"
+		"ActiveStatusResistancePercent_label"			"Giảm debuff"
 
-		"StatusResistanceDuration_label"				"Duration"
+		"StatusResistanceDuration_label"				"Thời lượng"
 		"StatusResistanceDuration_postfix"				"s"
 
 		"CleavePercentage_prefix"						"{s:sign}"
-		"CleavePercentage_label"						"Splash Amount"
+		"CleavePercentage_label"						"Lượng bắn ra"
 		"CleavePercentage_postfix"						"%"
 
-		"CleaveRadius_label"							"Splash Radius"
+		"CleaveRadius_label"							"Phạm vi bắn ra"
 
 		"BonusAccuracy_prefix"							"{s:sign}"
 		"BonusAccuracy_postfix"							"%"
-		"BonusAccuracy_label"							"Gun Accuracy"
+		"BonusAccuracy_label"							"Độ chính xác súng"
 
 		"BonusBulletSpeedPercent_prefix"				"{s:sign}"
 		"BonusBulletSpeedPercent_postfix"				"%"
-		"BonusBulletSpeedPercent_label"					"Bullet Velocity"
+		"BonusBulletSpeedPercent_label"					"Tốc độ đạn"
 
 		"LifeStealPercent_prefix"						"{s:sign}"
-		"LifeStealPercent_label"						"Lifesteal"
+		"LifeStealPercent_label"						"Hút máu"
 		"LifeStealPercent_postfix"						"%"
 
 		"LifestealPercentHero_prefix"						"{s:sign}"
-		"LifestealPercentHero_label"					"Lifesteal"
+		"LifestealPercentHero_label"					"Hút máu"
 		"LifestealPercentHero_postfix"					"%"
 
 		"LifestealPercentNonHero_prefix"						"{s:sign}"
-		"LifestealPercentNonHero_label"					"Lifesteal on Non Heroes"
+		"LifestealPercentNonHero_label"					"Hút máu trên thực thể không tướng"
 		"LifestealPercentNonHero_postfix"				"%"
 
 		"BulletLifestealPercent_prefix"						"{s:sign}"
-		"BulletLifestealPercent_label"					"Bullet Lifesteal"
+		"BulletLifestealPercent_label"					"Đạn hút máu"
 		"BulletLifestealPercent_postfix"				"%"
 
 		"TechLifestealPercent_prefix"					"{s:sign}"
@@ -640,30 +640,30 @@
 		"TechLifestealPercent_postfix"					"%"
 
 		"MeleeLifestealPercent_prefix"						"{s:sign}"
-		"MeleeLifestealPercent_label"					"Melee Lifesteal"
+		"MeleeLifestealPercent_label"					"Hút máu cận chiến"
 		"MeleeLifestealPercent_postfix"					"%"
 
-		"StunDuration_label"							"Stun Duration"
+		"StunDuration_label"							"Thời lượng Choáng"
 		"StunDuration_postfix"							"s"
 
-		"StunDelay_label"								"Stun Delay"
+		"StunDelay_label"								"Trì hoãn choáng"
 		"StunDelay_postfix"								"s"
 
 		"MinStunDuration_prefix"						""
 		"MinStunDuration_postfix"						"s"
-		"MinStunDuration_label"							"Min Stun Duration"
+		"MinStunDuration_label"							"Trì hoãn choáng tối thiểu"
 
 		"MaxStunDuration_prefix"						""
 		"MaxStunDuration_postfix"						"s"
-		"MaxStunDuration_label"							"Max Stun Duration"
+		"MaxStunDuration_label"							"Trì hoãn choáng tối đa"
 
-		"MeleeDamageReduction_label"					"Melee Armor"
+		"MeleeDamageReduction_label"					"Giáp tử đạn"
 
 		"MeleeDamageReductionPercent_prefix"			"{s:sign}"
 		"MeleeDamageReductionPercent_postfix"			"%"
-		"MeleeDamageReductionPercent_label"			"Melee Armor"
+		"MeleeDamageReductionPercent_label"			"Giáp tử đạn"
 		
-		"DispenserHealth_label"						"Dispenser Health"
+		"DispenserHealth_label"						"Viên nang hồi máu"
 
 		"ShotRegenTime_label"							"Shot Regen Time"
 		"ShotRegenTime_postfix"							"s"
