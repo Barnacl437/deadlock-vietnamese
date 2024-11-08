@@ -1010,8 +1010,8 @@
 		"Citadel_StartMatchmaking_InvalidPartyMatchMode"			"Chế độ chơi này không thể chơi theo đội"
 		"Citadel_StartMatchmaking_NotAllPlayersCanPlayRanked"		"Một số thành viên chưa mở khóa tạo trận đấu hạng nên chế độ này không chơi được."
 		"Citadel_StartMatchmaking_PlayerBannedFromMode"				"Một người chơi trong đội đã bị cấm chơi chế độ này."
-		"Citadel_StartMatchmaking_ModeLocked"						"You have not yet unlocked the ability to play in this mode"
-		"Citadel_StartMatchmaking_ModeBanned"						"You have been temporarily banned from playing in this mode until {t:s:time_stamp} at {t:t:time_stamp}"
+		"Citadel_StartMatchmaking_ModeLocked"						"Bạn chưa mở khóa kĩ năng để chơi ở chế độ này"
+		"Citadel_StartMatchmaking_ModeBanned"						"Bạn đã tạm thời bị cấm chơi chế độ này cho đến {t:s:time_stamp} vào lúc {t:t:time_stamp}"
 		"Citadel_StartMatchmaking_PermanentBan"						"Bạn đã bị cấm chơi chế độ này vĩnh viễn"
 		"Citadel_StartMatchmaking_TooManyPlayersOnTeam"				"Quá nhiều người chơi cùng phe"
 		"Citadel_StartMatchmaking_UnableToFillTeam"					"Không thể tạo phe hợp lệ dựa trên các phe hiện tại"
@@ -2250,9 +2250,10 @@
 
 		"team_msg_Idol_Desc"	"Bình tro linh hồn"
 		
-		"team_msg_Winner_SubText"	"Các Patron đã công nhận bạn"
+		"team_msg_Winner_SubText"	"Patron đã công nhận bạn"
+		
 		"Citadel_GameOver_Victory:g"	"Chiến thắng"
-		"Citadel_GameOver_Defeat:g"	"Thất bại"
+		"Citadel_GameOver_Defeat:g"		"Thất bại"
 
 
 		"Citadel_LaneColorPurple"						"Tím"
