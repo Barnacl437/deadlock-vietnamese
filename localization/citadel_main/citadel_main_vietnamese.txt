@@ -1030,6 +1030,19 @@
 		"Citadel_Dashboard_Matchmaking_SearchingForBotMatchTime"	"COOP ĐẤU BOT - tạo trận trong {s:coop_time_remaining}"
 		"Citadel_Dashboard_Matchmaking_UsersInQueue"				"{s:users_in_queue} người chơi trong hàng"
 		"Citadel_Dashboard_Matchmaking_UsersInQueue_Single"			"{s:users_in_queue} người chơi trong hàng"
+
+		"Citadel_IdleMatchmaking_Removed_Title"						"Đã rời matchmaking"
+		"Citadel_IdleMatchmaking_Removed_Body"						"Bạn đã để chờ quá lâu trong trong hàng matchmaking và đã bị rời."
+		"Citadel_IdleMatchmaking_IdleTimerExpired_Title"			"Chờ matchmaking quá lâu"
+		"Citadel_IdleMatchmaking_IdleTimerExpired_Body"				"Bạn đang để chờ trong hàng matchmaking quá lâu, nhích chuột xíu để coi bạn còn ở đó không!"
+		"Citadel_IdleMatchmaking_Dialog_Title"						"Đang để chờ matchmaking"
+		"Citadel_IdleMatchmaking_Dialog_Body"						"Bạn đang trong hàng matchmaking, nhưng có vẻ như đang không làm gì. Hãy nhích chuột hoặc bạn sẽ bị loại ra ngoài hàng chờ."
+
+		"Citadel_Dashboard_CompilingShaders"						"Nạp trước bản đồ và biên dịch shader {d:prewarm_progress} trong tổng {d:prewarm_progress_total}"
+		"Citadel_Dashboard_CompilingShaders_Title"					"Nạp trước bản đồ và biên dịch shader"
+		"Citadel_Dashboard_CompilingShaders_Desc"					"Đã xong {d:prewarm_progress} trong tổng {d:prewarm_progress_total}"
+		"Citadel_Dashboard_CompilingShaders_Play_Tooltip"			"Hãy chờ game nạp xong bản đồ và biên dịch shader."
+
 		
 		"Citadel_Dashboard_EnterMatchmaking"						"Vào tạo\ntrận"
 		"Citadel_Dashboard_Roster_HeroTooPopular"					"Tất cả tướng được chọn đã ở trong hàng"
@@ -2367,6 +2380,9 @@
 
 
 	// ranked match  
+		"menu_hero_labs_unavailable"				"Bị khóa"
+		"menu_hero_labs_schedule_title"				"Thời gian mở:"
+		"menu_hero_labs_schedule_times"				"{t:t:start_time} - {t:t:end_time}"
 		"menu_play_ranked"							"Trận xếp hạng"
 		"menu_play_ranked_desc"						"Chế độ chơi cạnh tranh giữa những con người giàu kinh nghiệm với nhau."
 		"menu_ranked_title"							"Xếp hạng:"
