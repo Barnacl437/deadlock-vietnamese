@@ -1674,15 +1674,15 @@
 		"citadel_hint_melee"		"Nhấn <span class=\"hintTextEmphasis\">[{s:in_weapon1}]</span> để sử dụng vũ khí cận chiến."
 		"citadel_hint_learn_initial_ability"	"Giữ <span class=\"hintTextEmphasis\">[{s:key_extra_info}]</span> chọn kĩ năng muốn mở khóa.."
 		"citadel_hint_learn_ability"	"Ấn giữ kĩ năng <span class=\"hintTextEmphasis\">key 1-4</span> để học kĩ năng đó."
-		"citadel_hint_upgrade_ability"	"Hold <span class=\"hintTextEmphasis\">[{s:key_extra_info}]</span> to upgrade your abilities."
-		"citadel_hint_hero_testing_shop"	"Press <span class=\"hintTextEmphasis\">[{s:citadel_open_hero_sheet}]</span> to open up the shop and set test options."
-		"citadel_hint_teleport"				"Your Tier2 boss is under attack, press <span class=\"hintTextEmphasis\">[{s:key_teleport}]</span> to teleport to help!"
+		"citadel_hint_upgrade_ability"	"Giữ <span class=\"hintTextEmphasis\">[{s:key_extra_info}]</span> để nâng cấp kĩ năng của bạn."
+		"citadel_hint_hero_testing_shop"	"Ấn <span class=\"hintTextEmphasis\">[{s:citadel_open_hero_sheet}]</span> để mở cửa hàng và thiết đặt tùy chọn thử nghiệm."
+		"citadel_hint_teleport"				"Tier2 của bạn đang bị tấn công, ấn <span class=\"hintTextEmphasis\">[{s:key_teleport}]</span> để dịch chuyển ra trợ giúp"
 		
 		// Ability Hints
-		"citadel_hint_flamedash_boost" "Press <span class=\"hintTextEmphasis\">[{s:key_innate_1}]</span> to boost.  Requires Stamina."
-		"citadel_hint_activate_wall" "Press <span class=\"hintTextEmphasis\">[{s:iv_attack}]</span> to create the wall early."
-		"citadel_hint_guided_arrow_boost" "Hold <span class=\"hintTextEmphasis\">[{s:iv_attack}]</span> to boost arrow speed."
-		"citadel_hint_flying_strike_early_activate" "Press <span class=\"hintTextEmphasis\">[{s:iv_attack}]</span> to fly to your target early."
+		"citadel_hint_flamedash_boost" "Ấn <span class=\"hintTextEmphasis\">[{s:key_innate_1}]</span> để tăng tốc. Cần stamina."
+		"citadel_hint_activate_wall" "Ấn <span class=\"hintTextEmphasis\">[{s:iv_attack}]</span> để dựng nhanh một bức tường."
+		"citadel_hint_guided_arrow_boost" "Giữ <span class=\"hintTextEmphasis\">[{s:iv_attack}]</span> để tăng tốc độ mũi tên."
+		"citadel_hint_flying_strike_early_activate" "Ấn <span class=\"hintTextEmphasis\">[{s:iv_attack}]</span> để bay nhanh vào mục tiêu."
 
 		//-----------------------------------------------------------------------------
 		// Breakble Prop modifiers
@@ -1750,7 +1750,9 @@
 		"citadel_settings_video"						"Hình ảnh"
 		"citadel_settings_audio"						"Âm thanh"
 		"citadel_settings_about"						"Giới thiệu"
+		"citadel_settings_social"						"Trò chuyện"
 		"citadel_settings_hotkeys"						"Phím nóng"
+		"citadel_settings_steaminput"					"Tay cầm"
 		"citadel_ability_upgrade_tab_desc"				"{s:show_scoreboard}+[Ability Key] sẽ nâng cấp kĩ năng của bạn. Đây là các phím nóng bổ sung."
 		"citadel_settings_per_unit_hotkeys"				"Phím nóng cho từng tướng"
 		"citadel_Hotkeys_Tooltip_PerUnitHotkeys"		"Bật/tắt phím nóng cho từng tướng"
