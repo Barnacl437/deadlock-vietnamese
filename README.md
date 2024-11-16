@@ -2,6 +2,8 @@
 > Cũng có hướng dẫn trên forum Deadlock tại [đây](https://forums.playdeadlock.com/resources/vietnamese-localisation-b%E1%BA%A3n-%C4%91%E1%BB%8Ba-h%C3%B3a-ti%E1%BA%BFng-vi%E1%BB%87t.23).
 >
 > also [english readme](https://github.com/Barnacl437/deadlock-vietnamese/blob/main/README-en.md) (may not be consistent with vietnamese one)
+> 
+> Chủ thớt dạo bận việc nên tiến trình dịch giảm, tuy nhiên mình vẫn sẽ tranh thủ nếu có thời gian 🐸
 
 # deadlock-vietnamese
 
