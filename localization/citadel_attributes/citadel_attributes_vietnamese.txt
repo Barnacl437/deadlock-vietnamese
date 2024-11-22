@@ -665,121 +665,121 @@
 		
 		"DispenserHealth_label"						"Viên nang hồi máu"
 
-		"ShotRegenTime_label"							"Shot Regen Time"
+		"ShotRegenTime_label"							"Thời gian bắn hồi máu"
 		"ShotRegenTime_postfix"							"s"
 
-		"MaxShots_label"								"Max Shots"
+		"MaxShots_label"								"Phát bắn tối đa"
 
-		"PathLength_label"							"Beam Length"
+		"PathLength_label"							"Độ dài chùm tia"
 		"PathLength_postfix"							"m"
 
-		"ChainCount_label"							"Max Jumps"
-		"BonusPerChain_label"						"Damage on Jump"
+		"ChainCount_label"							"Cú nhảy tối đa"
+		"BonusPerChain_label"						"Sát thương nhảy lên"
 
-		"RichochetChance_label"						"Proc Chance"
+		"RichochetChance_label"						"Tỷ lệ nảy đạn"
 		"RichochetChance_postfix"						"%"
 
-		"SlowSpeedLimit_label"						"Speed Reduced To"
+		"SlowSpeedLimit_label"						"Giới hạn chậm rãi"
 
 		"HealAmpReceivePercent_prefix"					"{s:sign}"
-		"HealAmpReceivePercent_label"					"Healing Received Boost"
+		"HealAmpReceivePercent_label"					"Tăng cường nhận hồi máu"
 		"HealAmpReceivePercent_postfix"					"%"
 
 		"HealAmpCastPercent_prefix"					"{s:sign}"
-		"HealAmpCastPercent_label"					"Healing Given Boost"
+		"HealAmpCastPercent_label"					"Tăng cường đi hồi máu"
 		"HealAmpCastPercent_postfix"					"%"
 		
 		"HealAmpRegenPercent_prefix"					"{s:sign}"
-		"HealAmpRegenPercent_label"					"Health Regen Boost"
+		"HealAmpRegenPercent_label"					"Tăng cường tự hồi máu"
 		"HealAmpRegenPercent_postfix"					"%"
 
 		"HealAmpRegenMultiplierOutOfCombat_prefix"					"{s:sign}"
-		"HealAmpRegenMultiplierOutOfCombat_label"		"Health Regen Multiplier"
+		"HealAmpRegenMultiplierOutOfCombat_label"		"Cấp số tự hồi máu"
 		"HealAmpRegenMultiplierOutOfCombat_postfix"			"x"
 
-		"HealAmpReceivePenaltyPercent_label"		"Healing Reduction"
+		"HealAmpReceivePenaltyPercent_label"		"Giảm hồi máu"
 		"HealAmpReceivePenaltyPercent_postfix"			"%"
 
-		"DegenResistance_label"						"Healing Reduction Resist"
+		"DegenResistance_label"						"Kháng giảm hồi máu"
 		"DegenResistance_postfix"					"%"
 		"DegenResistance_prefix"					"{s:sign}"
 
-		"ProcChance_label"							"Proc Chance"
+		"ProcChance_label"							"Tỷ lệ nảy đạn"
 		"ProcChance_postfix"							"%"
 
-		"OutgoingDamageReduction_label"				"Attack Damage"
+		"OutgoingDamageReduction_label"				"Sát thương tấn công"
 		"OutgoingDamageReduction_prefix"				"-"
 		"OutgoingDamageReduction_postfix"				"%"
 
-		"ProcHealth_label"							"Health Threshold"
+		"ProcHealth_label"							"Ngưỡng hạn máu"
 		"ProcHealth_postfix"							"%"
 
-		"DamageBoostFromBehind_label"					"Damage From Behind"
+		"DamageBoostFromBehind_label"					"Sát thương đằng sau"
 		"DamageBoostFromBehind_postfix"					"%"
 
-		"DamageBoostElsewhere_label"					"Damage From Elsewhere"
+		"DamageBoostElsewhere_label"					"Sát thương từ hướng khác"
 		"DamageBoostElsewhere_postfix"					"%"
 
 		"BonusDPSVsPlayers_label"						"DPS vs Players"
 
 		"BonusDPSVsCreeps_label"						"DPS vs Creeps"
 
-		"EvasionPercentGlider_label"					"Evasion Chance Gliding"
+		"EvasionPercentGlider_label"					"Lướt trốn tránh"
 		"EvasionPercentGlider_postfix"					"%"
 
-		"EvasionPercent_label"						"Evasion Chance"
+		"EvasionPercent_label"						"Tỷ lệ trốn tránh"
 		"EvasionPercent_postfix"						"%"
 
-		"MeleeDamagePercent_label"					"Melee Damage Bonus"
+		"MeleeDamagePercent_label"					"Bổ sung sát thương cận chiến"
 		"MeleeDamagePercent_postfix"					"%"
 
 
-		"TechShieldHealth_label"					"Spirit Shield Health"
-		"TempTechShieldHealth_label"				"Temp Spirit Shield Health"
+		"TechShieldHealth_label"					"Khiên tâm linh cho máu"
+		"TempTechShieldHealth_label"				"Khiên tâm linh cho máu tạm thời"
 		"TechShieldDamagePercent_prefix"			"{s:sign}"
-		"TechShieldDamagePercent_label"				"Spirit Shield Damage"
+		"TechShieldDamagePercent_label"				"Sát thương khiên tâm linh"
 		"TechShieldDamagePercent_postfix"			"%"
 
-		"BulletShieldHealth_label"					"Bullet Shield Health"
-		"TempBulletShieldHealth_label"				"Temp Bullet Shield Health"
+		"BulletShieldHealth_label"					"Khiên chống đạn cho máu"
+		"TempBulletShieldHealth_label"				"Khiên chống đạn cho máu tạm thời"
 		"BulletShieldDamagePercent_prefix"			"{s:sign}"
-		"BulletShieldDamagePercent_label"			"Damage Amplification vs Bullet Shields"
+		"BulletShieldDamagePercent_label"			"Cường hóa sát thương vs Khiên chống đạn"
 		"BulletShieldDamagePercent_postfix"			"%"
 
-		"ShieldBlockPercent_label"					"Damage Deflected"
+		"ShieldBlockPercent_label"					"Chuyển hướng sát thương"
 		"ShieldBlockPercent_postfix"					"%"
 
-		"DamagePercent_label"							"Bullet Damage Done"
+		"DamagePercent_label"							"Sát thương đạn gây ra"
 		"DamagePercent_postfix"							"%"
 		
-		"CycleTimePercent_label"						"Fire Rate compared to Gun"
+		"CycleTimePercent_label"						"Tốc độ bắn so sánh với súng"
 		"CycleTimePercent_postfix"						"%"
 
-		"StickyClusterCount_label"					"Splits into"
-		"StickyClusterCount_postfix"					"Sticky Grenades"
+		"StickyClusterCount_label"					"Vỡ ra thành"
+		"StickyClusterCount_postfix"					"Lựu keo dính"
 
-		"FuseDuration_label"							"Fuse Duration"
+		"FuseDuration_label"							"Thời gian cháy chậm" 
 		"FuseDuration_postfix"							""
 		
-		"DroneCount_label"							"Drone Count"
+		"DroneCount_label"							"Số lượng drone" //temptransl
 		
-		"BasicReflectPercent_label"					"Basic Damage Reflect"
+		"BasicReflectPercent_label"					"Phản xạ sát thương cơ bản"
 		"BasicReflectPercent_postfix"					"%"
 
-		"LifeDrainPerSecond_label"					"Damage Per Second"
+		"LifeDrainPerSecond_label"					"Sát thương trên giây"
 		"LifeDrainPerSecond_postfix"					""
 
-		"HealthPercent_label"							"Health Percent"
+		"HealthPercent_label"							"Phần trăm máu"
 		"HealthPercent_postfix"							"%"
 
-		"DodgeAnimSpeedScale_label"					"Dodge Speed Multiplier"
+		"DodgeAnimSpeedScale_label"					"Cấp số tốc độ né đòn"
 		"DodgeAnimSpeedScale_postfix"					"x"
 
-		"BonusDamagePercent_label"					"Bonus Damage"
+		"BonusDamagePercent_label"					"Sát thương bổ sung"
 		"BonusDamagePercent_postfix"					"%"
 
 		"BulletDamagePercent_prefix"					"{s:sign}"
-		"BulletDamagePercent_label"					"Bullet Damage"
+		"BulletDamagePercent_label"					"Sát thương đạn"
 		"BulletDamagePercent_postfix"					"%"
 
 		"AbilityLifestealPercent_prefix"					"{s:sign}"
@@ -791,22 +791,22 @@
 		"AbilityLifestealPercentHero_postfix"			"%"
 
 		"AbilityLifestealPercentNonHero_prefix"					"{s:sign}"
-		"AbilityLifestealPercentNonHero_label"			"Hút máu tâm linh on Non Heroes"
+		"AbilityLifestealPercentNonHero_label"			"Hút máu tâm linh trên thực thể không phải tướng"
 		"AbilityLifestealPercentNonHero_postfix"		"%"
 
-		"RegenDuration_label"							"Regen Duration"
+		"RegenDuration_label"							"Thời gian hồi máu"
 		"RegenDuration_postfix"							"s"
 
-		"SpreadDuration_label"						"Spread Duration: "
+		"SpreadDuration_label"						"Thời lượng lan tỏa: "
 		"SpreadDuration_postfix"						"s"
 		
-		"EndRadius_label"								"End Radius"
+		"EndRadius_label"								"Bán kính cuối"
 		"EndRadius_postfix"								"m"
 
-		"BulletPercentAsBurn_label"					"Bullet Damage as Burning"
+		"BulletPercentAsBurn_label"					"Sát thương đạn gây cháy"
 		"BulletPercentAsBurn_postfix"					"%"
 
-		"ItemInitialCharges_label"					"Charges"
+		"ItemInitialCharges_label"					"Hồi nạp"
 
 		"AuraDuration_label"							"Aura Duration"
 		"AuraDuration_postfix"							"s"
