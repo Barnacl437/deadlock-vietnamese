@@ -808,57 +808,57 @@
 
 		"ItemInitialCharges_label"					"Hồi nạp"
 
-		"AuraDuration_label"							"Aura Duration"
+		"AuraDuration_label"							"Thời lượng tỏa hào quang"
 		"AuraDuration_postfix"							"s"
 
-		"ApproachSpeed_label"							"Project Speed"
+		"ApproachSpeed_label"							"Tốc độ đường đạn"
 
-		"GrenadesInVolley_label"						"Grenade Count"
+		"GrenadesInVolley_label"						"Số lượng lựu đạn"
 
 		"ReloadSpeedDecrease_prefix"					""
-		"ReloadSpeedDecrease_label"						"Reload Time"
+		"ReloadSpeedDecrease_label"						"Thời gian nạp đạn"
 		"ReloadSpeedDecrease_postfix"					"%"
 
-		"AbsorbPercentage_label"						"Damage Absorbed"
+		"AbsorbPercentage_label"						"Sát thương hấp thụ"
 		"AbsorbPercentage_postfix"						"%"
 
 		"HitCap_label"								"Hit Cap"
-		"HitCap_postfix"								"hits"
+		"HitCap_postfix"								"hit"
 
-		"AbilityDamageReductionPerHit_label"			"Ability Dmg Red Per Hit"
+		"AbilityDamageReductionPerHit_label"			"Giảm thiểu ST. kĩ năng trên mỗi phát"
 		"AbilityDamageReductionPerHit_postfix"			"%"
 
-		"ActiveAbilityDamageReduction_label"			"Active Ability Dmg Red"
+		"ActiveAbilityDamageReduction_label"			"Giảm thiểu ST kĩ năng hiện có"
 		"ActiveAbilityDamageReduction_postfix"			"%"
 
-		"BonusAttackRange_postfix"						"meters"
-		"BonusAttackRange_label"						"Weapon Range"
+		"BonusAttackRange_postfix"						"mét"
+		"BonusAttackRange_label"						"Tầm công kích"
 
 		"BonusAttackRangePercent_prefix"				"{s:sign}"
 		"BonusAttackRangePercent_postfix"				"%"
-		"BonusAttackRangePercent_label"					"Weapon Fall-off Range"
+		"BonusAttackRangePercent_label"					"Tầm bắn ngoài phạm vi"
 
 		"WeaponRecoilReduction_postfix"					"%"
-		"WeaponRecoilReduction_label"					"Recoil Reduction"
+		"WeaponRecoilReduction_label"					"Giảm chấn/giật vũ khí"
 
 		"BonusDPSPercent_prefix"						"{s:sign}"
-		"BonusDPSPercent_label"						"Bullet Damage"
+		"BonusDPSPercent_label"						"Sát thương đạn"
 		"BonusDPSPercent_postfix"						"%"
 
-		"DroneHealth_label"							"Drone Health"
+		"DroneHealth_label"							"Máu của drone"
 
-		"DeployHealthRegen_label"						"Deployable Health"
+		"DeployHealthRegen_label"						"Hồi máu đặt vị trí"
 
-		"TurretFireRate_label"							"Turret Fire Rate"
+		"TurretFireRate_label"							"Tốc độ bắn ụ súng"
 		"TurretFireRate_prefix"							"+"
 		"TurretFireRate_postfix"						"%"
 
-		"TurretDPS_label"								"Turret DPS"
+		"TurretDPS_label"								"ST/giây của ụ súng"
 
-		"MobileResupplyRegenMultiplier_label"			"Mobile Resupply Regen Multiplier"
+		"MobileResupplyRegenMultiplier_label"			"Bội số cho Bộ hồi máu di động"
 		"MobileResupplyRegenMultiplier_postfix"			"x"
 
-		"HealRadius_label"								"Heal Radius"
+		"HealRadius_label"								"Bán kính hồi máu"
 		"HealRadius_postfix"								"m"
 
 		"BulletArmorReduction_prefix"					"{s:sign}"
@@ -870,7 +870,7 @@
 		"LocalBulletArmorReduction_label"				"Kháng đạn"
 
 		"LocalTechArmorReduction_prefix"				"{s:sign}"
-		"LocalTechArmorReduction_label"				"Magic Resist"
+		"LocalTechArmorReduction_label"				"Kháng ma pháp"
 		"LocalTechArmorReduction_postfix"				"%"
 
 		"BulletResistOnActive_label"					"OnActive - Bullet Resist"
@@ -920,7 +920,7 @@
 		"MoveSpeedMax_postfix"						" m/s"
 
 		"BulletDamagePercentAsTechDamage_label"		"Bonus Spirit Damage"
-		"BulletDamagePercentAsTechDamage_postfix"		"% Bullet Damage "
+		"BulletDamagePercentAsTechDamage_postfix"		"% Sát thương đạn "
 
 		"BonusCritDamagePercent_prefix"					"{s:sign}"
 		"BonusCritDamagePercent_label"				"Bonus Crit Damage"
@@ -1515,12 +1515,12 @@
 		"EMPDuration_label"				"Debuff Duration"
 		"EMPDuration_postfix"			"s"
 
-		"BonusBulletDamageToEMPTargets_label" "Bullet Damage to Silenced targets"
+		"BonusBulletDamageToEMPTargets_label" "Sát thương đạn to Silenced targets"
 		"BonusBulletDamageToEMPTargets_prefix" "+"
 		"BonusBulletDamageToEMPTargets_postfix" "%"
 		"modifier_silencer_proc_active"	"SILENCER"
 
-		"BulletDamageReflectedPct_label"					"Bullet Damage Returned"
+		"BulletDamageReflectedPct_label"					"Sát thương đạn Returned"
 		"BulletDamageReflectedPct_postfix"					"%"
 		"SpiritDamageReflectedPct_label"					"Spirit Damage Returned"
 		"SpiritDamageReflectedPct_postfix"					"%"
@@ -1683,7 +1683,7 @@
 		"citadel_ability_lightning_dodge"	"Lightning Roll"
 		"citadel_ability_lightning_dodge_passive"	"Lightning Roll"
 		"citadel_ability_basicdamagereflect"	"Reflect Basic Damage"
-		"citadel_ability_bullet_damage_amp_wall"	"Bullet Damage Amp Wall"
+		"citadel_ability_bullet_damage_amp_wall"	"Sát thương đạn Amp Wall"
 
 		"modifier_limit_ability_cooldown"		"Quick Cooldowns"
 
