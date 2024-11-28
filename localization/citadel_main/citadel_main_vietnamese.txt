@@ -12,7 +12,7 @@
 		"DontShowAgain"					"Không hiện lại"
 
 		"Citadel_PlaytestWarningTitle"							"Bản thử nghiệm sớm"
-		"Citadel_PlaytestWarningBody"							"Deadlock vẫn đang trong quá trình phát triển, với lối chơi đang thử nghiệm và các bản họa tạm thời. Vui lòng không phát tán ra ngoài."
+		"Citadel_PlaytestWarningBody"							"Chào mừng bạn đến Deadlock. Deadlock vẫn đang trong quá trình phát triển, với lối chơi đang thử nghiệm và các bản họa tạm thời. Mọi đóng góp được hoan nghênh đón chào!"
 		// Client only rich presence
 		"Citadel_RP_PendingReceived"							"Chờ kết bạn"
 		"Citadel_RP_PendingSent"								"Đã gửi yêu cầu kết bạn"
