@@ -351,6 +351,10 @@
 		"Citadel_Hero_Stats_Tooltip_Shards"							"Mệnh giá có sẵn để mua vật phẩm"
 		"Citadel_Hero_Stats_Souls"									"Linh hồn"
 		"Citadel_Hero_Stats_Unsecured"								"Không được bảo vệ"
+		"Citadel_Shop_Destroy_Item"									"Xác nhận bán vật phẩm"
+		"Citadel_Shop_Destroy_Item_Confirm"							"Bạn có chắc muốn bán {s:item_name} với giá {i:item_sell_amount} linh hồn (tức nửa giá bán gốc)?"
+		"Citadel_Hero_Stats_ItemValue"								"Tổng giá trị soạn đồ"
+
 
 		"Citadel_Shop_Purchased"									"Đã mua"
 		"Citadel_Shop_HoldAlt"										"Nhấn giữ <span class=\"keybind\">[{s:key_extra_info}]</span>"
@@ -2805,6 +2809,7 @@
 		"AbilityButtonHint_HatTrickFire"			"Bắn"
 		"AbilityButtonHint_HatTrickCancel"			"Trở lại"
 		"AbilityButtonHint_MeleeRejuvinator"		"Ấn giữ cận chiến để chiếm Vật tổ phục hưng"
+		"AbilityButtonHint_MeleePowerUp"				"Ấn giữ cận chiến để Tăng sức mạnh"
 		"AbilityButtonHint_ClimbRope"				"Giữ để leo dây"
 		
 
