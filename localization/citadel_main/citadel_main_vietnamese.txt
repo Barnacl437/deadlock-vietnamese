@@ -1314,6 +1314,7 @@
 		"Citadel_MatchDetails_Report"							"R"
 		"Citadel_MatchDetails_ReportTooltip"					"Bấm để tố cáo"
 		"Citadel_MatchDetails_Reported"							"Đã tố cáo!"
+		"Citadel_MatchDetails_CommendTooltip"					"Bấm để khen"
 		"Citadel_MatchDetails_Team1NetWorth"					"{i:team1_networth}k"
 		"Citadel_MatchDetails_Team2NetWorth"					"{i:team2_networth}k"
 		"Citadel_MatchDetails_Team1Name"						"{i:team2_networth}k"
@@ -1787,6 +1788,9 @@
 		"citadel_settings_volume"						"Âm lượng"
 		"citadel_settings_voice"						"Cài đặt âm"
 		"citadel_settings_game"							"Game"
+		"citadel_settings_skill_rating"					"Đánh giá kĩ năng"
+		"citadel_settings_skill_rating_notification"	"Hiện thông báo khi thay đổi điểm đánh giá"
+		"citadel_settings_skill_rating_post_game"		"Hiện đánh giá trung bình của phe khi kết trận"
 		"citadel_settings_network"						"Mạng"
 		"citadel_settings_mastervolume"					"Âm thanh tổng"
 		"citadel_settings_mastervolume_desc"			"Điều chỉnh âm thanh của toàn game"
@@ -1803,7 +1807,7 @@
 		"citadel_settings_voice_level"					"Âm lượng giọng nói"
 		"citadel_settings_openmicthreshold"				"Mức độ kích hoạt mic"
 		"citadel_settings_voice_always_sample_mic"		"Luôn thử mẫu mic"
-		"citadel_settings_invert_ping_desc"				"Kiểm tra invert ping. <br/> Mặc định: <br/> Single Ping = Passive. <br/> Double Ping = Aggressive <br/><br/>Invert:<br/>Single Ping = Aggressive <br/>Double Ping = Passive"
+		"citadel_settings_invert_ping_desc"				"Kiểm tra ping đảo ngược. <br/> Mặc định: <br/> Ping đơn = Thụ động. <br/> Ping kép = Chủ lực <br/><br/>Giá trị đảo ngược:<br/> Ping đơn = Chủ lực <br/>Ping kép = Thụ động"
 		"citadel_settings_openmicthreshold_desc"		"Chỉ truyển giọng nói khi âm lượng đầu vào vượt qua mức này. Áp dụng cho nhấn để nói và mở mic."
 		"citadel_settings_open_mic_desc"				"Kích hoạt mở mic"
 		"citadel_settings_monitor_mic_desc"				"Bật tùy chọn này để nghe âm phát từ mic bạn khi đang điều chỉnh cài đặt âm."
@@ -2499,28 +2503,45 @@
 
 		"Citadel_ranked_explainer_button"			"Đấu hạng là gì?"
 		"Citadel_ranked_explainer_title"			"Matchmaking xếp hạng"
+		"Citadel_core_skill_rating"					"Điểm đánh giá kĩ năng cốt lõi"
 		"Citadel_ranked_explainer_desc"				"Đấu hạng là một chế độ chơi cung cấp trải nghiệm chơi Deadlock cạnh tranh nơi bạn sẽ đối đầu với những người chơi khác có cùng kĩ năng để quyết định <em>Hạng kĩ năng</em> của bạn với người chơi toàn cầu.<br><br>Mỗi tuần, mọi người có thể tham gia tranh đua bằng cách chơi các trận đấu hạng trong thời gian mở trận ở khu vực gần nhất để trổ tài tỉ thí của họ."
+		"Citadel_Profile_Skill_Rating_Intro"		"Đánh giá kĩ năng là thước đo đánh giá hiệu suất chơi hiện tại và trước đây của một người chơi."
+		"Citadel_Profile_Skill_Rating_Tooltip"		"Đánh giá kĩ năng - bấm để thêm thông tin"
 		"Citadel_ranked_howitworks_title"			"Vậy nó hoạt động ra sao?"
-		"Citadel_ranked_howitworks_desc"			"Tất cả người chơi bắt đầu với một hạng tạm thời là Tăm tối, và bạn phải chơi 7 trận đấu xếp hạng mỗi tuần để có thể được chỉ tiêu xếp hạng cho tuần đó. Cuối tuần bạn sẽ được nhận thứ hạng, hiển thị trên hồ sơ của bạn như huy hiệu.<br><br>Nếu cuối tuần đó bạn vẫn chưa chơi đủ 7 trận xếp hạng, hạng hiển thị của bạn sẽ chuyển về Tăm tối và sẽ bị ẩn đến khi bạn đủ tiêu chí xếp hạng vào một tuần khác. Các thông số kĩ năng nội bộ vẫn sẽ được giữ lại và tối ưu hóa với các trận đấu hạng bạn chơi sau này, nhưng không hiển thị huy hiệu cho đến một thời điểm đã xác định.<br><br>Có 7 thứ hạng khác nhau, và mỗi thứ hạng sẽ có các cấp bậc từ I đến VI, sẽ chỉ điểm rõ vị trí của bạn trong thứ hạng cụ thể."
+		"Citadel_ranked_howitworks_desc"			"Tất cả người chơi bắt đầu với một hạng tạm thời là Tăm tối, và bạn phải chơi 7 trận đấu xếp hạng mỗi tuần để có thể được chỉ tiêu xếp hạng cho tuần đó. Cuối tuần bạn sẽ được nhận thứ hạng, hiển thị trên hồ sơ của bạn như huy hiệu.<br><br>Có 11 thứ hạng khác nhau, và mỗi thứ hạng sẽ có các cấp bậc từ I đến VI, sẽ chỉ điểm rõ vị trí của bạn trong thứ hạng cụ thể.<br> Mỗi tướng sẽ có một 'trọng lượng' matchmaking tương ứng với Điểm đánh giá kĩ năng cốt lõi (Core Skill Rating, có chỉ báo là mũi tên) của họ.<br>Các tướng không được chơi sẽ bắt đầu với trọng lượng tương đối thấp hơn với Điểm đánh giá trên.<br> Điểm này sẽ cập nhật ngay sau khi game kết thúc.<br>Chỉ có bạn mới xem được điểm đánh giá kĩ năng của bạn. "
 		"Citadel_ranked_rankedmedals"				"Thứ hạng:"
 		"Citadel_ranked_subranks_explainer"			"Cấp bậc: I, II, III, IV, V, <Panel class=\"starIcon\"></Panel>"
 
+		"Citadel_GlobalLeaderboard_Title"			"Bảng xếp hạng toàn cầu"
+		"Citadel_GlobalLeaderboard_Desc"			"Điểm đánh giá kĩ năng"
+		"Citadel_GlobalLeaderboard_Note"			"Cần tối thiểu {i:required_games_played} trận trong 30 ngày cuối để hiển thị trên bảng xếp hạng"
+		"Citadel_GlobalLeaderboard_HeroNote"		"Cần tối thiểu {i:required_games_played} trận chơi bằng {s:leaderboard_hero_name} trong 30 ngày cuối để hiển thị trên bảng xếp hạng"
+		"Citadel_GlobalLeaderboard_Player"			"Người chơi"
+		"Citadel_GlobalLeaderboard_Overall"			"Tổng quan"
+		"Citadel_GlobalLeaderboard_OverallRating"	"Đánh giá tổng quan"
+		"Citadel_GlobalLeaderboard_Error"			"Lỗi tải bảng xếp hạng"
+		"Citadel_GlobalLeaderboard_Empty"			"Bảng xếp hạng được chọn đang trống"
 
 		"Citadel_ranked_explainer_note"				"Thiết kế huy hiệu sẽ được tiết lộ khi các hạng được trao cho người chơi vào thứ ba, 22 tháng 10."
 
+		"Citadel_ranked_result_title"				"Đánh giá kĩ năng"
+		"Citadel_ranked_result_rankup"				"Điểm kĩ năng của bạn đã tăng"
+		"Citadel_ranked_result_adjustment"			"Điều chỉnh xếp hạng"
+		"Citadel_ranked_numGamesPlayed"				"{s:games_played} trận đã chơi"
+		"Citadel_ranked_match_history"				"Lịch sử trận:"
 
-		"Citadel_ranks_rank0"						"Tăm tối"
-		"Citadel_ranks_rank1"						"Khởi đầu"
-		"Citadel_ranks_rank2"						"Kiếm tìm"
-		"Citadel_ranks_rank3"						"Luyện kim"
-		"Citadel_ranks_rank4"						"Bí thuật"
-		"Citadel_ranks_rank5"						"Nghi thức"
-		"Citadel_ranks_rank6"						"Sứ giả"
-		"Citadel_ranks_rank7"						"Tiên tri"
-		"Citadel_ranks_rank8"						"Đại thần"
-		"Citadel_ranks_rank9"						"Bóng ma"
-		"Citadel_ranks_rank10"						"Cao thượng"
-		"Citadel_ranks_rank11"						"Vĩnh hằng"
+		"Citadel_ranks_rank0"						"Tăm tối"		// obscurus
+		"Citadel_ranks_rank1"						"Khởi đầu"		// initiate
+		"Citadel_ranks_rank2"						"Kiếm tìm"		// seeker
+		"Citadel_ranks_rank3"						"Luyện kim"		// alchemist
+		"Citadel_ranks_rank4"						"Bí thuật"		// arcanist
+		"Citadel_ranks_rank5"						"Nghi thức"		// ritualist
+		"Citadel_ranks_rank6"						"Sứ giả"		// emissary
+		"Citadel_ranks_rank7"						"Đại thần"		// archon
+		"Citadel_ranks_rank8"						"Tiên tri"		// oracle
+		"Citadel_ranks_rank9"						"Bóng ma"		// phantom
+		"Citadel_ranks_rank10"						"Cao thượng"	// ascendant
+		"Citadel_ranks_rank11"						"Vĩnh hằng"		// eternus
 
 		"Citadel_subranks_1"						"I"
 		"Citadel_subranks_2"						"II"

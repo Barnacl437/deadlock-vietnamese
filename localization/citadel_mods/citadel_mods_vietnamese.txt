@@ -9,10 +9,10 @@
 		//-----------------------------------------------------------------------------
 
 		//Basic Magazine
-		"upgrade_clip_size_desc"			"Increases <span class=\"highlight\">ammo</span>."
+		"upgrade_clip_size_desc"			"Tăng <span class=\"highlight\">lượng đạn</span>."
 
 		//Extended Magazine
-		"upgrade_clip_size_fixed_desc"		"Increases <span class=\"highlight\">ammo</span>."
+		"upgrade_clip_size_fixed_desc"		"Tăng <span class=\"highlight\">lượng đạn</span>."
 
 		//Extra Large Magazine
 		"upgrade_clip_size_fixed_t3_desc"		"Greatly Increases <span class=\"highlight\">ammo</span>."

@@ -1677,7 +1677,7 @@
 		"CloneDamageTakenIncreasePercent_prefix"		"{s:sign}"
 		"CloneDamageTakenIncreasePercent_postfix"		"%"
 
-		"ability_abort_cast"						"Abort"
+		"ability_abort_cast"						"Hủy"
 		"ability_cancel_channel"					"End Channel"
 
 		"citadel_ability_lightning_dodge"	"Lightning Roll"
