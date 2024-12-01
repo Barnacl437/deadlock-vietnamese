@@ -310,7 +310,7 @@
 
 				"Citadel_MatchInfo_Mode_Ranked"								"Đấu hạng"
 		"Citadel_MatchInfo_Mode_Standard"							"Tiêu chuẩn"
-		"Citadel_MatchInfo_Mode_HeroLabs"							"Thử tướng"
+		"Citadel_MatchInfo_Mode_HeroLabs"							"Thử nghiệm tướng"
 		"Citadel_MatchInfo_Mode_CoopBot"							"Coop"
 		"Citadel_MatchInfo_Mode_Private"							"Trận riêng"
 
@@ -538,7 +538,8 @@
 		"Citadel_PrivateLobby_PubliclyVisible_On"					"Mọi người đều thấy"
 		"Citadel_PrivateLobby_Duplicate_Heroes_Off"					"Trùng lặp tướng: tắt"
 		"Citadel_PrivateLobby_Duplicate_Heroes_On"					"Trùng lặp tướng: bật"
-
+	 	"Citadel_PrivateLobby_Experimental_Heroes_Off"				"Tướng thử nghiệm: tắt"
+		"Citadel_PrivateLobby_Experimental_Heroes_On"				"Tướng thử nghiệm: bật"
 		"Citadel_PrivateLobby_Cheats_Off"							"Gian lận tắt"
 		"Citadel_PrivateLobby_Cheats_On"							"Gian lận bật"
 		"Citadel_PrivateLobby_SwapTeams"							"Tráo đổi phe"
@@ -708,6 +709,10 @@
 		"Citadel_Roster_Instructions_Desc"							"Chọn tối thiểu 3 tướng, bạn sẽ được tự động đóng vai một nhân vật khi trận bắt đầu.<br><br>Bạn có thể đánh dấu tướng là <span class='selected'><b>Được chọn</b></span>, <span class='priority'><b>Ưu tiên</b></span>, hay <span class='high_priority'><b>Ưu tiên cao</b></span> để tăng tỷ lệ bạn chơi được tướng bạn muốn."
 		"Citadel_Roster_Instructions_Select"						"<span class='keybind'>{s:iv_attack}</span> để đánh dấu tướng được chọn"
 		"Citadel_Roster_Instructions_Prefer"						"<span class='keybind'>{s:iv_attack2}</span> để chuyển qua lại giữa <b>Ưu tiên</b> và <b>ưu tiên cao</b>"
+
+		"Citadel_Roster_Instructions_Title_HeroLabs"				"Thử nghiệm tướng"
+		"Citadel_Roster_Instructions_Desc_HeroLabs"					"Xếp hàng chơi các trận bằng tướng đang thử nghiệm.<br><br>Chọn tối thiểu 3 tướng, <b>trong số đó 2 tướng tiêu chuẩn không thử nghiệm.</b> Người chơi có thể có khả năng được chọn tướng thử nghiệm hơn từ danh sách dựa trên khoảng thời gian từ lúc đã chơi tướng thử nghiệm lần cuối."
+
 
 		"Citadel_ViewMatchID_Title"									"Xem trận bằng ID"
 		"Citadel_ViewMatchID_Desc"									"Nhập ID trận để xem chi tiết"
@@ -1046,6 +1051,10 @@
 		"Citadel_StartMatchmaking_InParty"							"Bạn không thể tự tạo trận vì đang trong đội."
 		"Citadel_StartMatchmaking_InvalidHeroSelection"				"Bạn chưa chọn được tướng hợp lệ để tạo trận."
 		"Citadel_StartMatchmaking_HeroRosterTooPopular"				"Danh sách tướng của bạn không chứa tướng nào chưa được chọn"
+		"Citadel_StartMatchmaking_NoRegionPings"					"Không thể kết nối với máy chủ chuyển tiếp gói tin Steam (datagram relay).  Nếu bạn có kết nối Internet rồi, có lẽ vấn đề xuất phát từ cấu hình tường lửa, kích thước truyền gói tin tối đa (MTU), hoặc do đường truyền kết nối của bạn."
+		"Citadel_StartMatchmaking_HeroLabsMMNotOpen"				"Matchmaking Thử nghiệm tướng hiện không khả dụng."
+		"Citadel_StartMatchmaking_HeroLabsNotUnlocked"				"Bạn chưa có mở khóa matchmaking Thử nghiệm tướng."
+		"Citadel_StartMatchmaking_NoHeroLabsWhileInLowPri"			"Matchmaking Thử nghiệm tướng không được phép khi bị hình phạt ưu tiên thấp."
 		"Citadel_StopMatchMaking_FailedToGetResponse"				"Tạo trận đã dừng. Không nhận được phản hồi từ GC"
 		"Citadel_StopMatchMaking_GeneralError"						"Không thể tạo trận, thử lại sau"
 		"Citadel_LeaveLobby_FailedToGetResponse"					"Không thể dừng tạo trận, thử lại sau."
@@ -1326,6 +1335,10 @@
 		"Citadel_HeroPage_EditBuild"							"Tạo/sửa build"
 		"Citadel_HeroPage_Complexity"							"Độ phức tạp"
 
+		"Citadel_HeroPage_HeroLabs_Title"						"Các tướng đang thử nghiệm sẽ trải qua nhiều thay đổi thường xuyên."
+		"Citadel_HeroPage_HeroLabs_Button"						"Xem lịch sử thay đổi"
+
+
 		"Citadel_MatchDetails_ViewGraphs"						"Xem biểu đồ tóm tắt"
 		"Citadel_MatchDetails_Report"							"R"
 		"Citadel_MatchDetails_ReportTooltip"					"Bấm để tố cáo"
@@ -1558,7 +1571,26 @@
 		"Citadel_HeroBuilds_EditingBuildTitle"			"Sửa build:"
 		"Citadel_HeroBuilds_EditingBuildSubheader"		"{s:selected_hero_build_name}"
 
-		"Citadel_HeroBuilds_AP_Next_Indicator"			"Suggested"
+		"Citadel_HeroBuilds_AP_Next_Indicator"			"Được khuyến nghị"
+
+		
+		"Citadel_HeroLabsPatchNotes_PopupTitle"			"Các thay đổi cho {s:hero_name}"
+
+
+		// SteamShare
+		"Citadel_Steamshare_Title_Kill_Player"			"Diệt"
+		"Citadel_Steamshare_Desc_Kill_Player"			"Đã tiêu diệt %victim_name%"
+
+		"Citadel_Steamshare_Title_Death_Player"			"Chết"
+		"Citadel_Steamshare_Desc_Death_Player"			"Bạn đã bị %killer_name% tiêu diệt"
+
+
+		"Citadel_Steamshare_Title_Allied_ObjectiveDestroyed"	"Đồng minh của %victim_name%"
+		"Citadel_Steamshare_Desc_Allied_ObjectiveDestroyed"	    "%victim_name% của bạn bị phá hủy"
+
+		"Citadel_Steamshare_Title_Enemy_ObjectiveDestroyed"		"Đối phương của %victim_name%"
+		"Citadel_Steamshare_Desc_Enemy_ObjectiveDestroyed"	    "%victim_name% địch đã bị phá hủy"
+
 
 		// Unit names
 		"guardian_unit"							"Lính hộ vệ"
