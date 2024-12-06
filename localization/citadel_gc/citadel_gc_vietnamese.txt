@@ -310,6 +310,7 @@
 		"upgrade_close_quarter_combat"			"Điểm trống không"
 		"upgrade_headshot_booster"				"Công lực headshot"
 		"upgrade_sharpshooter"					"Phát súng sắc bén"
+		"upgrade_headhunter"					"Thợ săn đầu người"
 		"upgrade_banshee_slugs"					"Phát súng tàn phế"
 		"upgrade_berserker"						"Cuồng bạo giả"
 		"upgrade_fervor"						"Cuồng nhiệt"
