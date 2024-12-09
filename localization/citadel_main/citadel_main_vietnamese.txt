@@ -433,6 +433,8 @@
 		"Citadel_MatchSurvey_Title"							"Khảo sát trận đấu"
 		"Citadel_MatchSurvey_Submit"						"GỬI"
 		"Citadel_MatchSurvey_Skip"							"BỎ QUA"
+		"Citadel_MatchSurvey_FreeformPlaceholder"			"Chia sẻ phản hồi của bạn về trận vừa xong..."
+
 
 		"Citadel_JoinForum_Title"							"Truy cập forum"
 		"Citadel_JoinForum_ErrorTitle"						"Không thể tham gia forum"
@@ -668,6 +670,13 @@
 		"Citadel_Party_DisabledInMMTooltip"							"Không thể chấp nhận lời mời trong khi đang tìm trận"
 		"Citadel_Party_DeclineInviteTooltip"						"Hủy lời mời"
 		"Citadel_Party_OutOfDateClientTooltip"						"Game chưa được cập nhật"
+		"Citadel_Party_InviteSent"									"Đã gửi lời mời"
+
+		
+		"Citadel_QueueOptions_Button"								"Tùy chọn tìm trận"
+		"Citadel_QueueOptions_Modal_Title"							"Tùy chọn tìm trận"
+		"citadel_settings_mm_preference_text"						"Siêu cạnh tranh"
+		"citadel_settings_mm_preference_serious_desc"				"Bạn chọn tạo trận với những người đang tìm kiếm một độ khó thứ thiệt và cấp độ định vị, giao tiếp cao hơn."
 
 		"Citadel_RosterMode_Party_Matchmaking"						"Tìm trận chơi đội"
 		"Citadel_RosterMode_Party_CoopBotMM"						"Tìm trận chơi đội với bot"
@@ -1855,7 +1864,7 @@
 		"citadel_settings_voice_level"					"Âm lượng giọng nói"
 		"citadel_settings_openmicthreshold"				"Mức độ kích hoạt mic"
 		"citadel_settings_voice_always_sample_mic"		"Luôn thử mẫu mic"
-		"citadel_settings_invert_ping_desc"				"Kiểm tra ping đảo ngược. <br/> Mặc định: <br/> Ping đơn = Thụ động. <br/> Ping kép = Chủ lực <br/><br/>Giá trị đảo ngược:<br/> Ping đơn = Chủ lực <br/>Ping kép = Thụ động"
+		"citadel_settings_invert_ping_desc"				"Kiểm tra ping đảo ngược. Mặc định: Ping đơn = Thụ động, Ping kép = Chủ lực; Giá trị đảo ngược: Ping đơn = Chủ lực, Ping kép = Thụ động"
 		"citadel_settings_openmicthreshold_desc"		"Chỉ truyển giọng nói khi âm lượng đầu vào vượt qua mức này. Áp dụng cho nhấn để nói và mở mic."
 		"citadel_settings_open_mic_desc"				"Kích hoạt mở mic"
 		"citadel_settings_monitor_mic_desc"				"Bật tùy chọn này để nghe âm phát từ mic bạn khi đang điều chỉnh cài đặt âm."
@@ -1926,6 +1935,7 @@
 		"citadel_settings_alt_cast_double_tap_window"		"Kích hoạt thay thế, gõ đúp cửa sổ"
 		"citadel_settings_alt_cast_hold_time"			"Kích hoạt thay thế, thời gian ấn giữ yêu cầu"
 		"citadel_settings_cancel_ability_mode"				"Đổi chế độ hủy kĩ năng:"
+		"citadel_settings_cancel_ability_mode_desc"		"Lưu ý: Kĩ năng sẽ bị hủy bằng nút hủy nếu có thể."
 		"citadel_settings_cancel_ability_mode_cancel_key"	"Phím hủy"
 		"citadel_settings_cancel_ability_mode_ability_key"	"Phím kĩ năng"
 		"citadel_settings_cancel_ability_mode_either"	"Phím hủy hay phím kĩ năng"
@@ -1965,6 +1975,9 @@
 		"citadel_settings_ui_language"					"Ngôn ngữ:"
 		"citadel_settings_language_change_title"		"Yêu cầu khởi động lại game"
 		"citadel_settings_language_change_body"			"Khởi động lại client để áp dụng thay đổi ngôn ngữ."
+		"citadel_settings_show_telemtry_settings"		"Hiển thị số liệu (Telemetry HUD)"
+		"citadel_settings_telemtry_settings_info_desc"	"Hãy mở trang hỗ trợ của Source2 Telemetry HUD để biết thêm thông tin về Telemetry HUD"
+
 
 		"citadel_settings_chat"							"Trò chuyện"
 		"citadel_settings_chat_filter_onlyfriends"		"Chỉ hiển thị trò chuyện từ bạn bè và cùng đội"
@@ -2150,6 +2163,34 @@
 		"citadel_settings_gsync_enabled"				"Đã bật"
 		"citadel_settings_gsync_disabled"				"Đã tắt"
 
+		"Citadel_Settings_Telemetry_SectionHeader"		"HUD Telemetry"
+		"Citadel_Settings_HudTelemetry_FrameTime" "Hiện độ trễ khung và FPS"
+		"Citadel_Settings_HudTelemetry_FrameTime_Info" "Hiển thị độ trễ khung lớn nhất theo milligiây, và bộ đếm khung hình/giây hiện thời."
+		 
+		"Citadel_Settings_HudTelemetry_FrameTimePoor" "Ngưỡng cảnh báo độ trễ khung"
+		"Citadel_Settings_HudTelemetry_FrameTimePoor_Info" "Khi độ trễ vượt mức này, kết nối mạng được coi là 'kém'."
+		"Citadel_Settings_HudTelemetry_FrameTimePoor_Slider_Display" "{f:1:ms}ms = {f:0:fps}FPS"
+		 
+		"Citadel_Settings_HudTelemetry_Ping" "Hiện ping"
+		"Citadel_Settings_HudTelemetry_Ping_Info" "Hiển thị độ trễ truyền gói tin đến máy chủ theo milligiây."
+
+		
+		"Citadel_Settings_HudTelemetry_NetworkMissedTicks" "Hiện vấn đề kết nối (tick bị hụt do mất mát / jitter)"
+		"Citadel_Settings_HudTelemetry_NetworkMissedTicks_Info" "Hiển thị phần trăm tick bị thiếu ở thời điểm cần do vấn đề đường truyền hay sự trễ trong truyền tải.\nGiá trị trong mỗi hướng (tải lên và tải xuống từ máy chủ) được hiển thị.\n\nLỗi truyền tải trên mạng có thể tự khắc phục, và các tick bị thiếu sẽ được bù vào bằng bộ đệm bổ sung.  Giá trị này chỉ tính các tick bị thiếu do vấn đề mạng và chưa được khắc phục."
+		 
+		"Citadel_Settings_HudTelemetry_NetworkMissedTicksPoor" "Ngưỡng cảnh báo thiếu tick trên đường truyền"
+		"Citadel_Settings_HudTelemetry_NetworkMissedTicksPoor_Info" "Khi phần trăm tick bị mất trong quá trình truyền tải vượt mức này, kết nối mạng được coi là 'kém'."
+		 
+		"Citadel_Settings_HudTelemetry_NetworkQualityDetailed" "Hiển thị chất lượng mạng chi tiết"
+		"Citadel_Settings_HudTelemetry_NetworkQualityDetailed_Info" "Hiện thông tin mạng trên hai dòng.  Bổ sung thêm cùng với ping và thiếu tick, chế độ này cũng cho thấy sự mất mát gói tin thô và đo độ jitter."
+		 
+		"Citadel_Settings_HudTelemetry_NetworkQualityGraph" "Hiện jitter mạng / biểu đồ lỗi truyền tải"
+		"Citadel_Settings_HudTelemetry_NetworkQualityGraph_Info" "Hiển thị biểu đồ theo thời gian thực.  Các trạng thái lỗi truyền tải (mất mát, sắp đặt lại hay jitter vượt mức) được đánh dấu."
+
+
+		"Citadel_Settings_HudTelemetry_Show_Never" "Không"
+		"Citadel_Settings_HudTelemetry_Show_OnlyInPoorConditions" "Nếu kết nối kém"
+		"Citadel_Settings_HudTelemetry_Show_Always" "Có"
 
 		"citadel_keybind_alt"							"ALT"
 		"citadel_keybind_shift"							"SHIFT"
@@ -2161,6 +2202,10 @@
 		"citadel_keybind_ability2"						"Kĩ năng 2"
 		"citadel_keybind_ability3"						"Kĩ năng 3"
 		"citadel_keybind_ability4"						"Kĩ năng 4"
+		"citadel_keybind_upgrade_ability1"				"Nâng cấp kĩ năng 1"
+		"citadel_keybind_upgrade_ability2"				"Nâng cấp kĩ năng 2"
+		"citadel_keybind_upgrade_ability3"				"Nâng cấp kĩ năng 3"
+		"citadel_keybind_upgrade_ability4"				"Nâng cấp kĩ năng 4"
 		"citadel_keybind_item1"							"Vật phẩm 1"
 		"citadel_keybind_item2"							"Vật phẩm 2"
 		"citadel_keybind_item3"							"Vật phẩm 3"
@@ -2215,18 +2260,28 @@
 		"citadel_keybind_roll"							"Phi"
 		"citadel_keybind_reload"						"Nạp đạn"
 		"citadel_keybind_pause"							"Tạm dừng"
+		"citadel_keybind_zipline"						"Zipline"
 		"citadel_keybind_toggle_mute"					"Bật/tắt tiếng"
 		"citadel_keybind_crouch"						"Cúi/trượt"
+		"citadel_keybind_crouch_toggle"					"Chuyển chế độ cúi/trượt"
 		"citadel_keybind_push_to_talk"					"Nhấn để nói"
 		"citadel_keybind_push_to_talk_party"			"Nhấn để nói trong đội"
 		"citadel_reset_keybind"							"Đặt lại cấu hình phím?"
 		"citadel_confirm_reset_keybindings"				"Bạn có muốn đặt lại cấu hình phím về mặc định không?"
+			"citadel_confirm_reset_keybindings_for_hero"	"Bạn có muốn đặt lại cấu hình phím nóng cho tướng này về mặc định?"
+		"citadel_confirm_reset_keybindings_for_default"	"Bạn có muốn đặt lại phím nóng mặc định về cấu hình mặc định?"
+
 		"citadel_switch_camera_teammate_1"				"Theo dõi đồng đội 1"
 		"citadel_switch_camera_teammate_2"				"Theo dõi đồng đội 2"
 		"citadel_switch_camera_teammate_3"				"Theo dõi đồng đội 3"
 		"citadel_switch_camera_teammate_4"				"Theo dõi đồng đội 4"
 		"citadel_switch_camera_teammate_5"				"Theo dõi đồng đội 5"
 		"citadel_keybind_toggle_free_cursor"			"Kích hoạt con trỏ mở"
+		"citadel_keybind_minimap_view_amber_team"		"Góc nhìn minimap Amber"
+		"citadel_keybind_minimap_view_sapphire_team"	"Góc nhìn minimap Sapphire"
+		"citadel_keybind_minimap_view_spectator_team"	"Góc nhìn minimap cả hai phe"
+		"citadel_keybind_minimap_view_targets_team"		"Góc nhìn minimap mục tiêu"
+		
 
 		"citadel_mute_game_audio"						"Tắt tiếng game"
 		"citadel_unmute_game_audio"						"Mở tiếng game"
