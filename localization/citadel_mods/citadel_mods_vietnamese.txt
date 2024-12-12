@@ -109,8 +109,8 @@
 		//Heroic Aura
 		"upgrade_dps_aura_active_desc"	"Cung cấp thêm <span class=\"highlight\">tốc độ di chuyển</span> và <span class=\"highlight\">tốc độ bắn</span> đến bạn và đồng minh xung quanh."
 		"upgrade_dps_aura_desc"			"Cung cấp <span class=\"highlight\">tốc độ bắn</span> đến lính tráng xung quanh."
-		"modifier_dps_aura_active"		"Heroic Active"
-		"modifier_dps_aura_player"		"Heroic Firerate"
+		"modifier_dps_aura_active"		"Hiệu ứng anh hùng hoạt động"
+		"modifier_dps_aura_player"		"Tốc độ bắn hiệu ứng"
 
 		"BonusBaseDamage_label"			"Base Bullet and Melee Damage"
 		"BonusBaseDamage_postfix"		"%"
